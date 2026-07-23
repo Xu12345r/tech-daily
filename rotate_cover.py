@@ -10,7 +10,7 @@ COVERS = [
     'images/doubao_biotech_sm.jpg',     # 生物&能源
 ]
 INDEX = '/Users/jalleen/Desktop/tech-daily/index.html'
-BASE = 'https://tech-daily-tau.vercel.app'
+BASE = 'https://www.techdly.com'
 
 today = date.today()
 idx = today.toordinal() % 4
