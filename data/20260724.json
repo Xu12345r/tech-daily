@@ -1,0 +1,116 @@
+{
+  "date": "2026-07-24",
+  "weekday": "周五",
+  "lunar": "农历六月十一",
+  "cover_quote": "博观而约取，厚积而薄发。—— 苏轼",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "谷歌AI投入致首现负现金流",
+          "body": "谷歌公布史上首次负现金流季度财报，主因AI基础设施巨额投入远超营收增长。此举暴露AI竞赛惊人资本消耗速度，即使科技巨头也难以承受。市场开始质疑AI大规模投资的边际回报率，可能加速行业从烧钱扩张转向效率优先的理性阶段，小型AI公司将面临更大融资压力。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com"
+        },
+        {
+          "id": "02",
+          "title": "美创始人反对禁中国开源AI",
+          "body": "多家美国AI初创企业创始人联名致信白宫，敦促政府勿禁止中国开源AI模型的使用与分发。他们认为禁令将切断美国开发者获取前沿开源技术的渠道，反而削弱美国AI竞争力。此举凸显开源生态已成为全球AI创新的关键纽带，技术脱钩政策正面临来自产业界的强力反弹。",
+          "source": "Politico",
+          "source_url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992"
+        },
+        {
+          "id": "03",
+          "title": "深度求索增资65%押AGI",
+          "body": "DeepSeek今年已完成两次增资，注册资本从1000万元增至约1650万元，增幅达65%。创始人梁文锋在投资人闭门会上明确表态，公司唯一主线是通往通用人工智能。此举表明中国头部AI公司正加速资本储备，以AGI为终极目标进行长期战略布局，行业竞争进入更高维度。",
+          "source": "36氪",
+          "source_url": "https://36kr.com"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "平头哥百亿营收后布局生态",
+          "body": "阿里旗下芯片公司平头哥营收突破百亿后，宣布将战略重心从芯片硬件延伸至软件工具链与开发者生态建设。平头哥认为下一阶段竞争核心在芯片之外的软件层。这标志着中国半导体产业正从单纯追求芯片自研转向构建完整生态闭环，与英伟达CUDA模式的竞争进入新阶段。",
+          "source": "InfoQ",
+          "source_url": "https://www.infoq.cn"
+        },
+        {
+          "id": "05",
+          "title": "马斯克开源Grok Build",
+          "body": "马斯克旗下xAI连夜开源Grok Build编程工具，84万行Rust代码全部公开，20小时内获超万星。但社区审查发现代码中仍保留上传用户整个代码库的痕迹，引发隐私争议。此次开源既是透明化举措，也暴露了AI编程工具处理用户数据的安全性仍存在根本性挑战。",
+          "source": "InfoQ",
+          "source_url": "https://www.infoq.cn"
+        },
+        {
+          "id": "06",
+          "title": "大疆系水下AI公司获投资",
+          "body": "由大疆前核心团队创立的水下AI探索公司Deeplore获五源资本与顺为资本数千万种子轮投资，首创水下光学系统。团队将无人机领域的技术积累迁移至深海场景。此举标志着中国硬科技创业正从无人机向水下机器人赛道延伸，消费级水下AI智能装备市场有望被激活。",
+          "source": "36氪",
+          "source_url": "https://36kr.com"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "天文学家或发现首颗系外卫星",
+          "body": "欧洲南方天文台发布消息，天文学家可能首次探测到太阳系外行星的卫星信号。该候选系外卫星围绕一颗气态巨行星运行，若获确认将改写天体物理学教科书。系外卫星的发现将极大拓展人类对行星系统形成机制的理解，并为寻找地外宜居环境开辟全新方向，有望成为本世纪天文学里程碑式发现之一。",
+          "source": "ESO",
+          "source_url": "https://www.eso.org/public/news/eso2610/"
+        },
+        {
+          "id": "08",
+          "title": "美空军AI控F-16试飞成功",
+          "body": "DARPA与美国空军联合宣布，AI自主控制的F-16战斗机成功完成一系列战术飞行测试，包括空战机动和编队协同。AI驾驶员展现出超越人类飞行员的反应速度和战术决策能力。这标志着自主空战系统从实验室走向实战验证的关键一步，可能重塑未来空战的形态与规则。",
+          "source": "DARPA",
+          "source_url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16"
+        },
+        {
+          "id": "09",
+          "title": "新原子通道分离稀土元素",
+          "body": "芝加哥大学研究人员开发出一种固态原子通道材料，能以更清洁高效的方式分离稀土元素，无需传统工艺中大量使用的有毒溶剂。该技术有望大幅降低稀土提纯的环境代价与能源消耗。全球稀土供应链长期受制于高污染工艺，此项突破对新能源与电子产业发展具有重要战略意义。",
+          "source": "UChicago PME",
+          "source_url": "https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "80万基因疗法未救回女孩",
+          "body": "《科学》杂志披露，一对夫妇花费超80万美元为女儿接受基因编辑治疗后，患儿不幸离世，且该事件此前从未被公开。此案引发对高价基因疗法临床试验透明度和监管漏洞的严重质疑。该事件可能推动全球基因治疗监管体系改革，强化对未公开不良事件的强制披露要求。",
+          "source": "Science",
+          "source_url": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public"
+        },
+        {
+          "id": "11",
+          "title": "神经科学证实手写有益大脑",
+          "body": "神经科学研究表明，手写过程能激活大脑中与记忆、学习和认知控制相关的广泛神经网络，其效果显著优于键盘输入。脑电图数据显示手写触发的大脑连接模式更为复杂。在教育日益数字化的趋势下，这一发现为保留手写教学提供了科学依据，促使教育者重新审视书写方式选择。",
+          "source": "Neal Stephenson",
+          "source_url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your"
+        },
+        {
+          "id": "12",
+          "title": "细菌进化侵入大脑引医学警示",
+          "body": "《Ars Technica》报道一例罕见病例：女性尿路感染两年后，致病菌进化并侵入其大脑组织。该案例展示了细菌在慢性感染环境中惊人的适应与进化能力。这一发现警示医学界，长期低剂量抗生素使用可能为病原体进化提供温床，需要重新评估慢性感染的临床管理策略。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com"
+        }
+      ]
+    }
+  ]
+}
