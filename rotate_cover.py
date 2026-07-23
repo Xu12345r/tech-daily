@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """Daily cover image rotation for tech-daily."""
 import re
-import shutil
 from datetime import date
 
 COVERS = [
@@ -11,17 +10,12 @@ COVERS = [
     'images/doubao_biotech_sm.jpg',     # 生物&能源
 ]
 INDEX = '/Users/jalleen/Desktop/tech-daily/index.html'
-BASE = 'https://that-age-cloth-visibility.trycloudflare.com'
+BASE = 'https://tech-daily-tau.vercel.app'
 
 today = date.today()
 idx = today.toordinal() % 4
-cover_src = COVERS[idx]
+cover_url = f'{BASE}/{COVERS[idx]}'
 month_day = f'{today.month}月{today.day}日'
-dst = f"cover_{today.strftime('%m%d')}.jpg"
-
-# Copy to unique filename (bypass WeChat cache)
-shutil.copy(cover_src, dst)
-url = f'{BASE}/{dst}'
 
 with open(INDEX, 'r') as f:
     html = f.read()
@@ -34,7 +28,7 @@ new_html = re.sub(
 
 new_html = re.sub(
     r'<meta property="og:image" content="[^"]*"',
-    f'<meta property="og:image" content="{url}"',
+    f'<meta property="og:image" content="{cover_url}"',
     new_html
 )
 
@@ -47,4 +41,4 @@ new_html = re.sub(
 with open(INDEX, 'w') as f:
     f.write(new_html)
 
-print(f'Cover rotated: {dst} ({url}) | Date: {month_day}')
+print(f'Cover rotated: {cover_url} | Date: {month_day}')
