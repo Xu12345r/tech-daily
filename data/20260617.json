@@ -1,0 +1,104 @@
+{
+  "date": "2026-06-17",
+  "weekday": "周三",
+  "lunar": "农历五月初三",
+  "cover_quote": "俱怀逸兴壮思飞，欲上青天揽明月。—— 李白",
+  "categories": [
+    {
+      "name": "AI 前沿",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "SpaceX 600亿美元收购AI编程平台Cursor",
+          "body": "创航天与AI交叉领域最大并购纪录。此举将AI编码能力深度整合进航天工程，标志着太空技术与人工智能融合进入全新阶段，可能重塑航天软件研发范式。",
+          "source": "Ars Technica / HN(826分)"
+        },
+        {
+          "id": "02",
+          "title": "本地大模型运行正式进入实用时代",
+          "body": "\"Running local models is good now\"登上Hacker News榜首获958分。开源模型性能飞跃使消费级硬件即可运行高质量LLM，AI民主化从云端走向边缘，将深刻改变隐私保护、离线应用和开发者工具链格局。",
+          "source": "Hacker News (958分)"
+        },
+        {
+          "id": "03",
+          "title": "OpenAI秘密提交IPO申请，或成AI史上最大融资",
+          "body": "OpenAI已向SEC秘密提交IPO申请，同期GPT-5.5与Codex正式登陆Amazon Bedrock。AI行业从烧钱研发进入资本市场收割期，估值可能刷新科技IPO纪录。",
+          "source": "InfoQ CN"
+        },
+        {
+          "id": "04",
+          "title": "Anthropic暂停Claude Agent SDK按Token计费",
+          "body": "紧急暂停token计费模式，原计划将大幅增加重度用户成本。反映AI平台在商业化变现与开发者生态之间的艰难平衡，将深刻影响企业级AI定价策略。",
+          "source": "Ars Technica"
+        }
+      ]
+    },
+    {
+      "name": "安全",
+      "icon": "🔒",
+      "items": [
+        {
+          "id": "05",
+          "title": "GitHub Copilot严重漏洞可窃取用户2FA验证码",
+          "body": "SearchLeak漏洞揭示LLM安全防护的系统性失败——攻击者可窃取2FA验证码。暴露大模型嵌入开发工具链带来的新型攻击面，行业亟需重构AI应用安全范式。",
+          "source": "Ars Technica"
+        }
+      ]
+    },
+    {
+      "name": "硬件与机器人",
+      "icon": "🦾",
+      "items": [
+        {
+          "id": "06",
+          "title": "海洋具身智能公司世航智能获创纪录10亿融资",
+          "body": "将AI与海洋工程机器人深度结合，创细分赛道融资纪录。朱啸虎押注，标志具身智能从实验室验证迈入产业化拐点。",
+          "source": "36氪"
+        },
+        {
+          "id": "07",
+          "title": "高通新一代芯片预示更强智能眼镜问世",
+          "body": "能效与AI算力大幅跃升，为独立AR眼镜铺平道路。AR设备将摆脱\"手机配件\"定位，消费级AR的iPhone时刻逼近。",
+          "source": "The Verge"
+        },
+        {
+          "id": "08",
+          "title": "Arm神经渲染首登移动端，手游画质跨入电影级",
+          "body": "Arm神经技术与虚幻引擎MegaLights首次在移动端结合落地。移动GPU从纯图形转向\"图形+神经\"协同，彻底改写手游视觉标准。",
+          "source": "InfoQ CN"
+        }
+      ]
+    },
+    {
+      "name": "航天与商业",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "09",
+          "title": "中国一箭八星成功发射，遥感星座加速组网",
+          "body": "吉星高分07C04星等8颗卫星成功发射，中国航天进入常态化高频阶段。商业航天发射生态日趋成熟。",
+          "source": "36氪"
+        },
+        {
+          "id": "10",
+          "title": "OpenAI审计财务泄露：年亏损数十亿美元",
+          "body": "经审计财务文件显示收入快速增长但年亏损数十亿美元。IPO前泄露揭示AI头部企业需天文数字级资本持续输血。",
+          "source": "Ars Technica"
+        },
+        {
+          "id": "11",
+          "title": "微软Foundry推出生产级AI智能体运行时",
+          "body": "Build 2026推出Foundry智能体运行时，补齐工具链到管控全套能力。企业AI从\"用模型聊天\"跨入\"用智能体干活\"。",
+          "source": "InfoQ CN"
+        },
+        {
+          "id": "12",
+          "title": "智源大会：具身智能可能是中国的AlphaGo时刻",
+          "body": "圆桌嘉宾反驳\"卖水生意\"等悲观论调，提出具身智能可能是中国AlphaGo时刻。AI学界重心正从纯语言模型向物理世界智能迁移。",
+          "source": "InfoQ CN"
+        }
+      ]
+    }
+  ]
+}

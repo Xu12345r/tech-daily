@@ -1,0 +1,116 @@
+{
+  "date": "2026-07-21",
+  "weekday": "周二",
+  "lunar": "农历六月初八",
+  "cover_quote": "工欲善其事，必先利其器。——《论语》",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "中国开源AI全球领先",
+          "body": "中国开源AI模型千问、Kimi等在多项基准测试中超越美国闭源模型，在Hacker News引发873分热议，分析认为中国开源策略正在获胜。这标志着全球AI竞争从模型能力比拼转向生态构建竞赛，开源开放路线展现强大的社区驱动创新优势。此举将重塑全球AI产业格局，推动开发者生态从依赖少数闭源巨头转向多元开源协作的新范式。",
+          "source": "werd.io",
+          "source_url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/"
+        },
+        {
+          "id": "02",
+          "title": "AI Agent算力告急",
+          "body": "AI智能体规模化部署导致算力消耗远超预期，传统按量计费的风控模型已无法匹配智能体高频、长时、多轮推理的消费模式。这暴露出AI基础设施商业化与Agent技术演进之间的结构性错配，算力经济学亟待重构。新的计费范式将直接影响企业AI Agent落地成本，推动云厂商从资源售卖转向智能体全生命周期服务模式转型。",
+          "source": "InfoQ",
+          "source_url": "https://www.infoq.cn/article/secM60Za0CNxIYvQO47m"
+        },
+        {
+          "id": "03",
+          "title": "火山Agent多模态底座",
+          "body": "火山引擎发布面向Agent时代的多模态传输底座，专为豆包视频通话等场景优化，实现音视频、文本等多模态数据的低延迟实时交互。这标志着AI基础设施从单模态API调用向多模态Agent原生架构演进，填补了实时多模态Agent缺失的传输层空白。此举将加速AI助手从文字对话升级为具备视听交互能力的全能智能体，推动人机交互进入多模态时代。",
+          "source": "InfoQ",
+          "source_url": "https://www.infoq.cn/article/GICIrEsTJwEgGsDYFvCM"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "毛绒人形机器人新物种",
+          "body": "创业公司推出一款80cm高的毛绒材质人形机器人，搭载自研OS操作系统，定位面向家庭陪伴与教育场景。传统人形机器人追求工业级精度与金属质感，该产品以柔软、安全的差异化路线开辟消费级新赛道，挑战行业固有设计范式。毛绒形态降低了用户心理门槛和制造成本，有望推动人形机器人从实验室和工厂走进千家万户，开启情感计算与消费机器人融合的新篇章。",
+          "source": "36kr",
+          "source_url": "https://36kr.com"
+        },
+        {
+          "id": "05",
+          "title": "清华量子计算数亿融资",
+          "body": "清华系量子计算企业获君联资本领投数亿元融资，同时打破原子捕获技术世界纪录。量子计算正从实验室验证阶段加速迈向工程化与商用化，资本持续加注表明赛道信心不减。原子捕获路线在量子比特相干时间和操控精度上具备独特优势，此轮融资将推动中国在量子计算硬件赛道形成差异化竞争力，加速从科研探索到产业落地的关键跨越。",
+          "source": "36kr",
+          "source_url": "https://36kr.com"
+        },
+        {
+          "id": "06",
+          "title": "灵睿智芯RISC-V融资",
+          "body": "灵睿智芯完成数亿元融资，押注RISC-V架构在智能体时代的算力机遇。在全球芯片架构竞争加剧背景下，RISC-V凭借开源、灵活、可定制的特性成为突破ARM与x86双寡头格局的关键变量。智能体对边缘算力和定制化芯片的需求激增为RISC-V提供了历史性窗口，此轮融资标志着中国在开源芯片生态领域的战略布局进入加速期。",
+          "source": "InfoQ",
+          "source_url": "https://www.infoq.cn/article/AlwgmgVxh7Q25NxgGrEI"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "星舰第13次试飞推迟",
+          "body": "SpaceX宣布将星舰第13次综合试飞从原定日期推迟至7月23日，未公布具体延迟原因。星舰项目作为人类迄今最大运力火箭，其试飞进度直接关系NASA阿尔忒弥斯登月计划和美国深空探索时间表。频繁推迟反映出超重型火箭系统集成的高度复杂性，也对商业航天以迭代试错为核心的发展模式提出了节奏控制的新考验。",
+          "source": "SpaceX",
+          "source_url": "https://36kr.com"
+        },
+        {
+          "id": "08",
+          "title": "太空军300亿发射招标",
+          "body": "美国太空军启动总额高达300亿美元的火箭发射服务采购招标，规模空前。这是太空军史上最大单笔发射合同，涉及国家安全卫星星座部署和太空作战能力建设。此举将深度重塑全球商业发射市场竞争格局，SpaceX、ULA和蓝色起源等主要承包商面临新一轮博弈，同时标志着太空军事化正从辅助支援升级为核心作战域。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/"
+        },
+        {
+          "id": "09",
+          "title": "卫星新验证广义相对论",
+          "body": "一颗被称为「轨道迪斯科球」的激光测距卫星LARES-2完成了对爱因斯坦广义相对论迄今最精确的实验验证，精度较此前提升一个数量级。此次验证聚焦参考系拖曳效应——旋转大质量天体对周围时空的扭曲，是广义相对论最后几个未经高精度检验的预言之一。这一成果不仅巩固了现代物理学的理论基石，也为未来引力波探测和深空导航技术提供了更精确的时空基准。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/07/an-orbiting-disco-ball-gave-einsteins-theory-its-most-precise-test-yet/"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "气候归因报告震石油业",
+          "body": "美国国家科学院发布气候归因科学评估报告，首次系统性地量化极端天气事件与碳排放的直接因果关系，被业界称为石油公司最担心的报告。气候归因技术日趋成熟正改变法律与政策博弈格局，化石燃料企业面临从道义指责转向可量化法律责任的范式转变。这将推动全球碳诉讼浪潮加速到来，倒逼传统能源企业加快低碳转型和清洁技术投资。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/07/national-academies-climate-attribution-is-maturing-but-still-has-limits/"
+        },
+        {
+          "id": "11",
+          "title": "LED拯救夜空光污染",
+          "body": "IEEE Spectrum刊文指出LED照明技术若合理设计光谱和亮度，有望显著减少光污染并恢复自然夜空。全球光污染以每年约10%速度增长，威胁天文观测、生态系统和人类健康。智能光谱调控LED可实现按需照明，在保障安全前提下过滤破坏性蓝光波段，为城市照明政策提供兼顾效率与生态的解决方案，开启照明技术从追求亮度到追求质量的范式转换。",
+          "source": "IEEE Spectrum",
+          "source_url": "https://spectrum.ieee.org/led-light-pollution"
+        },
+        {
+          "id": "12",
+          "title": "糖尿病研究撤稿争议",
+          "body": "美国糖尿病协会旗下旗舰期刊出现研究论文撤稿风波，新细节揭示同行评审流程存在重大疏漏，引发学界的广泛震动。糖尿病研究领域是全球生物医学论文产出最高的方向之一，评审失守意味着大量临床指导依据可能建立在不可靠的数据之上。此次事件将推动学术出版界加速开放评审和预注册制度改革，重建公众对生物医学研究可信度的信心。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/07/troubling-new-details-emerge-on-diabetes-ouster-controversy/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "date": "2026-07-05",
+  "weekday": "周日",
+  "lunar": "农历五月廿一",
+  "cover_quote": "苟日新，日日新，又日新。——《礼记》",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "阿里因后门封禁Claude",
+          "body": "阿里内部通报Claude Code存在植入后门安全风险，7月10日起全面禁用并推荐Qoder替代。这是国内首个因安全顾虑封禁海外AI编程工具的大型企业案例，反映企业级AI工具供应链安全已上升为战略级议题，此举可能引发连锁反应，推动更多企业加速国产AI工具评估和替代进程。",
+          "source": "36Kr",
+          "source_url": "https://36kr.com/p/3880629882679301"
+        },
+        {
+          "id": "02",
+          "title": "微软豪掷25亿建AI军团",
+          "body": "微软成立实体子公司“微软前沿公司”，投入25亿美元组建6000人工程团队，专为企业客户交付AI部署成果。该部门整合FDE工程师、技术顾问和行业销售，提供跨模型选型与系统集成服务。此举标志着云巨头从卖工具向卖AI业务成果转型，将重塑企业AI服务市场的竞争格局。",
+          "source": "Interface News",
+          "source_url": "https://36kr.com/p/3880629882679301"
+        },
+        {
+          "id": "03",
+          "title": "AI编程工具陷会话泄露",
+          "body": "Anthropic Claude Code被曝存在工作区实例间的会话与缓存泄露漏洞，涉及多租户隔离机制失效，用户代码与提示词面临泄露风险。该事件引发开发者社区广泛担忧，暴露出AI编程工具在规模化企业部署前的安全审计盲区，或将推动行业建立统一的AI工具安全评测标准。",
+          "source": "Hacker News",
+          "source_url": "https://github.com/anthropics/claude-code/issues/74066"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "三星获Meta芯片代工大单",
+          "body": "三星电子斩获Meta超10万亿韩元AI芯片代工订单，将采用2纳米尖端工艺量产MTIA加速器数十万组，中长期积压订单有望逼近50万亿韩元。Anthropic亦在评估2nm合作。全球先进制程AI芯片代工正从台积电独大走向双雄竞逐，晶圆代工格局迎来结构性重塑契机。",
+          "source": "Interface News",
+          "source_url": "https://36kr.com/p/3880629882679301"
+        },
+        {
+          "id": "05",
+          "title": "英伟达光互连高管出走",
+          "body": "英伟达前光互连技术负责人Ashkan Seyedi正式加盟艾迈斯欧司朗，执掌光互连业务。光互连是突破AI芯片带宽瓶颈的关键技术路径，此次高层人才流动折射出该赛道竞争正在加剧，从芯片级向系统级互联方案的持续演进将进一步加速全行业光互连技术创新与产业落地。",
+          "source": "36Kr",
+          "source_url": "https://36kr.com/p/3880629882679301"
+        },
+        {
+          "id": "06",
+          "title": "神经动力学芯片问世",
+          "body": "全球首款神经动力学芯片正式发布，模拟生物神经元脉冲时序编码机制处理信息，可大幅降低脑机接口系统的功耗与延迟。该突破为脑机融合与人机交互开辟全新硬件范式，有望率先在神经康复、类脑计算与智能假肢控制等前沿领域实现产业化落地，推动下一代人机界面变革。",
+          "source": "36Kr",
+          "source_url": "https://36kr.com/newsflashes/3880779651248391"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "NASA紧急抢救太空望远镜",
+          "body": "NASA启动紧急任务，联手Katalyst Space Technologies抢救即将失控坠毁的Swift伽马射线暴天文台。该望远镜运行超二十年，曾捕获宇宙最遥远爆发事件。若救援失败，全球将失去全天域伽马暴快速响应这一关键观测能力，对多信使天文学研究产生深远影响。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies"
+        },
+        {
+          "id": "08",
+          "title": "韦伯新发现动摇宇宙认知",
+          "body": "天体物理学家对韦伯望远镜最新深场观测数据感到困惑，早期宇宙星系的形成速度与结构复杂度远超标准宇宙学模型预测。若数据持续验证这一异常趋势，可能需要修正暗物质分布模型乃至宇宙学基本原理。这轮韦伯危机正成为近十年宇宙学领域面临的最大理论挑战，或将催生新物理学。",
+          "source": "Quanta Magazine",
+          "source_url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/"
+        },
+        {
+          "id": "09",
+          "title": "火星岩石碳含量异常之谜",
+          "body": "毅力号火星车在杰泽罗陨石坑发现一块碳含量异常偏高的岩石，其富碳特征无法用已知地质过程完全解释，科学家正研判是否源自古代生物活动。若最终确认为生物成因碳，这将是火星生命探索史上最具突破性的发现，深刻改变人类对宇宙生命普遍性的认知，并推动后续采样返回任务优先级提升。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "AI破解斑马雀鸣叫密码",
+          "body": "科学家利用AI算法成功解码斑马雀的鸣叫语言，识别出其叫声中编码的个体身份、情感状态和复杂社交信号。这是鸟类语言解码领域迄今最重大的突破，为理解动物意识起源和构建跨物种信息沟通桥梁奠定了关键技术基础，也为语言演化与认知神经科学研究提供了全新实验范式。",
+          "source": "Free Press Journal",
+          "source_url": "https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language"
+        },
+        {
+          "id": "11",
+          "title": "创新药出海欧洲新航路",
+          "body": "阿斯利康重押13亿欧元布局剑桥生物科技集群，400余家初创公司在此形成欧洲最活跃的创新药生态圈。中国药企出海欧洲的模式正从低价仿制药升级为技术授权与联合开发，剑桥正成为中欧医药创新合作的关键枢纽，推动全球生物医药创新格局向多极化方向加速演进与发展。",
+          "source": "36Kr",
+          "source_url": "https://36kr.com/p/3879807100023040"
+        },
+        {
+          "id": "12",
+          "title": "白宫热浪中删节能网页",
+          "body": "美国白宫在多地遭遇极端高温热浪之际，删除了数千个涉及建筑节能、家电省电指南等重要政府网页。此举引发公众对政府能源政策透明度与公信力的广泛质疑，凸显气候危机应对中政治因素与科学实践之间的深层矛盾，可能严重削弱全民节能参与度和国家减排行动的社会动员效果。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion"
+        }
+      ]
+    }
+  ]
+}

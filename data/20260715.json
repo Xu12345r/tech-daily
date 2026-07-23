@@ -1,0 +1,116 @@
+{
+  "date": "2026-07-15",
+  "weekday": "周三",
+  "lunar": "农历六月初二",
+  "cover_quote": "日知其所亡，月无忘其所能。——《论语》",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "27B大模型登陆手机端",
+          "body": "PrismML发布Bonsai 27B，一款可在手机上运行的270亿参数大语言模型，通过量化与蒸馏技术实现移动端本地推理。这打破了「大模型=大算力」的固有认知，将生成式AI从云端推向边缘设备，为隐私保护与离线AI应用开辟新路径，或将重塑移动端AI生态格局。",
+          "source": "PrismML",
+          "source_url": "https://prismml.com/news/bonsai-27b"
+        },
+        {
+          "id": "02",
+          "title": "苹果诉OpenAI窃取机密",
+          "body": "苹果正式起诉OpenAI，指控其前工程师利用内部漏洞窃取AI芯片与模型训练的商业机密并带入OpenAI。此案折射出AI人才争夺战白热化——顶级研究人员成为稀缺资产，企业间知识产权边界日益模糊化，或将引发硅谷新一轮竞业限制与技术保密制度的全面变革。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/"
+        },
+        {
+          "id": "03",
+          "title": "Cursor零日漏洞公开披露",
+          "body": "安全公司Mindgard公开披露Cursor编辑器零日漏洞，可在用户不知情下窃取全部代码库。在厂商延迟修复的情况下选择完全披露，引发开发者社区激烈争论：透明披露能迫使厂商行动，但也可能让未修补用户暴露于攻击风险，折射出AI编程工具安全治理的缺失。",
+          "source": "Mindgard",
+          "source_url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "微软安全启动漏洞十年未觉",
+          "body": "安全研究人员发现微软Secure Boot中存在长达十年的漏洞，起因是早已被遗忘的第三方引导程序「shim」未及时吊销，使攻击者可绕过硬件级安全防护。这一发现动摇了PC安全基石的信任根基，揭示出固件供应链管理中「一次性签名、永久信任」的致命缺陷，推动行业重新审视安全启动的吊销机制。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/"
+        },
+        {
+          "id": "05",
+          "title": "非Nvidia跑CUDA新突破",
+          "body": "Spectral Compute发布Corrosion工具链，可将CUDA代码直接转换为跨平台中间表示，在AMD、Intel等非Nvidia GPU上运行且性能损失极小。此举直击Nvidia在AI训练领域的软硬件捆绑垄断，若获广泛采用，将打破「CUDA税」壁垒，大幅降低AI基础设施成本并推动GPU市场竞争格局重构。",
+          "source": "HPCwire",
+          "source_url": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/"
+        },
+        {
+          "id": "06",
+          "title": "存储芯片短缺重创手机出货",
+          "body": "全球存储芯片供应紧张正推动智能手机出货量跌至历史新低，仅苹果与三星凭借供应链优势逆势增长。此次短缺暴露了移动设备产业链对韩系存储厂商的过度依赖，将倒逼中国与欧美加速推进存储芯片自主化战略，长期来看可能重塑DRAM与NAND闪存的全球产能分布格局。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/gadgets/2026/07/apple-and-samsung-benefit-as-memory-shortage-pushes-smartphone-shipments-to-historic-lows/"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "星舰第13次试飞本周进行",
+          "body": "SpaceX准备本周进行星舰第13次综合试飞，将首次在轨道部署新一代Starlink卫星并测试更高压的再入条件。此次任务是星舰从试验平台向实用运载工具转型的关键节点——若成功部署卫星，星舰将成为全球运力最强且可完全复用的轨道发射系统，重塑商业航天经济模型。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/"
+        },
+        {
+          "id": "08",
+          "title": "费曼反向洒水器谜题破解",
+          "body": "物理学家通过实验确认了2024年提出的「动量通量理论」，完整解释了费曼提出的经典难题——反向洒水器（吸水而非喷水时如何旋转）。这一延续数十年的理论物理问题终获实验验证，不仅解决了流体力学的基础争议，其动量传递机制还意外适用于更复杂的「异形洒水器」设计，拓展了工程应用前景。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/07/solution-to-feynmans-reverse-sprinkler-puzzle-also-applies-to-silly-sprinklers/"
+        },
+        {
+          "id": "09",
+          "title": "自复制探测器遭冶金质疑",
+          "body": "一位冶金学家公开发文质疑冯·诺依曼自复制探测器的可行性，指出星际航行面临的材料疲劳、辐射损伤与自我维修的物理极限远超理论假设。这一来自材料科学视角的批判，为SETI与费米悖论讨论注入了工程现实主义的约束——即使存在地外文明，物理规律也可能限制其星际扩张的能力。",
+          "source": "Centauri Dreams",
+          "source_url": "https://www.centauri-dreams.org/2026/07/10/a-metallurgists-doubts-about-self-replicating-probes/"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "澳洲强制三小时免费电力",
+          "body": "澳大利亚能源监管机构要求所有电力零售商在日间提供三小时免费电力，利用午间光伏发电过剩时段的电价低谷惠及居民。这一政策将可再生能源的间歇性弱点转化为民生福利，为全球高光伏渗透市场的电价改革提供了先例，或将推动更多国家探索「负电价时段免费供电」的能源普惠模式。",
+          "source": "Lenergy",
+          "source_url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/"
+        },
+        {
+          "id": "11",
+          "title": "印度绘制最详脑干3D图谱",
+          "body": "印度科学家团队发布迄今最详尽的人类脑干三维图谱，分辨率达到单细胞级别，覆盖脑干所有核团与神经通路。脑干是生命中枢所在，该图谱为帕金森病、睡眠障碍与呼吸调控异常的精准治疗提供了前所未有的解剖学基础，标志着神经科学从宏观脑图谱迈向细胞级功能连接组学的新阶段。",
+          "source": "BBC",
+          "source_url": "https://www.bbc.com/news/articles/cg53l737v1qo"
+        },
+        {
+          "id": "12",
+          "title": "电子纹身开启穿戴新纪元",
+          "body": "研究人员开发出可直接在皮肤上绘制的导电墨水电子纹身，干燥后形成功能性电极，用于连续监测心率、汗液成分与肌电信号。与传统贴片传感器相比，电子纹身更舒适隐形且可个性化设计，有望将医疗级生物传感从医院延伸至日常生活，推动可穿戴健康监测进入「无感化」时代。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/07/these-painted-e-tattoos-could-be-the-future-of-wearable-biosensors/"
+        }
+      ]
+    }
+  ]
+}

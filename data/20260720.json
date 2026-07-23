@@ -1,0 +1,116 @@
+{
+  "date": "2026-07-20",
+  "weekday": "周一",
+  "lunar": "农历六月初七",
+  "cover_quote": "博学之，审问之，慎思之，明辨之，笃行之。——《礼记》",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "千问Qwen3.8开源",
+          "body": "阿里通义千问发布Qwen 3.8开源大模型，在Hacker News获737分高热度，延续Qwen系列持续开源策略。该模型在多基准测试中展现强劲竞争力，标志着中国开源大模型不断缩小与闭源差距。此举将加速全球AI民主化进程，为开发者生态提供更多选择，推动AI从寡头垄断走向多元开放协作的新格局。",
+          "source": "Qwen",
+          "source_url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291"
+        },
+        {
+          "id": "02",
+          "title": "Kimi K3暂停新订阅",
+          "body": "月之暗面因Kimi K3推理需求远超服务器承载能力，宣布暂停新用户订阅，在Hacker News获得178分关注。K3作为首个开源3万亿参数模型引发的使用狂潮，暴露出AI基础设施与大模型部署之间的供需鸿沟，表明开源大模型的规模化服务能力已成为制约AI普惠落地的新瓶颈。",
+          "source": "Moonshot AI",
+          "source_url": "https://twitter.com/kimi_moonshot/status/2078855608565207130"
+        },
+        {
+          "id": "03",
+          "title": "腾讯混元Hy3首秀",
+          "body": "腾讯在WAIC 2026首秀混元Hy3大模型并上线AI技能支付体系，支持智能体自主调用付费技能完成复杂任务。这标志着AI商业模式从免费API调用向技能经济转型，将重塑开发者变现路径和AI应用生态的经济模型，推动智能体从工具属性升级为可独立创造价值的数字劳动力。",
+          "source": "InfoQ",
+          "source_url": "https://www.infoq.cn/article/FeWLPKLYDjWko8rJjxKq"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "英伟达Rubin新架构",
+          "body": "英伟达发布Vera Rubin下一代GPU架构，目标是从GPU到Token全链路重构AI工厂。新架构整合更高带宽内存与专用推理加速单元，将大幅降低大模型推理成本。此举巩固英伟达在AI算力基础设施的绝对主导地位，也推动整个行业向Token经济时代加速迈进。",
+          "source": "InfoQ",
+          "source_url": "https://www.infoq.cn/article/s8EpYCpdF3YiSkSbYfGG"
+        },
+        {
+          "id": "05",
+          "title": "星载激光通信产线投产",
+          "body": "中科天塔星载激光通信终端智能产线正式投产，一期年产能规划600套。星载激光通信是实现低轨卫星互联网的关键技术，相比传统微波通信带宽提升数个量级。产线投产意味着中国在卫星互联网核心器件领域实现规模化自主制造，加速商业航天基础设施建设，为6G天地一体化网络奠定硬件基础。",
+          "source": "36kr",
+          "source_url": "https://36kr.com"
+        },
+        {
+          "id": "06",
+          "title": "联通华为5G-A上行网",
+          "body": "中国联通携手华为发布全球最大规模5G-A百兆大上行网络，大幅提升上行速率与连接密度。5G-A作为5G向6G演进的关键阶段，其大上行能力将赋能工业互联网、远程操控、AI推理卸载等场景，为智能制造和数字化转型提供确定性网络底座，加速千行百业从数字化向智能化跃迁。",
+          "source": "36kr",
+          "source_url": "https://36kr.com"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "印度私企火箭首入轨",
+          "body": "印度首枚私营企业研发的Vikram-1火箭成功入轨，完成历史性首飞。这标志着印度商业航天从政府主导的ISRO时代迈向私营参与新纪元，将加速全球商业发射市场竞争。印度凭借低成本制造优势有望成为继美国、中国之后全球第三大商业航天发射市场，重塑国际航天产业格局。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/"
+        },
+        {
+          "id": "08",
+          "title": "五角大楼SDA进展慢",
+          "body": "美国太空发展署的导弹预警与通信卫星星座项目进展远低于预期，面临供应链延迟和预算压力等多重困境。SDA的低轨军事卫星网络是美军联合全域指挥控制体系的核心基础设施，其进度滞后直接影响美军在印太地区的太空作战能力部署节奏，暴露出军事航天采办体制的结构性挑战。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/"
+        },
+        {
+          "id": "09",
+          "title": "矩阵乘法最优算法之谜",
+          "body": "数学家至今未能确定矩阵乘法的最快算法，这一悬而未决的问题在Hacker News引发211分关注。矩阵乘法是计算机图形学、AI训练和科学计算的基础运算，即使微小的效率提升也能节省巨额算力成本。这一理论难题的探索持续推动着算法设计与计算复杂性理论前沿，其突破将影响整个计算科学。",
+          "source": "Scientific American",
+          "source_url": "https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "蚊媒疾病监测新策略",
+          "body": "随着气候变暖导致蚊媒活动范围持续扩展，升级监测体系成为预防登革热等疾病传播的关键。研究指出传统监测方法成本高且劳动密集，亟需引入卫星遥感、AI图像识别和基因组学等新技术，构建全球蚊媒疾病早期预警网络，将防疫从被动应急响应转变为主动风险管控。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/07/as-mosquito-ranges-expand-better-monitoring-is-key-to-preventing-disease/"
+        },
+        {
+          "id": "11",
+          "title": "AI介入医保预授权改革",
+          "body": "美国政府启动试点项目，引入AI系统辅助医保预授权审批决策。支持者认为可大幅缩短审批等待时间，但批评者担忧算法偏见可能系统性拒绝弱势群体的必要治疗。该项目将成为检验AI在高风险公共政策领域应用可行性的关键实验，其结果将深刻影响全球医疗AI监管政策走向。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/"
+        },
+        {
+          "id": "12",
+          "title": "浮游植物固碳获实证",
+          "body": "自然实验首次提供确凿证据，证实向海洋施加铁元素促进浮游植物生长可有效移除大气中的二氧化碳。这一发现为海洋负排放技术提供了坚实科学依据，可能开启大规模海洋固碳工程新篇章。然而生态副作用仍需审慎评估，在气候危机与生态保护的权衡中寻找平衡点将是下一步关键。",
+          "source": "OnePercentBrighter",
+          "source_url": "https://www.onepercentbrighter.com/p/natural-experiments-prove-feeding"
+        }
+      ]
+    }
+  ]
+}

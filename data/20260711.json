@@ -1,0 +1,116 @@
+{
+  "date": "2026-07-11",
+  "weekday": "周六",
+  "lunar": "农历五月廿七",
+  "cover_quote": "致知在格物，物格而后知至。——《礼记·大学》",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "苹果起诉OpenAI窃密",
+          "body": "苹果正式起诉OpenAI，指控其前员工窃取苹果芯片硬件商业机密并用于OpenAI自有芯片研发。这是大型科技公司首次对AI实验室提起商业机密窃取诉讼，涉及从硬件到AI领域的人才流动红线。此举将深刻影响硅谷人才跳槽规则，尤其抬高从苹果等硬件巨头向AI公司流动的法律风险，可能迫使整个AI行业重新审视招聘合规流程。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets"
+        },
+        {
+          "id": "02",
+          "title": "GPT-5.6证明数学猜想",
+          "body": "OpenAI的GPT-5.6 Sol Ultra成功证明了图论领域长期悬而未决的「圈双覆盖猜想」，这是数学界数十年未解难题。该成果以PDF论文形式发布，展示了AI从辅助编码向自主数学研究的能力跃迁。这标志着大语言模型已突破简单推理，进入形式化证明等高阶认知领域，未来可能加速纯数学、理论物理等基础学科的研究进程。",
+          "source": "OpenAI",
+          "source_url": "https://news.ycombinator.com/item?id=48863490"
+        },
+        {
+          "id": "03",
+          "title": "DeepSeek自研推理芯片",
+          "body": "DeepSeek被曝已于一年前启动自研AI推理芯片项目，目前正对接台积电等代工厂及存储芯片供应商。这意味着中国头部AI实验室正从纯模型研发转向软硬件全栈自主化。若成功量产，将降低DeepSeek对英伟达GPU的依赖，并可能推动中国AI芯片生态从单一训练卡向「训练+推理」双轨并进，重塑国产算力格局。",
+          "source": "InfoQ",
+          "source_url": "https://www.infoq.cn/article/sLYxUorQQs5K17DILrx8"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "SK海力士纳斯达克上市",
+          "body": "SK海力士正式登陆纳斯达克，募资265亿美元，成为史上规模最大的IPO之一。作为全球最大内存芯片供应商和英伟达HBM核心合作伙伴，海力士此次上市直接反映了AI训练对高带宽内存的爆炸性需求。上市资金将用于扩建下一代HBM4产线，进一步巩固美韩半导体联盟，同时加剧与三星、美光在AI存储领域的技术竞赛。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut"
+        },
+        {
+          "id": "05",
+          "title": "FCC打击大疆绕禁令技术",
+          "body": "美国FCC开始打击Xtra等公司，这些企业通过将大疆摄像头与非大疆组件配对的方式，绕过美国对外国无人机的联邦禁令。此举将无人机技术管制从硬件封锁升级为对绕行策略的执法打击。对行业而言，这意味着美国本土无人机供应链的替代需求将加速释放，同时也加大了中国无人机企业进入美国市场的合规复杂性。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab"
+        },
+        {
+          "id": "06",
+          "title": "Cube沙盒支持Arm架构",
+          "body": "Cube Sandbox正式宣布支持Arm架构，由腾讯云与Arm联合推动AI Agent在多架构计算平台上的部署。此次合作打破了Agent运行环境以x86为主的格局，使开发者能够在更低功耗的边缘设备上部署自主AI代理。长期来看，这将拓展Agent应用场景至IoT、移动端和智能汽车领域，推动「无处不在的AI代理」愿景落地。",
+          "source": "InfoQ",
+          "source_url": "https://www.infoq.cn/article/c4GEoZLWvNZQhSSSWAoH"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "中国首次回收可复用火箭",
+          "body": "中国航天成功回收首枚可重复使用火箭，并展示了与SpaceX不同的新型回收方式。这标志着中国正式进入可复用火箭俱乐部，成为继美国之后第二个掌握该技术的国家。复用技术将大幅降低中国卫星互联网等大型星座的发射成本，加速「千帆星座」等项目的部署节奏，对全球商业发射市场格局产生深远影响。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/"
+        },
+        {
+          "id": "08",
+          "title": "轨道迪斯科球验证相对论",
+          "body": "一颗被称为「轨道迪斯科球」的激光测距卫星完成了对爱因斯坦广义相对论迄今为止最精确的检验，成功测量了地球自转引起的参考系拖曳效应。该实验精度达到前所未有的水平，为引力物理提供了新的实验基准。这为下一代GPS精度提升、深空导航和引力波探测等应用提供了更坚实的理论验证基础。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/07/an-orbiting-disco-ball-gave-einsteins-theory-its-most-precise-test-yet/"
+        },
+        {
+          "id": "09",
+          "title": "NASA商用空间站要求加码",
+          "body": "NASA发布了商业空间站的关键规划文件，对私营合作伙伴提出了远超此前预期的高标准技术要求。在国际空间站退役倒计时之际，私营空间站开发商面临技术指标与财务可行性的双重压力。若商业空间站进度延迟，美国可能在近地轨道出现载人驻留空窗期，届时中国天宫空间站将成为唯一在轨运行的长期载人平台。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/07/nasa-finally-releases-a-critical-planning-document-for-private-space-stations/"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "百万抗癌针走向平价",
+          "body": "中国生物科技创业者在赢得关键专利诉讼并完成新一轮融资后，宣布将百万级CAR-T抗癌细胞疗法推向平价化。CAR-T疗法是目前对部分血液肿瘤最有效的治愈手段，但超百万元的价格严重限制了可及性。若国产化与工艺优化成功将成本降至数万元级别，将惠及数百万癌症患者，并推动中国在全球细胞治疗产业链中占据成本领先地位。",
+          "source": "36kr",
+          "source_url": "https://36kr.com"
+        },
+        {
+          "id": "11",
+          "title": "欧洲空调革命即将到来",
+          "body": "随着欧洲极端热浪频发，一场空调普及革命正在欧洲大陆酝酿。长期以来欧洲建筑普遍未安装空调，但连续多年的创纪录高温已迫使政策制定者重新评估。这场变革将带来巨大的能源需求增量，考验欧洲电网承载能力，同时也为热泵、光伏直驱空调等新型节能制冷技术创造了千亿级的市场机遇。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/07/is-an-air-conditioning-revolution-coming-to-europe/"
+        },
+        {
+          "id": "12",
+          "title": "霍比特人饮食揭示演化",
+          "body": "最新研究揭示印尼弗洛勒斯岛上「霍比特人」物种的饮食习惯，发现他们以食腐方式获取科莫多龙和史前象类的尸体作为食物来源。这一发现为理解该小型古人类的生存策略和演化路径提供了关键线索。研究表明，岛屿环境的资源稀缺迫使霍比特人发展出独特的觅食行为，对理解人类适应极端环境的演化能力具有重要启示。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/07/flores-hobbits-scavenged-komodo-dragons-elephant-kills-study-suggests/"
+        }
+      ]
+    }
+  ]
+}

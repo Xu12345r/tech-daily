@@ -1,0 +1,116 @@
+{
+  "date": "2026-07-09",
+  "weekday": "周四",
+  "lunar": "农历五月廿五",
+  "cover_quote": "苟日新，日日新，又日新。——《礼记·大学》",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "GPT-Live实时对话发布",
+          "body": "OpenAI发布GPT-Live实时对话AI系统，支持语音、视频交互与屏幕共享，实现毫秒级全模态实时响应。这标志着AI从异步文本对话跨越到同步多模态协作的临界点，将深刻重塑在线教育、远程医疗和客服行业的工作流程。未来AI不再是冰冷工具，而是能感知语境的实时协作伙伴。",
+          "source": "OpenAI",
+          "source_url": "https://openai.com/index/introducing-gpt-live/"
+        },
+        {
+          "id": "02",
+          "title": "Grok 4.5模型发布",
+          "body": "xAI正式发布Grok 4.5大语言模型，在推理深度、多模态理解和代码生成方面全面提升，继续与GPT-5和Claude争夺前沿模型高地。这表明AI竞赛已从参数规模比拼进入精细化阶段，各家更关注推理质量、时效性和特定场景下的实用性。模型能力的持续跃升加速企业级AI应用落地进程。",
+          "source": "xAI",
+          "source_url": "https://x.ai/news/grok-4-5"
+        },
+        {
+          "id": "03",
+          "title": "Agent安全危机警告",
+          "body": "Cloudflare首席执行官发出严厉警告：未来两年内，自主AI Agent的广泛部署将使互联网每周出现一个Log4j级别的安全漏洞。Agent具备自主决策和代码执行能力，一旦被恶意利用，攻击面将呈指数级扩大。企业必须在Agent大规模部署前建立全新的安全防护范式，否则将面临前所未有的系统性风险。",
+          "source": "InfoQ",
+          "source_url": "https://www.infoq.cn/article/zhoGu6x9CdUJ3XMFvyK1"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "Mistral机器导航模型",
+          "body": "Mistral发布Robostral Navigate机器人导航模型，专为自主导航场景设计，在复杂动态环境中展现出领先的避障与路径规划能力。这标志着欧洲AI企业从纯语言模型向具身智能领域的关键跨越，机器人领域将迎来更多通用基础模型的竞争。仓储物流和服务机器人行业有望率先受益于这一技术突破。",
+          "source": "Mistral",
+          "source_url": "https://mistral.ai/news/robostral-navigate/"
+        },
+        {
+          "id": "05",
+          "title": "大厂集体发力自研芯片",
+          "body": "OpenAI与Anthropic同时加快推进自研AI推理芯片计划，目标减少对英伟达GPU的依赖，降低推理成本并提升效率。此举将动摇英伟达在AI算力市场的垄断地位，推动芯片供应链多元化和价格下行。对于整个AI行业，自研芯片意味着模型部署成本的大幅下降，可能加速AI应用向中小企业普及。",
+          "source": "InfoQ",
+          "source_url": "https://www.infoq.cn/article/MOqFJbvWYlJ9PXcfdfCC"
+        },
+        {
+          "id": "06",
+          "title": "SK海力士美国IPO超募",
+          "body": "SK海力士赴美上市获得逾七倍超额认购，预计将成为今年全球最大半导体IPO之一。作为HBM高带宽存储芯片的全球领导者，海力士的资本扩张反映了AI算力需求对存储芯片产业链的强力拉动。此次IPO将为海力士在美国扩建先进封装产线提供资金，加速其与三星、美光在AI存储领域的竞争。",
+          "source": "36氪",
+          "source_url": "https://36kr.com"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "商业核动力首进太空",
+          "body": "迈阿密City Labs公司实现商业核动力首次进入太空应用，其放射性同位素电池成功为在轨卫星提供长期稳定电力。这打破了核太空动力长期由国家实验室垄断的格局，为深空探测和长周期卫星任务提供了更经济的能源方案。私营企业进入核太空动力市场将加速月球基地和火星探测等深空计划的推进。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/07/miami-based-city-labs-achieves-a-first-for-commercial-nuclear-power-in-space/"
+        },
+        {
+          "id": "08",
+          "title": "蓝色起源首次募资",
+          "body": "贝索斯旗下蓝色起源公司成立二十余年来首次计划从外部筹集私募资金，标志着这家长期依靠贝索斯个人注资的航天企业进入商业化新阶段。此举可能为蓝色起源加速新格伦火箭量产和月球着陆器研发提供弹药，缩小与SpaceX在商业发射市场的差距。民营航天的融资模式正在从创始人输血转向市场化多元融资。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/07/blue-origin-for-the-first-time-is-expected-to-raise-private-capital/"
+        },
+        {
+          "id": "09",
+          "title": "量子传感企业获投落地",
+          "body": "获上海国投领投的国产量子传感企业完成新一轮融资，产品已在惯性导航和气体监测领域实现商业化落地。量子传感技术利用量子态对外部物理量的超高灵敏度，可以在不依赖GPS的环境下实现精确导航。这一进展表明中国量子技术正加速走出实验室，在国防和工业检测等关键领域形成实际生产力。",
+          "source": "36氪",
+          "source_url": "https://36kr.com"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "AI减肥药进入3期临床",
+          "body": "德睿智药完成5200万美元B轮融资，其AI设计的小分子减肥药已推进到3期临床试验阶段。相比传统药物研发平均10年周期，AI驱动的方法将候选分子发现时间压缩到18个月以内，大幅降低研发成本。如果3期临床成功，这将是AI制药领域从概念验证走向商业化的里程碑事件，验证AI在新药研发中的实际价值。",
+          "source": "36氪",
+          "source_url": "https://36kr.com"
+        },
+        {
+          "id": "11",
+          "title": "海底扩张首获实时观测",
+          "body": "科学家首次通过新安装的海底监测系统实时观测到大洋中脊的构造扩张过程——海底在瞬间发生快速裂开而不是缓慢持续扩张。这一发现挑战了板块构造理论的经典假设，表明地质活动可能比此前认知更剧烈和突发。实时海底监测技术的成熟也将为地震和海啸预警系统提供更精准的数据来源。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/07/newly-installed-monitoring-system-watched-the-seafloor-spread/"
+        },
+        {
+          "id": "12",
+          "title": "美国稀土加速外流亚洲",
+          "body": "由于美国国内稀土加工需求增长缓慢，大量本土开采的稀土矿正加速流向亚洲加工厂。美国虽拥有全球第二大稀土储量，但缺乏从矿石到成品磁材的完整加工产业链。这暴露了西方在关键矿产供应链上的结构性短板，引发对清洁能源与国防工业原材料安全的担忧，可能推动美国政府出台更强硬的产业保护政策。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/"
+        }
+      ]
+    }
+  ]
+}
