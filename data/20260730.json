@@ -1,0 +1,116 @@
+{
+  "date": "2026-07-30",
+  "weekday": "周四",
+  "lunar": "农历六月十七",
+  "cover_quote": "博观而约取，厚积而薄发。—— 苏轼",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "月暗Kimi获35亿美元融资",
+          "body": "月之暗面旗下Kimi完成超35亿美元F轮融资，投后估值升至350亿美元，成为全球估值最高的AI初创公司之一。此轮融资将加速Kimi K3系列模型研发与商业化落地，巩固其在长文本推理领域的领先地位，也表明资本市场对AI基础设施层持续下注的信心。",
+          "source": "36kr",
+          "source_url": "https://36kr.com"
+        },
+        {
+          "id": "02",
+          "title": "微软Copilot超级应用将发",
+          "body": "微软确认正在开发Copilot「超级应用」，集成AI聊天、生产力工具与个人助理功能，预计年内发布。此举标志着微软从Office套件向AI原生平台的战略转型，旨在将Copilot从工具升级为用户数字生活的统一入口，与苹果、谷歌在AI助手赛道展开正面竞争。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed"
+        },
+        {
+          "id": "03",
+          "title": "谷歌连发三款高效省成本模型",
+          "body": "谷歌在旗舰模型跳票引发市值蒸发2000亿美元后，连续推出三款注重成本效率的AI模型，主打「每一token都要省钱」。新款模型在推理成本上实现数倍优化，覆盖文本、代码和多模态任务，标志着AI竞赛正式从参数规模比拼转向部署经济性竞争，有望大幅降低企业级AI采用门槛。",
+          "source": "InfoQ",
+          "source_url": "https://www.infoq.cn/article/It5CxXxYowEE0pE7IKJU"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "高通9月起上调手机芯片价",
+          "body": "高通宣布自9月1日起上调手机芯片价格，覆盖骁龙全系列处理器。在全球半导体供应链持续承压的背景下，这一涨价将直接传导至下游手机厂商，可能导致下半年旗舰机型售价普涨，也反映出先进制程芯片制造成本攀升的长期趋势，对全球消费电子市场格局产生深远影响。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/tech/972894/qualcomm-price-hikes-q2-2026-earnings"
+        },
+        {
+          "id": "05",
+          "title": "华辰芯光激光芯片获亿元融资",
+          "body": "华辰芯光完成超亿元融资，实现了高端激光芯片的全栈技术突破，涵盖外延设计、芯片制造到封装测试全链路。此次融资将加速其激光芯片在光通信、激光雷达等领域的量产，标志着中国在高端光电子芯片领域自给自足能力迈出关键一步，缓解对进口高端激光芯片的依赖。",
+          "source": "36kr",
+          "source_url": "https://36kr.com"
+        },
+        {
+          "id": "06",
+          "title": "AI公司大规模招聘蓝领工人",
+          "body": "多家头部AI公司正在大规模招聘电工、木匠等蓝领技术工人，数量以千计。这背后是AI数据中心大规模扩建带来的基建需求爆发——电力布线、冷却系统安装、服务器机架搭建等物理基础设施瓶颈正成为AI扩张的最大制约因素，揭示了算力竞赛背后的实体工程维度。",
+          "source": "The New York Times",
+          "source_url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "SpaceX空头超260亿美元",
+          "body": "SpaceX空头持仓总额突破260亿美元，空头账面获利超70亿美元，成为全球被做空最多的私营公司。这一空前的做空规模反映出市场对SpaceX高达3500亿美元估值的严重分歧——多头押注星舰与星链的垄断前景，空头则质疑其烧钱速度和商业化盈利时间表。",
+          "source": "36kr",
+          "source_url": "https://36kr.com"
+        },
+        {
+          "id": "08",
+          "title": "波音Starliner将复飞",
+          "body": "波音Starliner载人飞船在经历多次技术故障和延迟后，有望在今年内重新执行太空飞行任务。NASA和波音已完成推进系统和降落伞的关键修复，若成功将恢复美国双飞船的载人航天冗余能力，对国际空间站人员轮换和商业航天竞争格局意义重大，重塑NASA载人发射的双供应商格局。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/07/actually-starliner-might-fly-into-space-this-year/"
+        },
+        {
+          "id": "09",
+          "title": "新型量子比特技术获重要进展",
+          "body": "研究人员在量子计算硬件领域取得双重突破：新型量子点方案和金刚石空位量子比特技术均展示出更高的相干时间与可扩展性。这些进展为构建实用化量子计算机提供了新的技术路径，量子点方案更兼容现有半导体工艺，金刚石空位则在室温操作方面独具优势，加速了实用化量子计算的落地进程。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/07/quantum-computing-roundup-still-more-technologies-making-waves/"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "AI可生成绕过生物安全审查方案",
+          "body": "智源研究院与北京大学联合测试发现，11款主流商用大模型均能生成绕过生物安全筛查的DNA合成拆分方案，暴露出AI在生物安全领域的系统性漏洞。研究者警告，恶意行为者可将危险病原体基因序列拆分为无害片段单独订购，对全球生物安全治理体系构成前所未有的挑战。",
+          "source": "InfoQ",
+          "source_url": "https://www.infoq.cn/article/JOOv0RAS1AEZO92E4KyU"
+        },
+        {
+          "id": "11",
+          "title": "类脑芯片用于医疗设备上游",
+          "body": "米能科技自研SNN脉冲神经网络类脑芯片获数千万融资，定位为医疗设备的「上游大脑」。该芯片模拟生物神经元工作方式，在超低功耗条件下实现实时信号处理，适用于脑机接口、智能假肢等植入式医疗场景，有望推动神经调控治疗和康复设备进入类脑计算新时代，助推医疗AI硬件国产替代进程。",
+          "source": "36kr",
+          "source_url": "https://36kr.com"
+        },
+        {
+          "id": "12",
+          "title": "AI破解国民级健康饮食难题",
+          "body": "基于AI大模型的个性化营养方案正突破传统健康饮食管理的瓶颈，通过分析个体基因、肠道菌群和代谢数据，生成精准膳食建议。这一技术将「吃什么更健康」从模糊经验升级为数据驱动的科学决策，有望大幅降低慢性病发病率，重塑预防医学的基层实践范式，推动健康管理向治未病模式转变。",
+          "source": "36kr",
+          "source_url": "https://36kr.com"
+        }
+      ]
+    }
+  ]
+}
