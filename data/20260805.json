@@ -1,0 +1,116 @@
+{
+  "date": "2026-08-05",
+  "weekday": "周三",
+  "lunar": "农历六月二十三",
+  "cover_quote": "博观而约取，厚积而薄发。—— 苏轼",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "DeepSeek V4单卡运行",
+          "body": "DeepSeek发布V4 Flash模型，成功在单张AMD MI300X GPU上运行，无需多卡集群即可实现高性能推理。这大幅降低了前沿AI模型的部署门槛，使中小企业和研究机构也能负担顶级推理能力，推动AI民主化进程。同时验证了AMD GPU在AI推理场景的竞争力，打破英伟达生态垄断。",
+          "source": "Hacker News",
+          "source_url": "https://news.ycombinator.com/item?id=49166386"
+        },
+        {
+          "id": "02",
+          "title": "Mistral发多模态安全模型",
+          "body": "Mistral发布Shieldstral，一款30亿参数的开源多模态内容审核模型，可检测图像和文本中的有害内容。该模型以开放权重形式发布，填补了开源社区在内容安全领域缺乏专用多模态模型的空白，为中小平台提供可自部署的安全审核方案，降低对商业API的依赖。此举推动开源AI安全生态走向成熟。",
+          "source": "Hacker News",
+          "source_url": "https://news.ycombinator.com/item?id=49171268"
+        },
+        {
+          "id": "03",
+          "title": "AI基准测试趋饱和引反思",
+          "body": "一项系统性研究指出，当前主流AI基准测试正趋于饱和，多个模型在MMLU等标准测试上得分接近天花板，评测区分度持续下降。研究者呼吁设计更复杂、更贴近真实场景的动态评测体系。这促使学界重新审视AI能力衡量标准，推动从静态分数竞赛转向能力深度评估，引发全球AI评测社区广泛讨论。",
+          "source": "Hacker News",
+          "source_url": "https://news.ycombinator.com/item?id=49170915"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "AMD数据中心营收翻倍",
+          "body": "AMD最新财报显示数据中心业务营收同比增长超一倍，达67亿美元，受益于AI算力需求爆发式增长。与之对比，游戏业务持续萎缩，标志着AMD已完成从消费级芯片厂商向AI基础设施核心供应商的战略转型。这一结构性变化反映全球半导体产业重心正加速向AI计算倾斜。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/rss/index.xml"
+        },
+        {
+          "id": "05",
+          "title": "Oxide获4.45亿美元融资",
+          "body": "云计算硬件公司Oxide Computer完成4.45亿美元融资，用于扩大其自研一体化云服务器产能。Oxide主打从芯片到机柜的垂直整合设计，将计算、存储和网络集成在单一机架内，与超大规模云厂商的定制化方案形成差异化竞争。此举表明市场对非传统云基础设施方案的需求正在升温。",
+          "source": "Hacker News",
+          "source_url": "https://news.ycombinator.com/item?id=49174407"
+        },
+        {
+          "id": "06",
+          "title": "德州暂停数据中心电网接入",
+          "body": "美国德克萨斯州电力可靠性委员会宣布暂停新建数据中心接入电网的审批，原因是AI产业爆发导致电力需求远超电网承载能力。德州已成为美国最大的数据中心聚集地之一，此举给科技巨头的扩张计划带来直接冲击，凸显AI基础设施建设的能源瓶颈正从理论担忧变为现实制约。",
+          "source": "Ars Technica",
+          "source_url": "https://feeds.arstechnica.com/arstechnica/index"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "SpaceX拟购13万英亩湿地",
+          "body": "SpaceX计划收购路易斯安那州南部约13万英亩沼泽湿地，用于扩建星舰发射与制造设施。这是SpaceX迄今最大规模的土地收购，面积相当于半个纽约市。该项目将显著提升星舰的发射频次和生产能力，加速马斯克火星殖民计划的基础设施建设，同时引发环保组织对该敏感生态区域的担忧。",
+          "source": "Ars Technica",
+          "source_url": "https://feeds.arstechnica.com/arstechnica/index"
+        },
+        {
+          "id": "08",
+          "title": "SpaceX AI营收首超航天",
+          "body": "SpaceX财报显示其AI相关收入同比增长三倍至26亿美元，首次超越传统航天发射业务的营收规模。增长主要来自为AI公司提供星链卫星算力服务的商业协议。这标志着SpaceX正从单纯的航天运输公司转型为天地一体化的AI基础设施提供商，开创了航天企业的新商业模式。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/rss/index.xml"
+        },
+        {
+          "id": "09",
+          "title": "Swift卫星抢救方案启动",
+          "body": "NASA工程师团队公布Swift伽马射线暴探测卫星的抢救方案，计划发射一颗小型服务卫星为其补充燃料并修复姿态控制系统。Swift已服役22年，远超原定2年的设计寿命，是天文学领域最重要的时域天文观测平台。若抢救成功，它将开创在轨服务延长科学卫星寿命的先例。",
+          "source": "Ars Technica",
+          "source_url": "https://feeds.arstechnica.com/arstechnica/index"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "基因编辑让活细胞可编程",
+          "body": "华人科学家丛乐创办Acelegen，利用新一代基因编辑技术将活细胞改造为可编程计算平台，能感知环境信号并执行逻辑运算。这项技术将合成生物学与计算机科学深度融合，有望催生智能细胞疗法——在体内自主检测疾病标志物并精准释放药物，推动精准医学进入活体计算时代。",
+          "source": "MIT TR China",
+          "source_url": "https://www.mittrchina.com"
+        },
+        {
+          "id": "11",
+          "title": "AI核电需求让西屋电气重生",
+          "body": "拥有140年历史的西屋电气公司因AI数据中心的巨大核电需求而迎来复兴，特朗普政府近期与沙特达成核能合作框架协议，预计为美国核工业带来数十亿美元订单，西屋电气为首要受益者。AI产业的电力饥渴正重塑全球核能产业格局，老牌核能企业借势重回舞台中央。",
+          "source": "MIT TR China",
+          "source_url": "https://www.mittrchina.com"
+        },
+        {
+          "id": "12",
+          "title": "激光技术为核反应堆提燃料",
+          "body": "美国肯塔基州一座已关闭铀浓缩工厂的数千个储存钢瓶中仍含有大量可利用的铀，科学家正利用先进激光同位素分离技术从核废料中重新提取核燃料。该技术若商业化成功，可将核废料转化为宝贵资源，缓解铀矿供应紧张并减少核废料储存负担，为全球核能可持续发展提供新路径。",
+          "source": "MIT TR China",
+          "source_url": "https://www.mittrchina.com"
+        }
+      ]
+    }
+  ]
+}
