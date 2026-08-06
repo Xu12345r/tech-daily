@@ -1,0 +1,116 @@
+{
+  "date": "2026-08-07",
+  "weekday": "周五",
+  "lunar": "农历六月廿五",
+  "cover_quote": "博观而约取，厚积而薄发。—— 苏轼",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "谷歌AI领导层大换血",
+          "body": "DeepMind CEO哈萨比斯卸任，效力谷歌27年的Jeff Dean宣布离职创业，Gemini也迎来新掌门人。这标志着谷歌AI核心管理层完成代际更迭，技术方向与组织架构面临全面重塑，对全球AI竞争格局产生深远影响，也预示着科技巨头AI人才流向创业生态的趋势加速。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/"
+        },
+        {
+          "id": "02",
+          "title": "字节讨论训超5万亿参数模型",
+          "body": "字节跳动正讨论训练参数规模超5万亿的大模型，远超阿里Qwen 3.8-Max（2.4万亿）和月之暗面K3（2.8万亿），将成为国内已知参数最大模型。该计划由Seed负责人项亮主导，若落地将重塑国内大模型竞争格局，推动算力需求新一轮增长，备受业界瞩目。",
+          "source": "36氪",
+          "source_url": "https://36kr.com"
+        },
+        {
+          "id": "03",
+          "title": "阿里万相3.0视频模型公测",
+          "body": "阿里云发布视频生成模型Wan3.0，单次可生成30秒视频，首次支持doc、xls、ppt等文档格式驱动生成。API定价0.3-1.2元/秒，面向企业级创意生产场景开放，将推动视频内容工业化生产进入新阶段，显著降低专业视频制作门槛与成本，备受业界瞩目。",
+          "source": "36氪",
+          "source_url": "https://36kr.com"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "MIT分子电子学芯片突破",
+          "body": "MIT团队将单个分子塞入电极缝隙制造纳米级晶体管，一次性制备超1000个器件，成功率达96%。当传统硅基晶体管逼近物理极限，分子电子学为芯片持续微缩提供了可行路径，有望突破摩尔定律瓶颈，引领后硅时代计算架构变革，受到了全球半导体界高度关注。",
+          "source": "MIT科技评论",
+          "source_url": "https://www.mittrchina.com"
+        },
+        {
+          "id": "05",
+          "title": "传奇黑客造透明芯片",
+          "body": "传奇黑客Andrew Huang首次实现「透明芯片」：从硬件设计到软件代码全部公开可验证，消除芯片供应链中隐蔽后门风险。此举回应了全球对硬件安全日益增长的担忧，为开源硬件运动设立了可审计的新标杆，或将推动芯片产业信任机制变革，引发全球业界高度关注。",
+          "source": "MIT科技评论",
+          "source_url": "https://www.mittrchina.com"
+        },
+        {
+          "id": "06",
+          "title": "AMD收购Taalas加速推理",
+          "body": "AMD收购AI推理芯片初创公司Taalas，其核心技术是将模型直接蚀刻进硅片以大幅提升推理性能。此举标志着AMD在AI芯片领域加速追赶英伟达，通过硬件-模型深度融合开辟差异化竞争路径，可能改变AI推理芯片市场格局，引发全球AI芯片产业广泛关注。",
+          "source": "Hacker News",
+          "source_url": "https://www.theregister.com/2026/08/06/amd_acquires_taalas/"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "NASA将发射暗能量望远镜",
+          "body": "NASA计划8月底发射南希·格雷斯·罗曼空间望远镜，主任务为研究暗能量与宇宙运行机制，同时兼具小行星探测与地球防御能力。这台新一代太空望远镜将接替哈勃和韦伯，以百倍视场开辟广域红外巡天新纪元，推动宇宙学研究迈入新阶段，引起天文学界高度关注。",
+          "source": "MIT科技评论",
+          "source_url": "https://www.mittrchina.com"
+        },
+        {
+          "id": "08",
+          "title": "蓝色起源确认火箭事故根因",
+          "body": "Blue Origin确认此前火箭灾难性事故根因为BE-4发动机主氧气阀异常，调查取得关键进展。作为亚马逊Kuiper星座和美国国家安全发射的主力发动机，BE-4的可靠性直接影响数千颗卫星部署计划及商业航天竞争态势，复飞时间表备受业界关注。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/08/blue-origin-narrowing-in-on-root-cause-of-catastrophic-rocket-accident/"
+        },
+        {
+          "id": "09",
+          "title": "星链移动宣称超越传统运营商",
+          "body": "SpaceX声称其星链移动服务将在覆盖和可靠性上超越AT&T、T-Mobile和Verizon，计划在全美部署小型地面基站。卫星直连手机模式若成功将颠覆传统移动通信范式，消除信号盲区并重塑全球通信基础设施，传统运营商面临前所未有的结构性挑战。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/tech-policy/2026/08/spacex-claims-starlink-mobile-will-be-better-than-att-t-mobile-and-verizon/"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "大基因组模型设计全新病毒",
+          "body": "研究人员利用大基因组模型（LGM）AI系统，成功设计出基因上迥异于天然噬菌体的全新病毒，可精准杀灭特定细菌。这标志着AI从分析生物学进入合成生物学新阶段，为应对抗生素耐药危机提供了全新思路，可能变革噬菌体疗法研发范式，引发AI生物安全治理的广泛讨论。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/"
+        },
+        {
+          "id": "11",
+          "title": "莫德纳mRNA流感疫苗获批",
+          "body": "Moderna的mRNA流感疫苗mFLUSIVA获FDA批准用于50岁及以上成人，成为首款获批的mRNA流感疫苗。这标志着mRNA技术平台从新冠疫苗拓展至季节性流感防控，验证了mRNA平台快速应对病毒变异的核心优势，为年度疫苗研发模式带来变革。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/health/2026/08/modernas-mrna-flu-shot-earns-fda-approval-after-rollercoaster-review/"
+        },
+        {
+          "id": "12",
+          "title": "新冠唤醒体内潜伏病毒",
+          "body": "最新研究发现近半数新冠住院患者体内潜伏病毒（如EB病毒）被重新激活，揭示了长新冠症状的可能机制。这一发现为新冠后遗症治疗提供了新靶点，也引发了对病毒共感染与免疫系统长期损伤关系的重新审视，可能改变慢性病诊疗思路，引起全球医学界高度关注与讨论。",
+          "source": "MIT科技评论",
+          "source_url": "https://www.mittrchina.com"
+        }
+      ]
+    }
+  ]
+}
