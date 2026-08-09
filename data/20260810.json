@@ -1,0 +1,116 @@
+{
+  "date": "2026-08-10",
+  "weekday": "周一",
+  "lunar": "农历六月廿八",
+  "cover_quote": "博观而约取，厚积而薄发。—— 苏轼",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "GPT-5.6向10亿用户免费",
+          "body": "OpenAI宣布将旗舰模型GPT-5.6免费开放给全球10亿ChatGPT用户，无需订阅即可无限使用全部功能。这是大模型商业模式的分水岭，AI能力从付费门槛走向全民普惠，将倒逼Anthropic、谷歌等对手调整定价策略，加速行业进入零边际成本时代。",
+          "source": "量子位",
+          "source_url": "https://www.qbitai.com"
+        },
+        {
+          "id": "02",
+          "title": "Jeff Dean离职谷歌创业",
+          "body": "谷歌AI传奇人物Jeff Dean宣布离职创业，其商业计划书曝光后引发硅谷VC争抢，月之暗面杨植麟亦列名其中。此举标志谷歌AI核心人才加速外溢，大厂出走的技术领袖正重塑AI创业格局，推动新一轮技术创新浪潮，引发全球AI产业格局的深度重塑讨论。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16753"
+        },
+        {
+          "id": "03",
+          "title": "图灵奖得主：因果模型通AGI",
+          "body": "图灵奖得主Judea Pearl指出，当前大模型仅学习统计规律而缺乏因果推理能力，真正的AGI必须理解变量之间的因果关系。这一论断挑战了「规模即智能」的主流范式，为AI发展指明新方向：从相关走向因果，从预测走向干预，此举引发AI研究范式深刻反思与讨论。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16758"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "全球首款可食用AI芯片问世",
+          "body": "科学家研发出全球首款可食用AI芯片，将计算能力与生物兼容性结合，可安全摄入人体执行诊断与监测任务。这一颠覆性技术打破了芯片必须为硅基材料的常识，开辟医疗植入物和消化道智能监测的全新赛道，为精准医疗时代提供全新工具，引发半导体产业界高度关注。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16759"
+        },
+        {
+          "id": "05",
+          "title": "MIT超导塞进1纳米缝隙",
+          "body": "MIT团队成功将超导材料嵌入仅1纳米宽的缝隙中，证明量子芯片可在原子尺度继续微缩。这项突破超越了超导器件的物理尺寸极限，为下一代量子计算芯片的高密度集成铺平道路，有望将量子比特密度提升数个数量级，加速实用化量子计算机落地，引发量子计算领域广泛关注。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16750"
+        },
+        {
+          "id": "06",
+          "title": "机器人10分钟学会新技能",
+          "body": "前DeepMind机器人团队创立的公司展示了全新范式：工人通过手把手示教，机器人仅需10分钟即可学会一项新技能。这与传统数月编程调试形成鲜明对比，将大幅降低制造业自动化门槛，加速工业机器人在中小企业规模化落地，推动全球制造业智能化转型进程加速。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16748"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "AI给「人造太阳」装大脑",
+          "body": "中国科学家王明阳将AI技术应用于核聚变研究，用机器学习优化「人造太阳」的超导磁体设计与控制系统。聚变能源被誉为终极清洁能源，AI的介入将研发周期从「自行车时代」推进到「汽车时代」，加快商业化聚变发电进程，助推全球双碳目标实现，引起国际聚变界高度关注。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16751"
+        },
+        {
+          "id": "08",
+          "title": "DeepMind飓风预测突破",
+          "body": "DeepMind发布新型飓风预测模型，在路径和强度预测精度上远超传统数值天气预报，令气象科学家感到惊讶。更准确的飓风预警可提前数天为沿海地区提供疏散时间窗口，每年有望挽救数千生命并减少数百亿美元损失，标志着AI在气象科学的应用正式迈入实用化阶段。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com"
+        },
+        {
+          "id": "09",
+          "title": "火星首辆自动驾驶车成功",
+          "body": "NASA毅力号火星车搭载的自研自动驾驶系统在火星表面成功运行，成为首辆在外星球实现全自主行驶的车辆。该技术验证了极端环境下自主导航的可行性，为未来月球基地和火星殖民地的无人运输系统奠定坚实技术基础，推动人类深空探索进入新阶段，引发全球航天界高度关注。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "AlphaFold团队散场背后",
+          "body": "AlphaFold核心团队成员大量转岗或离职，诺奖得主John Jumper也加入Anthropic，标志蛋白质结构预测的AI红利期趋于尾声。这一转折表明单点突破后的科学AI正从「结构预测」转向更复杂的「功能设计」，产业正式进入深水区探索阶段。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16749"
+        },
+        {
+          "id": "11",
+          "title": "粪便移植治过敏人体证实",
+          "body": "科学家首次在人体临床试验中证实，粪便微生物移植可有效治疗过敏性疾病。该研究将「粪菌疗法」从肠道疾病拓展到免疫调节领域，为全球数亿过敏患者提供了全新的非药物干预手段，开辟了微生物组医学全新前沿方向，积极推动微生物组疗法加速进入临床转化快车道。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16747"
+        },
+        {
+          "id": "12",
+          "title": "近700种肿瘤模型助抗癌",
+          "body": "科学家构建了近700种源自患者的肿瘤类器官模型，完整保留原始肿瘤的遗传和分子特征，为精准抗癌药物筛选提供了前所未有的实验平台。这将大幅降低新药研发失败率，加速从「千人一药」到「一人一药」的精准治疗转型，推动肿瘤治疗进入个体化时代，引发全球肿瘤学界高度关注。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16760"
+        }
+      ]
+    }
+  ]
+}
