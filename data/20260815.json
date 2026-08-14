@@ -1,0 +1,116 @@
+{
+  "date": "2026-08-15",
+  "weekday": "周六",
+  "lunar": "农历七月初三",
+  "cover_quote": "天行健，君子以自强不息。——《周易》",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "智谱GLM-5.3发布",
+          "body": "智谱发布新一代大模型GLM-5.3，编程能力大幅提升，逼近Anthropic旗舰Fable 5，并在测试中揪出潜伏40年的底层漏洞，相关讨论登上Hacker News榜首。这表明国产大模型在智能体编程等前沿能力上首次与海外顶级模型正面对标。其开放策略叠加低成本，有望加速AI编程助手从海外闭源主导走向多元竞争格局。",
+          "source": "QbitAI",
+          "source_url": "https://www.qbitai.com"
+        },
+        {
+          "id": "02",
+          "title": "DeepSeek V4 Pro",
+          "body": "DeepSeek发布V4 Pro正式版，多项指标对标甚至追平Anthropic的Fable 5，但API价格仅为后者的2%左右。这延续了其极致性价比路线，用高性能低价格直接冲击闭源模型的定价体系。此举可能进一步压缩海外闭源厂商的商业空间，并加速整个行业AI推理成本的下探。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16778"
+        },
+        {
+          "id": "03",
+          "title": "Meta正式重回开源路线",
+          "body": "扎克伯格发表万字长文炮轰闭源，称模型蒸馏无罪，并宣布Meta正式重回开源模型路线。这一表态直接回应了业界持续升温的闭源与开源之争，为开源阵营注入了强心剂。此举或将加剧头部厂商在模型开放策略上的分化，并深刻影响全球AI开发者与云厂商生态的长期走向。",
+          "source": "InfoQ",
+          "source_url": "https://www.infoq.cn"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "4.8亿美元押注端侧AI芯片",
+          "body": "一家端侧AI芯片创业公司完成4.8亿美元融资，押注面向智能体Agent的端侧算力芯片。随着端侧大模型与AI智能体兴起，算力需求正从云端向终端设备迁移，专用推理芯片成为新的竞争焦点。这笔巨额融资反映出资本对端侧AI长期需求的看好，将加速相关芯片的研发与商用落地。",
+          "source": "QbitAI",
+          "source_url": "https://www.qbitai.com"
+        },
+        {
+          "id": "05",
+          "title": "荣耀发布全球首款机器人手机",
+          "body": "荣耀发布全球首款机器人手机Robot Phone，将机械臂与多模态感知整合进手机，引领智能终端迈入具身交互时代。这标志着消费电子厂商开始把机器人能力下沉到随身设备，探索手机形态的下一次跃迁。该产品有望催生全新应用场景，推动具身智能从实验室走向大众消费市场。",
+          "source": "QbitAI",
+          "source_url": "https://www.qbitai.com"
+        },
+        {
+          "id": "06",
+          "title": "机器人大脑之争进入深水区",
+          "body": "机器人大脑之争进入深水区，业内观点认为物理世界需要从头设计专用的具身智能模型，而非简单复用语言大模型。这反映出业界对通用大模型能否胜任机器人实时控制的分歧正在加深。若专用模型路线成立，机器人基础模型研发将成长为独立赛道，重塑具身智能的技术栈。",
+          "source": "InfoQ",
+          "source_url": "https://www.infoq.cn"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "韦布望远镜发现黑洞星",
+          "body": "韦布空间望远镜发现全新天体黑洞星，编号MoM-BH*-1，外围是太阳系尺度的致密氢气包层，中心藏着约10万倍太阳质量的黑洞，成果发表于Nature。这是人类首次获得相对干净的黑洞星光谱，为早期宇宙超大质量黑洞快速成长提供了关键观测样本，并有望解开小红点天体之谜。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16785"
+        },
+        {
+          "id": "08",
+          "title": "杭州发布站姿载人飞行器",
+          "body": "杭州发布全球首款站姿载人飞行器，人可站立其上实现个人空中飞行，标志着个人低空出行正式从概念走向实机。该产品将eVTOL与个人飞行器形态结合，大幅降低了低空飞行的使用门槛。它有望推动低空经济加速发展，同时也对空中交通管理和安全监管提出了新的挑战。",
+          "source": "QbitAI",
+          "source_url": "https://www.qbitai.com"
+        },
+        {
+          "id": "09",
+          "title": "MIT搭建可重构光子平台",
+          "body": "MIT唐皓凝团队搭建通用可重构光子平台，用MEMS连续调节纳米级层间距与扭转角，把机械位移转化为可编程光学变量，成果发表于Nature Photonics。这让光子系统有望像集成电路一样在制造后持续重配置。该技术为高维光场调控、光计算和智能光子系统提供了底层基础。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16767"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "公老鼠也能生崽了",
+          "body": "日本团队用名为Y-CUT的CRISPR工具剔除Y染色体，成功从雄性小鼠细胞克隆出可育的雌性小鼠，研究以预印本形式发表于bioRxiv。这颠覆了繁殖必须雌雄共同参与的传统认识。该技术未来有望与冷冻细胞库结合，从仅存的雄性样本中培育雌性以拯救濒危物种，并降低基因工程动物的培育成本。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16780"
+        },
+        {
+          "id": "11",
+          "title": "复旦破解核材料百年难题",
+          "body": "复旦大学张宏亮团队破解核材料百年难题，开发低温反应磁控溅射工艺，将MAX相陶瓷制备温度从千度以上降至450℃，并首次在碳化硅中发现辐照诱导偏析，成果登上Nature Materials。这为托卡马克等人造太阳装置筛选抗辐照材料提供了新手段，有望让核能变得更安全、更经济。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16773"
+        },
+        {
+          "id": "12",
+          "title": "超声贴片直接调控睡眠结构",
+          "body": "得州大学奥斯汀团队研发可穿戴柔性超声贴片NEUSLeeP，重仅103克，靶向丘脑底核发射聚焦超声，使受试者进入快速眼动睡眠平均提前约43分钟，成果发表于Nature Communications。这把深脑神经调控从大型设备推向居家可穿戴场景，为失眠、抑郁等疾病的非侵入式干预开辟新路径。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16783"
+        }
+      ]
+    }
+  ]
+}
