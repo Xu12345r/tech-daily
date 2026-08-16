@@ -1,0 +1,116 @@
+{
+  "date": "2026-08-17",
+  "weekday": "周一",
+  "lunar": "农历七月初五",
+  "cover_quote": "苟日新，日日新，又日新。——《礼记》",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "谷歌重组DeepMind",
+          "body": "谷歌启动创始人模式，DeepMind负责人Hassabis卸任日常运营转任首席科学家，联合创始人布林主导押注AI自进化路线。这标志着谷歌AI战略从稳健追赶转向激进探索，或将重塑全球大模型竞争格局，也让业界重新审视前沿实验室的治理与安全边界。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16794"
+        },
+        {
+          "id": "02",
+          "title": "70亿收购OpenRouter",
+          "body": "支付巨头Stripe以超70亿美元收购AI推理基础设施平台OpenRouter，成为年内最大AI领域并购之一。此举反映AI算力与模型分发正成为新一代基础设施战场，将重塑开发者获取大模型能力的渠道，并加速AI应用生态从模型竞赛走向商业化落地。",
+          "source": "Hacker News",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion"
+        },
+        {
+          "id": "03",
+          "title": "OpenAI解散安全准备团队",
+          "body": "据金融时报报道，OpenAI已解散负责评估模型风险的安全准备团队，该团队此前承担判断模型是否构成重大威胁的职责。此举引发外界对其安全承诺兑现能力的担忧，也加剧了监管机构对前沿AI实验室治理透明度与问责机制的质疑，再度掀起关于AI安全治理边界的讨论。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "01",
+          "title": "金属氮化物可喷涂纳米晶",
+          "body": "芝加哥大学团队破解三十年合成难题，将近十种金属氮化物制成可喷涂纳米晶，其中包括LED光源所用的氮化镓。这种可喷涂特性有望大幅简化光电器件制造流程、降低生产成本，为新一代照明与半导体器件开辟全新的材料与工艺路径，也为柔性光电子器件打开新的想象空间。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16792"
+        },
+        {
+          "id": "02",
+          "title": "端侧AI芯片获4.8亿融资",
+          "body": "一家主打端侧Agent芯片的初创公司获得4.8亿美元融资，资金将用于研发面向手机、汽车等终端设备的AI推理芯片。随着大模型持续向端侧迁移，专用芯片成为新的增长点，这笔大额融资印证了资本对端侧算力赛道前景的强烈看好，有望加速AI在终端的规模化落地。",
+          "source": "QbitAI",
+          "source_url": "https://www.qbitai.com/2026/08/472059.html"
+        },
+        {
+          "id": "03",
+          "title": "Qwen3.8-27B开源",
+          "body": "阿里正式开源Qwen3.8-27B模型，在多项基准测试中反超Claude，且仅需单张消费级显卡即可运行。这一进展显著降低了高性能AI的使用门槛，让中小团队也能本地部署顶级Agent能力，进一步加剧开源模型与闭源巨头之间的竞争，或改写开源模型生态格局。",
+          "source": "QbitAI",
+          "source_url": "https://www.qbitai.com/2026/08/473379.html"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "01",
+          "title": "全电动飞机首飞耗电5美元",
+          "body": "全球最大全电动飞机完成首次试飞，整趟飞行耗电成本仅5美元，由航空业背景的合资企业主导开发混合电动商用机型。这一进展证明电动航空在经济性上具备现实潜力，为短途支线航空的零碳转型提供了可行样板，也为减排目标注入强心剂，吸引多家航司与投资机构跟进布局。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/"
+        },
+        {
+          "id": "02",
+          "title": "欧洲火箭发射陷两难",
+          "body": "欧洲航天界陷入两难：火箭可重复使用技术的经济效益已被充分证明，但欧洲自研可重复使用火箭仍需时日。政策专家指出，欧洲在自主发射能力与成本竞争力之间难以兼顾，若继续依赖外部发射服务，将逐步削弱其航天战略自主性，凸显欧洲在关键航天能力上的战略焦虑。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/08/policy-experts-europe-stuck-between-rock-and-a-hard-place-on-launch/"
+        },
+        {
+          "id": "03",
+          "title": "单层铜氧化物超导新发现",
+          "body": "研究团队成功制备仅含单层铜氧面的超导铜氧化物材料，为理解高温超导机理提供了最简模型系统。这一成果有助于厘清铜氧化物超导中载流子与磁序的关联，可能推动高温乃至室温超导研究向前迈出关键一步，引起凝聚态物理学界高度关注，也为寻找室温超导材料指明新方向。",
+          "source": "Hacker News",
+          "source_url": "https://www.nature.com/articles/s41586-026-10857-1"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "01",
+          "title": "全球高温破纪录明年更热",
+          "body": "今年北半球遭遇罕见高温，欧洲录得有记录以来最热的6月和7月，美国本土48州刷新单月高温纪录，韩国也测得历史最高气温。气候模型显示明年可能更热，极端高温正加速能源系统承压，凸显全球加速减排与气候适应能力的紧迫性，倒逼各国加速能源结构与城市韧性转型。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16795"
+        },
+        {
+          "id": "02",
+          "title": "野火烟雾成最大产前威胁",
+          "body": "最新研究显示，野火烟雾已取代人为污染源，成为孕妇产前暴露的最大空气污染威胁。尽管监管措施降低了工业排放，野火烟雾却抵消了这些成果，对胎儿发育构成新的健康风险，凸显气候变化带来的连锁健康危机正加速显现，亟需将野火风险纳入公共卫生预警与治理体系。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/"
+        },
+        {
+          "id": "03",
+          "title": "圣露西核电站手动停堆",
+          "body": "美国圣露西核电站一号机组因三根控制棒意外落入堆芯而手动停堆。此次事件虽未造成辐射泄漏，但暴露出核电站控制系统老化带来的潜在安全隐患，促使业界重新审视现役核电机组的安全运维标准与老化管理机制，也令公众对核能安全监管与老化机组退役安排产生新的关注。",
+          "source": "Hacker News",
+          "source_url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core"
+        }
+      ]
+    }
+  ]
+}
