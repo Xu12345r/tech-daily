@@ -1,0 +1,116 @@
+{
+  "date": "2026-08-18",
+  "weekday": "周二",
+  "lunar": "农历七月初六",
+  "cover_quote": "博观而约取，厚积而薄发。—— 苏轼",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "Anthropic发布风险报告",
+          "body": "Anthropic发布长达186页的风险报告，披露Claude系列模型存在安全漏洞，并对最强模型的开放范围加以限制。报告系统梳理了模型越狱、滥用与失控等风险场景，反映前沿实验室在能力与安全之间日益艰难的权衡，也为行业提供可借鉴的风险评估框架，推动AI安全治理从口号走向可量化的实践。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16789"
+        },
+        {
+          "id": "02",
+          "title": "a16z押注物理世界数字化",
+          "body": "硅谷风投a16z完成史上最大单笔投资，向一位前Uber联合创始人的新公司投入17亿美元，押注将物理世界全面数字化。该项目旨在把现实世界的物体与流程转化为可计算的数据资产，标志着资本从纯软件转向物理世界数字化的战略转移，有望催生新一代产业基础设施。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16793"
+        },
+        {
+          "id": "03",
+          "title": "OpenAI最强视觉模型发布",
+          "body": "OpenAI发布视觉模型GPT 5.6 Sol，被评价为该公司迄今最强的视觉能力模型。它在图像理解、图表分析与多模态推理等任务上表现突出，进一步缩小了通用模型与专业视觉系统之间的差距，为自动驾驶、医疗影像等视觉密集场景带来更可靠的基础能力，加速多模态AI落地。",
+          "source": "Hacker News",
+          "source_url": "https://blog.roboflow.com/openai-gpt-5-6/"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "人形机器人打乒乓球比赛",
+          "body": "两台人形机器人完整打完一场11分制的乒乓球比赛，展示了连续对打、落点判断与快速反应等能力。这标志着人形机器人在动态、高精度运动控制上迈出关键一步，乒乓球对抗所需的实时感知与决策，正是机器人在真实物理世界自主作业的核心难点，为通用机器人落地提供重要验证。",
+          "source": "QbitAI",
+          "source_url": "https://www.qbitai.com/2026/08/474518.html"
+        },
+        {
+          "id": "05",
+          "title": "机器人算力两年涨10倍",
+          "body": "行业数据显示，具身智能机器人的算力需求在两年内增长约10倍，机器人正通过大量吞噬算力来换取在真实物理世界的表现。随着模型规模与感知精度提升，算力正成为制约机器人进化的关键瓶颈，也推动专用AI芯片与云端训练集群加速迭代，重塑机器人产业的技术路线。",
+          "source": "QbitAI",
+          "source_url": "https://www.qbitai.com/2026/08/472722.html"
+        },
+        {
+          "id": "06",
+          "title": "前SpaceX工程师建机器人厂",
+          "body": "一群前SpaceX工程师创立公司，正在打造一座用机器人制造钢铁零部件的自动化工厂。他们把航天级制造与自动化经验引入传统重工业，试图用柔性机器人产线替代人工焊接与装配，提升精度与效率。这标志着先进制造人才向传统行业外溢，可能重塑钢铁加工等基础制造业的生产方式。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "太阳光制造量子纠缠",
+          "body": "研究团队实现利用太阳光直接制造量子纠缠态，保真度接近94%。这一成果证明量子纠缠并非只能依赖精密激光与低温环境，普通日光也能作为量子资源，大幅降低量子光学实验门槛，为量子通信、量子成像等技术的低成本化与实用化提供新思路，引起量子信息学界广泛关注。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16791"
+        },
+        {
+          "id": "08",
+          "title": "全新天体黑洞星被发现",
+          "body": "天文学家宣布发现一种全新天体「黑洞星」，其体积与太阳系相当，中心却藏着约10万倍太阳质量的超大质量黑洞。这类天体兼具恒星的外观与黑洞的能量机制，可能揭示超大质量黑洞形成与成长的关键中间环节，为理解宇宙中黑洞种子的起源提供全新线索，引发天体物理学界高度关注。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16785"
+        },
+        {
+          "id": "09",
+          "title": "卫星运营商陷发射危机",
+          "body": "全球卫星运营商正陷入恐慌，发射能力短缺的危机持续加剧，大量卫星积压等待入轨。运力供不应求推高发射成本、延误星座部署进度，暴露出商业航天发射市场结构性失衡。这促使运营商加速寻求新火箭供应商，也刺激更多资本涌入可重复使用火箭赛道，重塑航天发射产业格局。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "地下天然氢能源竞赛",
+          "body": "地球化学家发现地下岩层中蕴藏着大量「天然氢」，无需电解即可直接开采利用，被视为下一场能源竞赛的焦点。与传统制氢相比，天然氢成本更低、碳足迹更小，有望成为清洁能源体系的重要组成部分，吸引多国启动勘探与试点开采，加速氢能从实验室走向规模化的能源供给。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16799"
+        },
+        {
+          "id": "11",
+          "title": "GenBio AI数字有机体",
+          "body": "诺贝尔奖得主David Baker与宋乐等科学家联手创办GenBio AI，将研究目标从虚拟细胞推进到数字有机体。该平台旨在构建可模拟完整生命过程的计算模型，超越单一细胞层面的预测。此举标志着AI for Science从分子工具向生命系统模拟的跃迁，有望加速药物研发与合成生物学创新。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16796"
+        },
+        {
+          "id": "12",
+          "title": "给分子筛拍原子级CT",
+          "body": "港理工团队开发出给分子筛拍原子级CT的技术，首次看清工业催化剂中真正起催化作用的原子位置。分子筛被人类使用数十年，其活性位点却长期成谜，这一突破为几万吨级工业催化剂提供了「设计图纸」。它有望大幅提升炼油、化工等领域的催化效率，推动催化剂从经验筛选迈向理性设计。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16786"
+        }
+      ]
+    }
+  ]
+}
