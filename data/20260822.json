@@ -1,0 +1,116 @@
+{
+  "date": "2026-08-22",
+  "weekday": "周六",
+  "lunar": "农历七月初十",
+  "cover_quote": "路漫漫其修远兮，吾将上下而求索。—— 屈原",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "DeepSeek V4补齐视觉",
+          "body": "DeepSeek发布V4视觉版本，补齐了此前缺失的多模态能力，其Agent在视觉任务中的表现逼近OpenAI的Opus 4.8。这标志着DeepSeek在通往通用Agent的道路上补上关键短板，使模型能够理解图像、图表与视频。此举将加剧多模态大模型竞赛，推动推理模型从纯文本走向视觉驱动的自主执行。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16825"
+        },
+        {
+          "id": "02",
+          "title": "AI自主科研新基准",
+          "body": "十余家机构联合发布全新基准，让AI在无提示词的情况下裸考科研任务，检验其自主科研能力。评测显示，主流模型脱离人类引导后表现明显下滑，距离独立科研仍有较大差距。这一基准为衡量AI真实科研水平提供了更严格的标尺，也警示业界不要高估当前模型的自主性。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16811"
+        },
+        {
+          "id": "03",
+          "title": "AI迈向经验时代",
+          "body": "天大教授郝建业创业，以可学习记忆为底座，推动AI从依赖静态参数走向积累经验的新范式。其思路是让模型像人一样从交互中持续学习和记忆，解决大模型容易遗忘的痛点。若这一方向跑通，AI将摆脱每次从头推理的局限，向更接近人类智能的经验型系统迈进，为通用智能探索开辟新方向。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16826"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "SK海力士押注CPO",
+          "body": "SK海力士宣布押注下一代CPO光互连技术，推动光通信从数据中心网络进一步深入到AI芯片与内存内部。随着算力需求激增，传统电互连的带宽与功耗瓶颈日益凸显，光互连成为突破方向。这一布局有望重塑存储与计算芯片的架构，加速AI基础设施向更高性能演进。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16817"
+        },
+        {
+          "id": "05",
+          "title": "人形机器人分销商转向",
+          "body": "美国禁止进口中国人形机器人后，宇树机器人最大的美国分销商被迫转型，转向销售本土或其他来源的同类产品。禁令切断了中国领先人形机器人在美销售渠道，凸显地缘政治对新兴机器人产业的冲击。这既给美国本土机器人公司带来市场机会，也加速了全球人形机器人供应链的重组。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/"
+        },
+        {
+          "id": "06",
+          "title": "GPU内存读取揭秘",
+          "body": "一篇技术深度文章解析了GPU读取显存时的底层机制，揭示现代图形处理器如何通过大规模并行与缓存调度隐藏内存延迟。理解这一过程对优化深度学习训练与推理性能至关重要，因为显存带宽常是算力发挥的瓶颈。这些洞察有助于开发者写出更高效的内核，降低大模型运行成本。",
+          "source": "Hacker News",
+          "source_url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "回收火箭中国追十年",
+          "body": "文章梳理了中国为何用了十年时间追赶火箭回收技术，解析其背后的工程难度与产业链积累。可重复使用火箭能大幅降低发射成本，是商业航天与卫星互联网大规模组网的关键。随着国内多家火箭公司加速回收试验，中国正逐步缩小与SpaceX的差距，迈入低成本太空时代。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16820"
+        },
+        {
+          "id": "08",
+          "title": "宇宙最大二维地图",
+          "body": "科学家发布迄今最大的宇宙二维地图，覆盖数十亿星系，为研究暗能量与宇宙大尺度结构提供了前所未有的数据。该地图由新一代巡天观测数据拼接而成，精确刻画了物质在宇宙中的分布。它将帮助天文学家更准确地测量宇宙膨胀历史，检验现有宇宙学模型的正确性，推动暗能量研究进入精确时代。",
+          "source": "Hacker News",
+          "source_url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/"
+        },
+        {
+          "id": "09",
+          "title": "哈勃辐射相位异常",
+          "body": "一项研究发现哈勃望远镜所受辐射损伤与太阳活动周期的相位存在4.3年的错位，挑战了此前对空间辐射环境的认知。这一异常或与太阳磁场结构及高能粒子传播机制有关，对卫星防护设计具有重要参考价值。研究提醒航天工程需重新审视太阳周期对在轨设备的影响模型。",
+          "source": "Hacker News",
+          "source_url": "https://arxiv.org/abs/2608.18214"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "Moderna黑色素瘤疫苗",
+          "body": "Moderna的黑色素瘤mRNA疫苗三期临床试验取得成功，消息公布当天公司股价暴涨超100%。这是mRNA技术继新冠疫苗后，在癌症治疗领域取得的又一重大突破，验证了个性化肿瘤疫苗的可行性。若最终获批上市，将开启癌症免疫治疗的新篇章，惠及广大肿瘤患者。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16813"
+        },
+        {
+          "id": "11",
+          "title": "智能益生菌感知血糖",
+          "body": "中国团队研发出一种智能益生菌，能自动感知体内血糖水平并作出响应，相关成果已完成产业转化。这种工程菌可在肠道内实时监测血糖波动，为糖尿病管理提供无创的新思路。它展示了合成生物学在慢性病管理中的潜力，有望推动活体药物从实验室走向临床应用，为糖尿病无创管理打开新窗口。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16819"
+        },
+        {
+          "id": "12",
+          "title": "地下天然氢能源",
+          "body": "文章探讨了地下天然氢作为下一场能源竞赛的焦点，其零碳且可大规模开采的特性引发全球关注。相比人工制氢，天然氢储量可能巨大且成本更低，被视为潜在的清洁能源新来源。多国已启动勘探，若能实现商业化开采，或将重塑全球能源格局，助力碳中和目标的实现，开启清洁能源探索新赛道。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16799"
+        }
+      ]
+    }
+  ]
+}
