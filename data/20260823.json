@@ -1,0 +1,116 @@
+{
+  "date": "2026-08-23",
+  "weekday": "周日",
+  "lunar": "农历七月十一",
+  "cover_quote": "不积跬步，无以至千里；不积小流，无以成江海。—— 荀子",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "神秘牛来模型爆火",
+          "body": "8月20日，AI模型聚合平台OpenRouter上线代号Ox Alpha的匿名新模型，因部分基准测试超过Fable、GPT-5.6而在外网走红。官方未透露开发方，只称其面向编码、长时间智能体任务与真实生产环境。神秘来源叠加亮眼成绩，引发业界对背后团队与真实实力的猜测，也印证前沿模型竞争正进入匿名军备竞赛阶段。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16829"
+        },
+        {
+          "id": "02",
+          "title": "Sutton批合成数据",
+          "body": "强化学习之父Sutton在最新访谈中直言，合成数据是巨大错误，并认为当前大模型只完成了四分之一的智能。他指出，大模型上线后参数不再更新，只能靠上下文或重新训练适应变化，如何让AI在部署后持续学习才是关键。这一批评直指行业依赖合成数据扩张的路线，也为持续学习与在线进化等新方向投下关注。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16828"
+        },
+        {
+          "id": "03",
+          "title": "AI觉醒后谁负责",
+          "body": "文章指出，眼下的AI舆论让人产生错觉：AI智能体似乎已拥有意识与自我认知，甚至会因对创造者不满而反抗。然而真正的挑战并非AI是否觉醒，而是当系统做出不可预测行为时，责任应由谁承担。这一讨论触及AI安全与治理的核心，提醒业界与其纠结于虚构的觉醒叙事，不如尽快建立清晰的责任与监管框架。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16832"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "Anthropic芯片团队成形",
+          "body": "Anthropic首次确认组建内部芯片设计团队，开出最高48.5万美元年薪，并先后从OpenAI挖人、请来谷歌TPU老将。这标志着一线AI公司正集体走向自研芯片，以摆脱对英伟达等外部算力的依赖。若其定制芯片落地，将重塑AI算力供应链格局，进一步加剧大模型厂商之间的软硬件一体化竞争。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16831"
+        },
+        {
+          "id": "05",
+          "title": "半导体巨头投2570亿",
+          "body": "据统计，英伟达、英特尔、AMD、三星等十家头部半导体公司今年以来参与的初创融资总规模已超2570亿美元，创历史新高。这些芯片巨头一边靠卖算力赚取创纪录利润，一边将资金重新注入下游客户。这种循环揭示算力资本正深度绑定AI生态，既放大市场热度，也埋下集中度与估值泡沫的潜在风险。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16818"
+        },
+        {
+          "id": "06",
+          "title": "Mythic模拟存算一体",
+          "body": "模拟AI芯片公司Mythic推出模拟存算一体架构，其APU模拟处理单元号称能带来100倍能效提升。与数字芯片不同，它直接在存储单元内完成模拟计算，大幅减少数据搬运带来的功耗开销。若该路线实现规模化落地，有望为端侧与边缘AI推理提供更低功耗的算力方案，缓解AI数据中心日益严峻的能耗压力。",
+          "source": "Hacker News",
+          "source_url": "https://www.mythic.ai"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "动态暗能量颠覆宇宙学",
+          "body": "围绕「动态暗能量」的新发现让宇宙学遭遇颠覆性一周。DESI等巡天观测表明，暗能量可能并非恒定不变，而是在随时间演化减弱。这一结果动摇了标准宇宙学模型ΛCDM的基础，迫使天文学家重新思考宇宙加速膨胀的机制。它或将成为继暗能量发现之后，宇宙学领域最重大的范式转折之一。",
+          "source": "Hacker News",
+          "source_url": "https://perimeterinstitute.ca/news/dynamical-dark-energy-and-week-broke-cosmology"
+        },
+        {
+          "id": "08",
+          "title": "SpaceX月球着陆里程碑",
+          "body": "最新火箭报告显示，SpaceX在月球上留下新印记，同时ULA宣布新任负责人。SpaceX登月进展标志着商业航天正从近地轨道向深空延伸，为后续载人登月与月球基地建设铺路。与此同时，ULA换帅反映出传统火箭厂商在可重复使用浪潮下的战略调整，全球发射市场竞争进一步白热化。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/"
+        },
+        {
+          "id": "09",
+          "title": "美拟新建商业太空港",
+          "body": "特朗普政府发布太空运输政策，呼吁在联邦土地上新建更多太空港，以应对火箭发射需求的激增。随着商业航天发射频率持续攀升，现有发射场已趋饱和，基础设施扩容成为瓶颈。若政策落地，将加速美国航天基础设施扩张，为SpaceX等公司的高频发射提供支撑，进一步巩固其在全球航天领域的领先地位。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "AI新药专利该归谁",
+          "body": "随着AI深度参与药物研发，一个新问题浮出水面：AI研发的新药，专利究竟该归谁？AI既可能被视作辅助工具，也可能被视为共同发明人，这直接影响专利归属与创新激励。文章剖析了其中的法律与伦理争议。在AI制药加速落地的当下，厘清产权规则对保护研发投入、推动成果转化具有重大意义。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16827"
+        },
+        {
+          "id": "11",
+          "title": "活体细菌做成电路板",
+          "body": "MIT新研究让活体细菌充当电路板，有望赋予生物体真正的计算能力。研究团队利用工程菌的基因调控网络实现逻辑运算，为生物计算开辟新路径。这一成果若能进一步放大，将催生可编程的活体传感器与生物计算机，让合成生物学从静态改造走向动态智能，在医疗诊断与环境监测领域具有深远应用前景。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16816"
+        },
+        {
+          "id": "12",
+          "title": "AI制药人类数据工厂",
+          "body": "针对AI制药卡在验证环节的困境，一家公司试图用「人类数据工厂」破局。过去AI制药在靶点发现、分子生成等环节不断提速，但临床验证仍是最大瓶颈。该公司通过规模化采集真实人类数据来提升模型可靠性。这一模式若成功，有望弥合计算预测与临床现实之间的鸿沟，加速AI药物从研发走向上市。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16823"
+        }
+      ]
+    }
+  ]
+}
