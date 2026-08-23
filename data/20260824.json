@@ -1,0 +1,116 @@
+{
+  "date": "2026-08-24",
+  "weekday": "周一",
+  "lunar": "农历七月十二",
+  "cover_quote": "路漫漫其修远兮，吾将上下而求索。—— 屈原",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "DeepSeek补齐视觉短板",
+          "body": "DeepSeek正式上线实验性多模态模型V4-Flash-Vision-Exp并开放API，在多项基准上较V4-Flash明显提升，多模态Agent能力已接近Claude Opus 4.8。这标志着视觉能力首次进入DeepSeek主力模型与Harness智能体工作流，让Agent能看懂屏幕并形成执行闭环，推动国产大模型在智能体赛道进一步逼近国际前沿。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16825"
+        },
+        {
+          "id": "02",
+          "title": "多模态爆发或在2027",
+          "body": "Prana Labs联合创始人朱毅在接受访谈时预测，多模态智能的爆发节点或在2027年到来。他认为随着文本、图像、视频、音频等模态的深度融合，AI将不再局限于单一任务，而是具备更接近人类的综合理解与交互能力。这一判断为产业界规划算力、数据与产品路线提供了时间锚点，也提醒各方提前布局多模态基础设施与人才储备。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16837"
+        },
+        {
+          "id": "03",
+          "title": "GLM-5.3解锁平板",
+          "body": "一位开发者花266美元购入亚马逊Fire HD平板，先后尝试四种AI模型解除其系统限制，最终由国产模型GLM-5.3在一小时内完成破解。整个过程涉及逆向分析、代码编写与跨工具调度，展示了前沿大模型作为自主智能体处理真实设备任务的潜力。该案例在Hacker News引发热议，印证国产开源模型在复杂动手任务上的竞争力正在快速提升。",
+          "source": "Hacker News",
+          "source_url": "https://ericpardee.github.io/fire-hd-ownership/"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "中国队蝉联机器人世界杯",
+          "body": "在韩国仁川举行的RoboCup机器人世界杯上，清华火神队以6:2战胜中国农业大学山海队，连续第二年夺得人形组大型组冠军，领奖台首次被中国队伍包揽。前三名均使用加速进化Booster T1平台，标志标准化硬件让竞争焦点转向算法本身。这一胜利彰显中国在具身智能与双足机器人领域已形成从平台到算法的完整生态，向2050年战胜人类世界杯冠军的愿景再进一步。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16835"
+        },
+        {
+          "id": "05",
+          "title": "全脑接口公司获种子轮",
+          "body": "中国首家以全脑接口为技术定位的高性能脑机接口公司脑器时代宣布完成数千万元种子轮融资，由元禾璞华领投。与单点电极方案不同，全脑接口追求覆盖更大范围的神经信号采集，有望显著提升脑机接口的带宽与精度。这笔融资表明资本对下一代脑机接口路线的认可，也为医疗康复、神经疾病治疗与人机融合等前沿应用注入早期动力。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16833"
+        },
+        {
+          "id": "06",
+          "title": "Wi-Fi 8不再追求速度",
+          "body": "Wi-Fi 8成为多年来首个不再以速度为核心卖点的无线升级标准。它转而聚焦可靠性、低延迟与多设备稳定连接，通过优化频谱调度来应对日益拥挤的无线环境。这一转向反映出产业对用户体验认知的成熟，当网速已能满足多数场景时，连接的稳定与确定性比峰值速率更重要，新标准有望显著改善智能家居与工业物联网的无线体验。",
+          "source": "Hacker News",
+          "source_url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "太空反射镜欲照亮黑夜",
+          "body": "美国公司Reflect Orbital计划发射Eärendil-1测试卫星，展开18米见方的反射镜，未来更计划部署最多5万颗卫星，把阳光反射到地面以延长日照。研究显示其光束可达满月亮度40倍，或将显著改变全球夜空，天文学家警告这会威胁天文观测与野生动物。该计划已获FCC初步批准，但法律与监管框架仍属空白，凸显太空光污染的治理难题。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16836"
+        },
+        {
+          "id": "08",
+          "title": "中国登月发射推迟2027",
+          "body": "出于对绝对成功的极高要求，中国决定将一项关键登月发射任务推迟到2027年。此举反映出中国航天在登月工程上奉行可靠性优先的策略，宁可延后也不冒失败风险，以积累更充分的测试与验证。这一调整虽使时间表后移，却有望提升任务成功率，为后续载人登月与月球科研站建设奠定更坚实的技术基础。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/"
+        },
+        {
+          "id": "09",
+          "title": "欧洲取消阿里安6升级",
+          "body": "欧洲航天局宣布取消阿里安6火箭原计划的升级工作。作为欧洲主力运载火箭，阿里安6在可重复使用浪潮下已显竞争力不足，此次取消升级进一步压缩了其发展空间。这一决定折射出欧洲航天在预算约束与商业竞争压力下的艰难取舍，或使欧洲在全球发射市场的份额进一步让位于SpaceX等可复用火箭玩家。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "AI治病走到哪一步",
+          "body": "Anthropic用Claude设计出能结合多个靶点的新蛋白，莫德纳个体化癌症疫苗在三期试验中达到主要终点，英矽智能AI药物Rentosertib进入三期临床，AI医疗密集传来进展。但文章指出，蛋白结合不等于药物，三期仍未披露生存数据，AI在药物研发中的临床影响依然有限。其真正价值或在于让失败更早发生，从而节省数年时间与数亿美元成本。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16834"
+        },
+        {
+          "id": "11",
+          "title": "椰子油航空燃油媲美煤油",
+          "body": "一项发动机测试显示，由椰子油制成的可持续航空燃油在燃烧效率上与煤油相当。相比传统化石航空燃油，生物质航油可显著降低航空业的全生命周期碳排放，且原料来源可再生。这一结果若在更大规模测试中复现，将为航空业脱碳提供一种可行的替代燃料选项，推动可持续航空燃油的商业化进程提速。",
+          "source": "Hacker News",
+          "source_url": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/"
+        },
+        {
+          "id": "12",
+          "title": "冬眠令小鼠突触流失",
+          "body": "研究显示，诱导小鼠进入冬眠会导致其大脑损失近半突触，但记忆却依然保留。这一反直觉的发现挑战了突触即记忆存储单元的经典观点，提示记忆可能以更稳健的方式编码。该结果为理解睡眠、昏迷及低温治疗下的神经机制提供新视角，也为人类未来长期太空飞行中的低温休眠技术带来重要启示。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/"
+        }
+      ]
+    }
+  ]
+}
