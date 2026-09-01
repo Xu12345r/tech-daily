@@ -1,0 +1,116 @@
+{
+  "date": "2026-09-02",
+  "weekday": "周三",
+  "lunar": "农历七月廿一",
+  "cover_quote": "天行健，君子以自强不息。—— 《周易》",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "Meta多模态预训练",
+          "body": "Meta研究员韩俊霖解读原生多模态AI预训练的最佳实践，认为多模态联合预训练正成为大模型演进的下一站。相比先练语言再加视觉的拼接路线，原生多模态从预训练阶段就统一处理文本、图像与音频，能显著提升模型的整体理解与推理能力。这一趋势将推动大模型从单一模态走向真正通用，重塑内容生成与具身智能的技术底座。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16881"
+        },
+        {
+          "id": "02",
+          "title": "AI演化出虚拟文明",
+          "body": "研究人员将200个AI智能体放入虚拟世界，在不进行直接交流的条件下，它们自发演化出一套稳定有序、不会崩溃的文明体系。这一实验展示了多智能体系统在复杂环境中自我组织、自发形成规则的能力，为理解人类社会制度的涌现机制提供了可计算模型。该成果对多智能体协作、经济系统模拟乃至AI安全治理都具有重要启发价值。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16880"
+        },
+        {
+          "id": "03",
+          "title": "Anthropic发新模型",
+          "body": "Anthropic发布Claude Fable 5.1与Mythos 5.1两款新模型，宣称智能体工作成本最多降低45%。新模型在代码生成、长程任务与多步推理上进一步优化，重点面向企业级智能体应用场景。这表明大模型竞争正从单纯比拼榜单分数转向单位成本与运行效率，有望加速AI智能体在真实业务中的规模化落地。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "机器人靠声波起飞",
+          "body": "研究团队开发出一种无需电池和电机、仅靠声波就能飞起来的微型机器人。它利用超声波在结构表面产生的声辐射力实现悬浮与移动，彻底摆脱了传统飞行器对电源与马达的依赖。这一设计为微型机器人在医疗介入、环境监测等场景提供了轻量化、无污染的运动方案，也为声学驱动技术开辟了全新的应用方向。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16882"
+        },
+        {
+          "id": "05",
+          "title": "a16z押注机器时代",
+          "body": "风投机构a16z提出机器时代判断，认为AI的竞争瓶颈正从模型本身向底层硬件与基础设施转移。随着模型能力渐趋同质化，算力、存储、互联与能耗等模型以下的环节成为决定成败的关键。这一判断正引导资本与人才向芯片、数据中心和机器人硬件倾斜，预示着AI产业的价值重心将向物理世界与基础设施下沉。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16878"
+        },
+        {
+          "id": "06",
+          "title": "高性能低功耗难兼得",
+          "body": "北京大学研究员潘豪致力于打破高性能与低功耗之间难以兼得的跷跷板困局，探索新型电子材料与器件。他认为材料层面的创新是突破能效瓶颈的根本路径，而非单纯依赖制程微缩。该研究若取得突破，将缓解AI算力扩张带来的巨大能耗压力，为下一代低功耗计算与端侧智能提供关键的材料支撑。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16870"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "猎户座隔热罩表现出色",
+          "body": "NASA公布分析结果，猎户座飞船此前备受诟病的隔热罩在再入大气时实际表现良好。此前任务中隔热罩出现异常烧蚀，曾引发外界对载人登月计划安全性的担忧。新数据显示其性能符合预期，消除了阿尔忒弥斯任务的一大技术隐患。这为NASA推进载人绕月与登月计划扫清障碍，也为深空返回飞行器的热防护设计提供了信心。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/"
+        },
+        {
+          "id": "08",
+          "title": "火星探测押注直升机",
+          "body": "NASA火星探测计划面临新着陆器与火星车断档的困境，未来探测或将全面押注直升机。现有火星车陆续退役，而新一代着陆器与巡视器缺乏资金支持，旋翼飞行器成为延续火星科考的关键手段。这一转向意味着火星探测将走向更灵活、低成本、可机动的空中侦察模式，为行星探测提供了区别于传统轮式漫游的新范式。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program/"
+        },
+        {
+          "id": "09",
+          "title": "民间组织探半人马座",
+          "body": "一家民间组织宣布启动成本最低的半人马座阿尔法星探测任务，尝试以极小预算发射探测器飞往最近的恒星系统。相比传统深空任务的巨额投入，该项目主张利用微型化与新型推进技术大幅压缩成本。若取得成功，将打破深空探测长期由政府主导的格局，开启星际探索的民间化与低成本化时代，引起天体生物学界高度关注。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "汗液传感智能戒指",
+          "body": "加州大学圣地亚哥分校团队开发出首款无需扎针即可连续监测六种代谢分子的汗液生化传感智能戒指。它通过分析汗液中的葡萄糖、乳酸等成分，实现对健康状况的无创实时追踪。这项技术有望替代传统的采血检测，为糖尿病管理等慢性病监测提供更便捷的方案，推动可穿戴医疗设备从记录步数迈向生化级健康管理。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16871"
+        },
+        {
+          "id": "11",
+          "title": "美国电动小皮卡救场",
+          "body": "面对美国电动车整体销量下滑的困境，售价2.5万美元的小型皮卡被寄予救场厚望。这类低价实用车型瞄准对价格敏感、需要载货的乡村与郊区用户，试图以更低门槛打开电动化的缺口。若市场验证成功，将说明性价比而非高端配置才是普及电动车的核心驱动力，为全球车企提供新的产品定位思路。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16873"
+        },
+        {
+          "id": "12",
+          "title": "雨滴或成微型闪电",
+          "body": "一项研究指出，雨滴其实是一道道微小的闪电，其携带的电荷正悄然腐蚀汽车表面。当雨滴撞击物体时，接触带电现象会产生微小放电，长期作用加速金属与涂层的锈蚀损伤。这一发现解释了车辆涂层老化的一部分机理，也为防腐蚀材料与表面处理技术的改进提供了新的科学依据，引发材料学界广泛关注。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/08/raindrops-are-tiny-lightning-bolts-and-theyre-corroding-cars-study-finds/"
+        }
+      ]
+    }
+  ]
+}
