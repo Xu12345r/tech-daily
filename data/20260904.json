@@ -1,0 +1,116 @@
+{
+  "date": "2026-09-04",
+  "weekday": "周五",
+  "lunar": "农历七月廿三",
+  "cover_quote": "博观而约取，厚积而薄发。—— 苏轼",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "OpenAI新模型入AGI时代",
+          "body": "OpenAI发布新一代模型GPT-6 Astra，采用循环架构，宣称其推理能力已「进入AGI时代」，并在ARC-AGI-3评测中取得突破性表现。这标志着通用人工智能正从口号走向可量化评估，循环架构取代纯Transformer成为新的技术方向。此举或重塑行业对AGI标准的定义，也加剧头部厂商在智能评测与安全治理上的竞争。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release"
+        },
+        {
+          "id": "02",
+          "title": "四大AI模型同日集体宕机",
+          "body": "OpenAI、Claude、Grok等多家头部AI服务罕见地几乎同时出现宕机，用户数小时无法正常访问。多款大模型共享底层算力与云基础设施，故障的连锁传播暴露出AI服务在可用性与冗余设计上的脆弱。此事引发业界对算力集中化风险的讨论，也促使企业重新审视关键AI工作负载的备份与降级策略。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/"
+        },
+        {
+          "id": "03",
+          "title": "AI御三家格局生变",
+          "body": "Google发布Gemini 3.8 Flash，Meta同日推出Muse Spark 1.3，两款主力模型同日打擂，Meta综合评分小幅领先。曾被视作掉队的Meta凭借重组后的团队重回前沿，而Google旗舰Gemini 3.5 Pro迟迟未出，只能以Flash维持声量。AI「御三家」格局松动，模型竞争正从绝对分数转向Agent与软件工程等落地能力。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16893"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "清华团队押注端侧自进化",
+          "body": "清华AIR出身的李健雄团队创立本溯智能，获得多家头部美元机构首轮投资，押注机器人的In-Context Learning与端侧自进化路线。团队曾以X-VLA夺得IROS 2025世界冠军，主张让机器人利用自身交互上下文持续提升，而非每学新技能都重新训练。这或为机器人规模化部署开辟一条边际成本持续下降的新路径。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16890"
+        },
+        {
+          "id": "05",
+          "title": "Cerebras推理芯片提速",
+          "body": "阿里Qwen 3.8 27B模型在Cerebras推理芯片上跑出每秒1500 token的生成速度，刷新开源大模型推理效率纪录。随着模型规模膨胀，推理成本与延迟成为落地关键瓶颈，专用推理芯片正成为算力竞争的新战场。这显示软硬协同优化能显著降低推理门槛，推动大模型加速进入实时交互与规模化部署场景。",
+          "source": "Hacker News",
+          "source_url": "https://inference-docs.cerebras.ai/models/overview"
+        },
+        {
+          "id": "06",
+          "title": "美无人机加征100%关税",
+          "body": "特朗普政府拟对无人机加征100%关税，批评者警告这将重创美国无人机产业，让警察、消防等公共部门采购成本骤升。美国大量无人机依赖进口零部件，高额关税推高价格却难以扶持本土产能。此举可能延缓公共安全与农业等领域的无人机普及，同时加剧中美在无人机供应链上的持续博弈。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/tech-policy/2026/09/trumps-100-drone-tariff-has-cops-and-firefighters-panicking/"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "5800万美元造AI物理学家",
+          "body": "美国初创公司Physical Superintelligence结束隐身，获5800万美元种子轮融资，打造名为Emmy的AI物理学家平台，用自主推理与仿真加速物理发现。公司先切入AI数据中心的多物理场优化，并参与规划飞往半人马座的费米任务轨道。这家公司试图工业化物理发现，声称未来五年物理学进展将超过过去五十年。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16891"
+        },
+        {
+          "id": "08",
+          "title": "土星大气现十边形结构",
+          "body": "天文学家在土星大气中观测到一个近乎完美的十边形几何结构，其规整程度令人惊讶，与此前著名的土星北极六边形形成呼应。这类多边形结构的形成机制仍缺乏完整解释，可能与行星大气环流和流体动力学有关。这一发现为研究巨行星大气的极端流体现象提供了新样本，也再次凸显行星科学中的未解之谜。",
+          "source": "Hacker News",
+          "source_url": "https://www.sciencealert.com/astronomers-spot-an-uncannily-geometric-10-sided-structure-in-saturns-atmosphere"
+        },
+        {
+          "id": "09",
+          "title": "最大电动飞机完成首飞",
+          "body": "全球最大的电动飞机完成首飞，验证了大载重电推进飞行的可行性。相比传统燃油飞机，电动飞机零排放且运营成本更低，被视为航空业脱碳的重要方向。不过电池能量密度仍是最大瓶颈，当前更适用于短途通勤与货运。此次飞行标志着电动航空从概念验证迈向实用化的关键一步。",
+          "source": "Hacker News",
+          "source_url": "https://www.youtube.com/watch?v=nM86DBOqgPM"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "虚拟细胞模型举一反三",
+          "body": "Arc研究所团队在Cell发表虚拟细胞模型STATE，用逾亿单细胞数据训练，能跨细胞类型预测药物或基因扰动后的状态变化。它首次展现出举一反三的泛化能力，可预判未见过的药物在不同癌细胞上的效果。这有望让药物研发先在计算机中大规模筛选候选，再进湿实验验证，大幅压缩研发成本与周期。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16892"
+        },
+        {
+          "id": "11",
+          "title": "人造海狸坝救活幼鲑",
+          "body": "研究人员发现，在加州修建人造海狸坝后，幼年银鲑的存活率从8%跃升至60%。海狸坝通过减缓水流、蓄水补湿，为幼鱼创造更稳定的栖息环境。这一低成本、基于自然的修复方案，为干旱地区河流生态与鱼类种群恢复提供了新思路，也凸显生态工程在应对气候变化中的独特价值。",
+          "source": "Hacker News",
+          "source_url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california"
+        },
+        {
+          "id": "12",
+          "title": "千亿多肽市场AI时刻",
+          "body": "清华校友贾寅君创立利太智药，用AI重写多肽药物发现规则，瞄准千亿级多肽市场。他主导过DrugCLIP等基因组级虚拟筛选工作，认为多肽像瑞士军刀般可覆盖胞内胞外及「不可成药」靶点。随着非天然修饰解决稳定性问题，多肽正从小众走向主流，AI有望加速这一进程并显著降低早期研发门槛。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16885"
+        }
+      ]
+    }
+  ]
+}
