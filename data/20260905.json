@@ -1,0 +1,116 @@
+{
+  "date": "2026-09-05",
+  "weekday": "周六",
+  "lunar": "农历七月廿四",
+  "cover_quote": "博观而约取，厚积而薄发。—— 苏轼",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "美国拟封堵中国AI算力通道",
+          "body": "特朗普政府正起草AI出口管制新规，拟限制中国企业远程调用部署在泰国、新加坡等第三国的先进AI服务器，商务部最快9月向行业征求意见。此举将收紧中国AI企业获取海外算力的通道，可能推高东南亚数据中心合规成本，进一步加剧中美在AI算力领域的竞争态势。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16899"
+        },
+        {
+          "id": "02",
+          "title": "Anthropic两万亿上市",
+          "body": "Anthropic拟以2万亿美元估值上市，其独特的「外部受托人」治理结构成为市场焦点，该机制旨在约束资本逐利、保障AI安全。若成功，这将是AI行业迄今规模最大的IPO，标志着大模型公司从融资驱动转向资本市场主导，深刻重塑全球AI产业的估值体系。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/"
+        },
+        {
+          "id": "03",
+          "title": "企业AI管家一年估值50亿",
+          "body": "荷兰AI初创Wonderful完成5.5亿美元C轮融资，估值达50亿美元，成立仅一年多。公司打造一套可运行任意AI工作流的操作系统，定位「企业AI管家」。此轮融资显示资本正加速押注AI智能体与工作流编排赛道，企业级AI基础设施的竞争进入白热化。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16897"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "特斯拉Cybercab正式运营",
+          "body": "特斯拉在奥斯汀正式上线Cybercab付费服务，车辆无方向盘、无刹车踏板、无后视镜甚至无驾驶座，乘客上车后全自动驾驶。这是无方向盘车型首次规模化商业运营，标志自动驾驶出租车从试点迈向真实运营，或将重塑城市出行与共享交通格局，为Robotaxi商业化提供样本。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16896"
+        },
+        {
+          "id": "05",
+          "title": "a16z设11亿AI硬件基金",
+          "body": "a16z成立11亿美元「机器时代基金」，专投AI底层硬件基础设施。该基金聚焦芯片、数据中心、能源等AI算力的物理底座，反映资本判断AI瓶颈正从模型层下移至硬件与能源层。此举有望加速AI基础设施创新，缓解算力供给紧张这一制约大模型发展的关键瓶颈。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16872"
+        },
+        {
+          "id": "06",
+          "title": "AI能自主设计电路板吗",
+          "body": "一项评测系统测试AI能否自主设计电路板，结果显示当前大模型在PCB布线、元件布局等EDA任务上仍远逊于人类工程师。这揭示了AI在硬件设计领域的真实边界，也指明大模型从写代码走向造芯片需要跨越的巨大鸿沟，对AI芯片设计工具的发展具有重要启示。",
+          "source": "Hacker News",
+          "source_url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "长征六号改在轨解体",
+          "body": "最新火箭报告显示，中国长征六号改火箭末级在近地轨道发生解体并产生碎片；同期刊出阿尔忒弥斯III发动机已安装就位。火箭在轨解体带来太空碎片风险，引发对近地轨道安全的广泛关注，凸显各国亟需加强太空碎片管理、完善轨道环境治理，共同维护太空可持续发展。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/09/rocket-report-china-debuts-yet-another-new-rocket-nasa-considers-bulk-buys/"
+        },
+        {
+          "id": "08",
+          "title": "AI想出新物理去半人马座",
+          "body": "研究团队尝试用AI发现人类未知的新物理学，并以此规划前往半人马座阿尔法星系的星际航行方案。这展示了AI在探索理论物理与星际工程交叉领域的巨大潜力，为人类突破现有物理学框架、实现恒星际旅行提供了全新思路，引发国际深空探索界的高度关注。此举为突破星际旅行瓶颈指明方向。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16891"
+        },
+        {
+          "id": "09",
+          "title": "美航天企业退出国际会议",
+          "body": "多家美国航天企业退出在法国举行的国际航天会议，白宫此举被外界视为向国际航天合作投下「手榴弹」。这一决定可能削弱美国在全球航天产业链与标准制定中的影响力，同时为中欧等其他航天力量扩大合作空间提供契机，进一步加剧航天领域的地缘政治博弈。此举引发全球航天界广泛关注。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "无创汗液戒指监测代谢",
+          "body": "UCSD团队开发首款汗液生化传感智能戒指，可不扎针连续监测血糖、乳酸等六种代谢分子。该技术将传统抽血检测转化为无创可穿戴监测，有望革新糖尿病管理与运动健康监测方式，推动医疗健康从间歇性检测走向连续性实时监测的新范式，具有广阔应用前景。该技术有望推动无创医疗监测普及。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16871"
+        },
+        {
+          "id": "11",
+          "title": "果蝇大脑第二张完整图谱",
+          "body": "科学家完成第二张果蝇大脑完整连接组图谱，与此前雌性图谱互补，标志着神经科学进入可系统比对雌雄大脑差异的阶段。这项成果为理解大脑结构与行为关系提供基础数据，也为研究人类神经系统疾病、推进脑科学建模提供了重要参照，推动脑图谱研究走向更精细。该成果为脑机接口研究奠定重要基础。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/09/brain-of-a-male-fly-completely-mapped-joins-earlier-map-of-a-female-brain/"
+        },
+        {
+          "id": "12",
+          "title": "伊朗冲突推高全球化肥价",
+          "body": "中东冲突持续推高全球化肥价格，而化肥是农业生产最重要的成本之一，直接影响农民种植成本与粮食价格。这暴露了全球粮食体系对地缘政治动荡的脆弱性，可能加剧部分地区粮食安全压力，并倒逼各国加速发展低依赖、可持续的替代肥料技术，保障粮食安全。这凸显了保障粮食安全的紧迫性。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16898"
+        }
+      ]
+    }
+  ]
+}
