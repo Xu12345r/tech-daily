@@ -1,0 +1,116 @@
+{
+  "date": "2026-09-09",
+  "weekday": "周三",
+  "lunar": "农历七月廿八",
+  "cover_quote": "千里之行，始于足下。—— 老子",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "纳维-斯托克斯难题获突破",
+          "body": "数学家借助AI在纳维-斯托克斯方程这一千禧年难题上取得重大突破，该方程描述流体运动规律，是克莱研究所悬赏百万美元的七大难题之一。随后他公开指控OpenAI试图威胁并抢先发布成果，争夺学术署名。这一突破若获确认，将改写流体力学理论，也让AI辅助数学研究的信用与伦理争议浮出水面。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16923"
+        },
+        {
+          "id": "02",
+          "title": "Meta发布AI助手Muse",
+          "body": "Meta正式推出个人AI助手Muse，可跨应用整合用户日程、消息与偏好，意图在消费级AI助手赛道追赶OpenAI与谷歌。相比单一对话工具，Muse更强调深度个性化与主动服务，成为Meta布局AI贴身助手的关键落子。此举加剧了科技巨头在个人AI助理领域的竞争，也引发对数据隐私与算法推荐的新一轮审视。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race"
+        },
+        {
+          "id": "03",
+          "title": "七成美国人忧AI抢饭碗",
+          "body": "一项调查显示，约七成美国人认为AI会减少工作岗位，其中年轻人焦虑情绪最为突出。这一数据折射出公众对生成式AI替代劳动的深层担忧，与硅谷「AI提升效率而非取代人」的叙事形成鲜明反差。就业焦虑正推动政府与企业加速讨论技能转型与AI时代的劳动保障，相关政策的制定压力持续上升。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16922"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "芯片巨头拥抱ASML新光刻机",
+          "body": "台积电、英特尔、三星等顶级芯片制造商集体拥抱ASML价值4亿美元的High-NA EUV光刻机，并就一项关键芯片制造工艺变革达成一致。这意味着下一代先进制程的技术路线趋于统一，也进一步巩固了ASML在极紫外光刻领域的垄断地位。更高数值孔径的曝光能力将推动芯片继续缩微，为AI算力需求的持续增长提供制造支撑。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/gadgets/2026/09/top-chipmakers-embrace-asmls-400m-machines-agree-to-crucial-chipmaking-change/"
+        },
+        {
+          "id": "05",
+          "title": "二维晶体管金属蒸镀突破",
+          "body": "一项被《科学》评价为「范式转变」的新金属蒸镀方法，让二维半导体晶体管的性能实现大幅提升，解决了金属与二维材料接触电阻过高的长期瓶颈。二维材料被视为后硅时代延续摩尔定律的希望，但难以高效导电一直制约其落地。该工艺有望推动二维晶体管走出实验室，为下一代超低功耗芯片开辟道路。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16913"
+        },
+        {
+          "id": "06",
+          "title": "Kimi K3本地部署新突破",
+          "body": "月之暗面发布的Kimi K3拥有2.8万亿参数，有开发者通过四块固态硬盘流式加载权重，成功让其在MacBook Pro上以每秒1个token的速度本地运行。这意味着超大模型开始摆脱对昂贵GPU集群的依赖，加速向端侧与个人设备下沉。若推理速度进一步优化，普通人用消费级硬件运行顶级大模型将成为现实，大幅降低AI的使用门槛。",
+          "source": "Hacker News",
+          "source_url": "https://github.com/argonautlabsai/deltafin"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "美初创获巨资造大火箭",
+          "body": "美国航天初创Stoke Space再获巨额融资，并公布首次入轨发射目标与更大型火箭的研制计划，全面加码可重复使用运载火箭赛道。其核心技术是让火箭第二级在返回时以受控姿态再入大气层，实现全箭回收。资金到位后，该公司有望挑战SpaceX在复用火箭领域的领先地位，进一步降低中小型卫星进入轨道的成本。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/09/stoke-space-sets-debut-launch-target-reveals-plans-for-larger-rocket/"
+        },
+        {
+          "id": "08",
+          "title": "蛋壳启发航天器防护",
+          "body": "科学家发现鸡蛋壳独特的微观结构能有效缓冲高速撞击，并据此开发出保护下一代航天器免受太空碎片侵害的轻质防护材料。太空碎片以每秒数公里的速度飞行，对卫星与载人飞船构成致命威胁。仿生蛋壳结构兼顾强度与轻量，有望替代笨重的金属护甲，显著降低航天器的发射重量与防护成本。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/09/how-eggshells-can-protect-spacecraft-from-space-debris/"
+        },
+        {
+          "id": "09",
+          "title": "AI气象预报精度再提升",
+          "body": "谷歌升级其AI天气预报模型，融入更多原始卫星观测数据，使预报精度进一步提升，在降水与极端天气预测上表现更佳。相比传统数值模式，AI气象模型计算速度快、成本低，正成为天气预报的重要补充。更精准的预警有助于应对极端气候事件，为农业、交通与防灾减灾提供更可靠的时间窗口。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "谷歌发基因突变预测图",
+          "body": "谷歌DeepMind发布AlphaGenome Atlas，绘制出人类基因组中每一处DNA单碱基变异的预测图谱，堪称基因版的「字母表」。该模型可预测任意突变对蛋白质功能与疾病风险的影响，为遗传病诊断与精准医疗提供全新工具。这项成果有望加速罕见病病因解析与药物靶点发现，推动医学从「治病」走向「预防」。",
+          "source": "Hacker News",
+          "source_url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
+        },
+        {
+          "id": "11",
+          "title": "AI肺病新药现抗衰信号",
+          "body": "英矽智能一款AI设计的肺病新药在临床试验中捕捉到抗衰老信号，受试者用药四周后「生理年龄」平均年轻约3岁。这家公司以端到端AI药物研发著称，此次发现或为该药物开辟抗衰老新适应症。若后续大规模研究证实，AI驱动的药物发现将不止于治病，更可能切入延缓衰老这一庞大市场，前景广阔。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16919"
+        },
+        {
+          "id": "12",
+          "title": "电动车电池寿命超预期",
+          "body": "新研究表明，电动车动力电池的实际寿命普遍长于车主此前的担忧，多数电池在行驶数十万公里后仍保持较高的健康度。这一发现缓解了消费者对电池衰减与更换成本的核心顾虑，也降低了二手电动车市场的估值不确定性。更耐用的电池将提升电动车的全生命周期经济性，助推交通领域电动化转型加速推进。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/cars/2026/09/ev-batteries-last-longer-than-drivers-feared/"
+        }
+      ]
+    }
+  ]
+}
