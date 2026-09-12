@@ -1,0 +1,116 @@
+{
+  "date": "2026-09-13",
+  "weekday": "周日",
+  "lunar": "农历八月初三",
+  "cover_quote": "纸上得来终觉浅，绝知此事要躬行。—— 陆游",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "OpenAI被指威胁数学家",
+          "body": "纽约大学数学家Tristan Buckmaster与Anthropic研究员Levent Alpöge借助AI证明流体方程存在有限时间爆破，逼近千禧年难题。Buckmaster随后发布四页声明，指控OpenAI在得知进展后提出排除Alpöge署名的发表方案，通话中甚至以「毁掉职业生涯」相胁。这场争议把AI参与数学证明的署名伦理与公司竞争边界推向台前。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16923"
+        },
+        {
+          "id": "02",
+          "title": "AI领袖齐吁放慢步伐",
+          "body": "Anthropic CEO达里奥·阿莫代发表长文《放缓前沿》，呼吁行业放慢最前沿模型的迭代速度，并罕见获得OpenAI的Sam Altman与马斯克公开支持。这是AI界竞争对手首次就「减速」达成共识，折射出各方对失控竞赛与安全风险的集体焦虑，或推动监管与行业自律加速落地，重塑大模型的发展节奏。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development"
+        },
+        {
+          "id": "03",
+          "title": "真实企业代码基准出炉",
+          "body": "新基准Real-SWE基于私有、真实的企业代码库评测AI编码模型，区别于依赖公开题目的传统测试。它揭示出模型在真实工程环境中的表现与榜单分数存在显著落差，为衡量AI能否胜任真实软件开发提供了更严苛的标尺，推动行业评测从刷榜逻辑转向对实际落地能力的检验。",
+          "source": "Hacker News",
+          "source_url": "https://withspecific.com/benchmarks/real-swe"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "脑机接口意念控轮椅",
+          "body": "纽约初创Synaptrix Labs展示一款非侵入式脑电帽，无需开颅手术即可用意念操控光标，并已在美国注册轮椅控制的早期可行性研究。设备采用干电极与端侧AI信号解码，主打「成本低于手机」，瞄准四肢瘫痪与脑瘫患者。它开辟了非侵入式脑机接口的实用化路径，也让行动障碍者的辅助技术多了一种低门槛选择。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16942"
+        },
+        {
+          "id": "05",
+          "title": "苹果神经引擎遭逆向",
+          "body": "有工程师发布对苹果神经引擎的逆向工程分析，拆解其片上NPU的指令集与计算流水线，并测出超过50GB/s的访存带宽。此前该芯片长期缺乏公开文档，此次逆向揭示了苹果移动端AI算力的真实架构，为开发者与研究者理解并充分利用其能力打开窗口，也折射出业界对端侧AI硬件透明度的诉求。",
+          "source": "Hacker News",
+          "source_url": "https://eiln.github.io/posts/ane.html"
+        },
+        {
+          "id": "06",
+          "title": "四千美元中国机器狗",
+          "body": "Ars Technica记者花4000美元购入一台中国产机器狗进行实测，评估其运动控制、避障与编程扩展能力。评测认为其性价比远超同级西方产品，但软件生态与稳定性仍有差距。这显示中国消费级机器人正以价格优势切入海外市场，同时也暴露出量产规模化背后的工程成熟度短板，考验国产品牌的长期竞争力。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "欧洲迈进商业发射时代",
+          "body": "最新火箭周报显示，欧洲火箭企业近期成功实现商业入轨，正式加入全球商业发射俱乐部。此举打破了欧洲长期依赖政府主导发射的格局，标志着其在商业航天竞争中的关键一步，有望降低欧洲自主进入太空的成本，并增强其在空间基础设施上的战略自主性，为欧洲航天自主注入强心剂。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/09/rocket-report-europe-joins-the-commercial-launch-club-a-ravn-x-sighting/"
+        },
+        {
+          "id": "08",
+          "title": "卫星公司仍爱精品发射",
+          "body": "尽管SpaceX以低价批量发射主导市场，部分卫星运营商仍愿为小型精品发射服务支付溢价，以满足定制轨道与专属发射时机的需求。这反映出商业航天正分化为「规模优先」与「灵活优先」两条路径，为初创火箭公司保留了差异化生存空间，也让发射市场的竞争格局更加多元。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/"
+        },
+        {
+          "id": "09",
+          "title": "IBM量子冰箱冷过深空",
+          "body": "IBM展示新一代量子计算机稀释制冷机，其内部温度比深空还要低约180倍，用于维持超导量子比特的量子相干态。更低温度与更高稳定性意味着量子比特错误率有望进一步下降，推动容错量子计算向实用化迈进，是量子硬件走向规模化部署的关键基础工程进展，意义深远。",
+          "source": "Hacker News",
+          "source_url": "https://nautil.us/inside-ibms-new-quantum-computing-fridges-180-times-..."
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "用二氧化硫给地球降温",
+          "body": "旧金山非营利机构Reflective发布平流层气溶胶注入研究路线图，规划约十年、耗资数亿美元的户外实验，向平流层释放二氧化硫以模拟火山喷发的降温效应。方案引发强烈争议，反对者担忧「终止冲击」与代际公平问题。它把气候工程的科学可行性与其伦理治理之争同时推向台前，引发全球关注。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16943"
+        },
+        {
+          "id": "11",
+          "title": "赛博果蝇连接组走红",
+          "body": "雄性果蝇完整中枢连接组MaleCNS 1.0正式发表后，开发者将其接入《毁灭战士》《超级马里奥》等游戏，甚至让它炒起了比特币。连接组正从科学数据变成可下载、可运行、可改写的计算对象，叠加AI辅助编程大幅降低了门槛，预示着脑连接组与人工智能融合的全新玩法正在浮现。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16941"
+        },
+        {
+          "id": "12",
+          "title": "煤电厂紧急状态遭驳回",
+          "body": "美国法官驳回政府以「能源紧急状态」为由强制延长燃煤电厂运行的命令，认定其法律依据不足。这一裁决重创了逆转煤电退出趋势的努力，为清洁能源转型扫清一道政策障碍，也凸显司法在能源与气候政策博弈中的关键制衡作用，或将影响后续一系列化石能源政策走向。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/"
+        }
+      ]
+    }
+  ]
+}
