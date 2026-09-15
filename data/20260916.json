@@ -1,0 +1,116 @@
+{
+  "date": "2026-09-16",
+  "weekday": "周三",
+  "lunar": "农历八月初六",
+  "cover_quote": "天行健，君子以自强不息。—— 《周易》",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "谷歌发布Gemini 3.8",
+          "body": "谷歌发布新一代模型Gemini 3.8 Live，并推出支持扩展思考的版本，可在对话中边思考边回答复杂问题。该模型在实时语音、视频交互和长程推理上进一步升级，直接与OpenAI、Anthropic的前沿模型展开竞争。此举凸显大模型军备竞赛仍在加速，实时多模态交互正成为下一阶段的竞争焦点。",
+          "source": "Hacker News",
+          "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3"
+        },
+        {
+          "id": "02",
+          "title": "中国开源模型逼近前沿",
+          "body": "最新分析显示，付费使用硅谷前沿AI模型，用户只比使用中国开源模型多获得约四个月的能力领先，成本却高出五倍。研究团队对比了多家中美模型的性能与价格后发现，以DeepSeek等为代表的中国开源模型正快速缩小与前沿闭源模型的差距。这动摇了闭源模型「遥遥领先」的叙事，也让AI应用的性价比之争从拼参数转向拼部署与生态。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/"
+        },
+        {
+          "id": "03",
+          "title": "System One模型发布",
+          "body": "前OpenAI研究员创办的TypeSafe公司发布System One模型，专为自动化打造，能直接输出软件可用的快速结构化决策，并采用并行采样与校准决策强化学习新训练方法。创始团队曾参与ChatGPT指令遵循技术研发，此次瞄准聊天模型难以落地的自动化场景。若验证成功，意味着AI从「会聊天」迈向「能干活」，有望撬动企业级自动化市场的规模化落地。",
+          "source": "Hacker News",
+          "source_url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "OpenAI自研AI推理芯片",
+          "body": "OpenAI公布首款自研推理芯片Jalapeño测试结果，用9个月、平均不足百人团队完成设计，并用自家AI优化芯片程序，注意力任务性能从理论上限的0.31%提升至88.94%。芯片由博通负责物理设计，OpenAI计划年底前部署。这标志着AI公司开始亲自下场造芯，AI参与芯片设计乃至持续调优，或改写芯片产业的研发范式与成本结构。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16956"
+        },
+        {
+          "id": "05",
+          "title": "复旦团队融资做端侧芯片",
+          "body": "复旦博士潘鸿洋创办的淬思科技完成亿元级融资，瞄准穿戴、AIoT、安防等场景，用AI原生设计流程为客户定制端侧推理芯片。其团队来自SambaNova、Cerebras等，此前已流片28纳米RISC-V核，正与客户共同定义6纳米芯片。若「50人、3到6个月出一颗芯片」的目标实现，端侧AI芯片将告别通用芯片大一统，迎来高度定制的新时代。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16954"
+        },
+        {
+          "id": "06",
+          "title": "Agility机器人主动避人",
+          "body": "人形机器人公司Agility为其机器人加入新安全行为，当人类同事靠近时，机器人会主动停下并下蹲，以避免碰撞伤害。此举针对仓储物流等真实工作场景中的人机协作风险，比单纯依赖传感器预警更进一步。它表明人形机器人正从实验室演示走向工厂落地，主动安全设计将成为企业部署这类机器人的关键前提。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "美军确认部署太空武器",
+          "body": "美国军方首次公开确认，已在轨道上部署进攻性太空武器，打破此前对其太空军事能力的模糊态度。这一披露出现在多国加速太空军事化的背景下，标志太空正从「高边疆」变为大国博弈的实质战场。它将刺激新一轮太空军备竞赛，也让太空碎片与轨道安全治理面临更严峻的挑战。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/"
+        },
+        {
+          "id": "08",
+          "title": "火箭实验室不满NASA决策",
+          "body": "火箭实验室对NASA在火星样本返回任务中的探测器方案选择公开表达不满，认为相关决策可能排斥商业航天公司的技术路径。作为商业发射与深空任务的重要玩家，其表态折射出传统航天机构与商业航天力量在任务主导权上的摩擦。这一争议或影响NASA后续深空任务的分包策略与商业航天参与空间。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/"
+        },
+        {
+          "id": "09",
+          "title": "大西洋飓风季百年最平静",
+          "body": "气象数据显示，今年大西洋飓风季异常平静，截至九月中旬尚无一个命名风暴活动，创下175年来罕见纪录，与此前「活跃飓风季」的预测形成反差。科学家指出海水温度、风切变等条件的变化扰乱了预期。这一现象为飓风预测模型敲响警钟，也提醒公众极端天气的长期趋势远比单季预测更复杂。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "毛线帽脑机接口意念打字",
+          "body": "非侵入式脑机接口公司Sabi推出Sabi Cap，外观像普通毛线帽，内衬数万个微型脑电传感器，可解码「内心独白」，让用户默念即可打字，速度约每分钟30词。Kernel CEO瑞恩·菲尔德已跳槽加盟，投资人看好其成为通用输入方式。若开箱即用与隐私问题解决，脑机接口有望走出重症医疗，迈向十亿级消费市场。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16957"
+        },
+        {
+          "id": "11",
+          "title": "美环保署拟废电厂碳排新规",
+          "body": "美国环保署拟废除针对电厂的多项温室气体排放规则，此举被视为联邦层面对发电行业气候监管的进一步松绑。此前已有类似减排要求被驳回或搁置。政策转向将直接影响煤电与燃气电厂的减排投资节奏，也让美国在清洁能源转型上的国家承诺面临更大不确定性。这一动向引发环保界与产业界的激烈博弈。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/09/epa-seeks-to-eliminate-remaining-greenhouse-gas-rules-for-power-plants/"
+        },
+        {
+          "id": "12",
+          "title": "宾州麻疹夺走18岁生命",
+          "body": "美国宾州一名18岁少年因麻疹严重神经系统并发症去世，成为该州本轮疫情第四例死亡，累计病例逼近700例。麻疹本可通过疫苗预防，疫情反弹与疫苗接种率下滑直接相关。这一悲剧凸显疫苗犹豫带来的公共卫生代价，也警示高传染疾病在防控松懈后可能迅速卷土重来。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/health/2026/09/measles-kills-18-year-old-in-pa-fourth-death-as-state-outbreak-nears-700-cases/"
+        }
+      ]
+    }
+  ]
+}
