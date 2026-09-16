@@ -1,0 +1,116 @@
+{
+  "date": "2026-09-17",
+  "weekday": "周四",
+  "lunar": "农历八月初七",
+  "cover_quote": "苟日新，日日新，又日新。—— 《礼记·大学》",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "清华教授押注RSI融资4亿",
+          "body": "清华大学教授陈勇超创办初创公司，押注RSI递归自我改进技术，近期完成近4亿元融资，目标是打造能够持续自我进化的AI模型。RSI被视为迈向通用人工智能的关键路径之一，但也伴随失控风险，引发业界对安全治理与算力成本展开激烈争论。此轮大额融资表明，资本开始为下一代AI范式提前下注。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16958"
+        },
+        {
+          "id": "02",
+          "title": "Mistral推私密AI浏览器",
+          "body": "Mistral与Mozilla宣布合作，将AI推理直接集成进浏览器，实现私密、多语言的就地处理，用户数据无需上传云端即可获得智能问答与摘要服务。此举被视为对Chrome等巨头的正面挑战，也回应了日益强烈的隐私担忧。若落地顺利，有望推动AI能力从云端向端侧下沉，重塑浏览器竞争格局。",
+          "source": "Hacker News",
+          "source_url": "https://mistral.ai/news/mistral-x-mozilla/"
+        },
+        {
+          "id": "03",
+          "title": "Claude推出办公套件",
+          "body": "Anthropic发布Claude办公套件，涵盖文档编辑与幻灯片制作功能，直接对标谷歌Gemini与微软Office等生产力工具。此举标志着Claude从对话助手向企业生产力平台延伸，试图抢占团队协作入口。若获得市场认可，将加剧AI办公软件竞争，并进一步冲击传统办公套件的订阅付费模式。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "苹果或重返AI服务器市场",
+          "body": "有消息称苹果正考虑重新生产服务器硬件，以抓住AI基础设施带来的算力需求红利，并减少对英伟达等外部供应商的依赖。苹果多年前曾退出服务器市场，此番若回归，将改变其长期聚焦消费电子的产品路线，也可能动摇现有AI算力供应链格局，加剧巨头间的硬件竞争。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia"
+        },
+        {
+          "id": "05",
+          "title": "三元LLM突破1.58比特极限",
+          "body": "研究人员提出新方法，将大语言模型权重压缩至1.58比特以下的三元表示，突破了此前三元量化的性能瓶颈。该方法在保持模型能力的同时大幅降低内存占用与计算开销，为端侧部署和低成本推理开辟了新路径。若验证可靠，将加速大模型向移动设备与边缘场景的普及。",
+          "source": "Hacker News",
+          "source_url": "https://arxiv.org/abs/2609.16338"
+        },
+        {
+          "id": "06",
+          "title": "英伟达推Rust原生GPU编程",
+          "body": "英伟达宣布支持用Rust原生编写CUDA GPU内核，为开发者提供内存安全的高性能并行编程选项。此前GPU编程长期由C/C++主导，Rust的引入有望显著减少内存错误与安全漏洞，同时保持接近原生的执行性能。这一举措或推动更多开发者转向Rust进行高性能计算与科学仿真。",
+          "source": "Hacker News",
+          "source_url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "中微子超新星内身份转换",
+          "body": "物理学家研究超新星爆发时，中微子如何在飞行中相互转换身份，即所谓味振荡现象。这一过程会影响超新星释放能量的方式，甚至与宇宙中重元素的合成密切相关。观测数据有望帮助科学家检验粒子物理标准模型，并揭示中微子质量排序这一悬而未决的基础问题，引起天体物理学界广泛关注。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/09/what-happens-when-neutrinos-swap-identities-inside-a-supernova/"
+        },
+        {
+          "id": "08",
+          "title": "罗曼望远镜燃料够用22年",
+          "body": "NASA的罗曼太空望远镜推进剂储备比预期多出一倍，足以维持约22年运行，远超原定的五年主任务周期。这意味着这台宽视场红外望远镜能够开展更长期的巡天观测，为暗能量与系外行星研究积累更丰富的数据。对预算紧张的天文项目而言，这无疑是难得的利好消息，也为后续深空探测增添了底气。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/"
+        },
+        {
+          "id": "09",
+          "title": "前沿模型物理能力测评",
+          "body": "一项新研究系统评测了前沿大语言模型在物理学问题上的表现，发现它们能解答部分标准题目，却在需要深层推理与严谨推导时频繁出错。这揭示了当前AI在科学推理上的明显短板，也提示评测基准应更贴近真实科研场景，而非仅依赖记忆性的问答，否则难以衡量模型的真本领。",
+          "source": "Hacker News",
+          "source_url": "https://arxiv.org/abs/2609.13009"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "人脑细胞移植进小鼠皮层",
+          "body": "研究人员将人类脑细胞移植进小鼠大脑皮层，构建出嵌合脑组织模型，用于研究神经系统疾病与大脑发育机制。这一方法为在活体内直接观察人类神经元行为提供了新窗口，也可能加速神经退行性疾病药物的筛选。但随之而来的伦理争议，也促使学界加快制定相关规范，被视为神经科学的重要突破。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/09/researchers-swap-in-human-brain-cells-for-a-mouses-cortex/"
+        },
+        {
+          "id": "11",
+          "title": "OpenAI盯上破产药企数据",
+          "body": "OpenAI关注到破产生物科技公司遗留的临床试验数据，认为其价值可能超过专利本身，计划利用这些数据训练更强大的医疗AI模型。这暴露出医疗数据资产化带来的隐私与合规难题，也反映出AI公司在高质量训练数据上的激烈争夺，或将引发监管机构的持续关注。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16963"
+        },
+        {
+          "id": "12",
+          "title": "AI数据中心电子垃圾激增",
+          "body": "研究显示，AI数据中心的电子垃圾问题正迅速恶化，服务器与加速卡的短周期更替产生了海量废弃硬件。这类垃圾含有稀土元素与有毒金属，而现有回收体系严重滞后。若缺乏系统性治理，AI扩张的环境代价将抵消其效率收益，倒逼行业转向循环设计与绿色回收，推动绿色算力成为新共识。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban"
+        }
+      ]
+    }
+  ]
+}
