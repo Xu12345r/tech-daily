@@ -1,0 +1,116 @@
+{
+  "date": "2026-09-20",
+  "weekday": "周日",
+  "lunar": "农历八月初十",
+  "cover_quote": "博观而约取，厚积而薄发。—— 苏轼",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "20高校联手造科学IDE",
+          "body": "牛津、斯坦福等20所顶尖高校联手推出ScienceIDE，把科研代码、运行环境与科学验证打包成AI可执行、可验证的任务。研究发现，1769个缺陷任务中高达55.2%能正常编译跑完却给出错误科学结果，说明「跑通不等于算对」。截至9月16日已生成2812个任务、覆盖14个学科，试图让科学经验反过来训练下一代AI。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16967"
+        },
+        {
+          "id": "02",
+          "title": "FAA推AI空中管制工具",
+          "body": "美国联邦航空管理局FAA将部署一款名为SMART的AI工具，协助空管员管理华盛顿特区上空的拥堵空域，并计划逐步推广至全美2900万平方英里领空。该系统利用AI模型预测空中交通流量、识别潜在冲突，综合航班时刻、天气与机场容量等因素，有望提升空中交通的安全性与运行效率。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/"
+        },
+        {
+          "id": "03",
+          "title": "美政府网站用中国AI模型",
+          "body": "美国联邦公报网站在搜索功能中短暂使用了一款开源中国AI工具，而联邦调查局FBI此前曾将这类模型定性为恶意。事件曝光后该工具随即被移除，却暴露出美国政府部门在AI供应链安全上的尴尬处境，也让中美在AI技术治理与安全审查上的博弈进一步升温，凸显供应链自主可控的紧迫性。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "CF用数学省百TB内存",
+          "body": "Cloudflare通过统计学方法与Rust重写，让旗下一项基于Pingora的服务大幅降低内存占用，累计省下约100TB内存。对于拥有庞大全球网络但资源并非无限的云厂商而言，这类工程优化能直接转化为运营成本下降与能效提升，也为数据中心内存优化提供了可复用的技术思路。",
+          "source": "Hacker News",
+          "source_url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/"
+        },
+        {
+          "id": "05",
+          "title": "小模型赋能无人机作战",
+          "body": "由瑞典乌普萨拉大学研究者创办、获北约支持的Scaleout Systems公司，将AI目标检测与识别模型直接部署到小型无人机上，使其能在战场自主完成侦察与攻击目标锁定。这套系统无需依赖云端算力即可在边缘硬件运行，标志着AI与无人作战平台的深度融合正加速改变现代战争形态。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/"
+        },
+        {
+          "id": "06",
+          "title": "智能电视集体偷窥用户",
+          "body": "继LG智能电视被曝扫描局域网内其他设备后，媒体调查发现几乎所有电视厂商都会收集用户的观看数据，除非用户主动选择退出。智能电视正从单纯显示设备变成数据收集终端，这种默认开启的追踪行为引发了对家庭隐私与个人信息安全的广泛担忧，也拷问着智能家居设备的监管边界。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/tech/997682/every-tv-company-is-spying"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "韦布追踪查里克罗光环",
+          "body": "天文学家利用詹姆斯·韦布太空望远镜观测到，位于土星与天王星之间、直径仅约250公里的天体查里克罗，其两圈狭窄光环在过去十年间发生了明显变化。这一发现挑战了「光环只属于巨行星」的传统认知，为理解小行星环的成分、演化与存续时间提供了关键线索，有望改写行星环形成理论。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/"
+        },
+        {
+          "id": "08",
+          "title": "中国研发猛禽级火箭引擎",
+          "body": "据《火箭报告》披露，中国正研发一款对标SpaceX猛禽3的高性能火箭发动机，力图掌握可复用液氧甲烷发动机的核心技术。与此同时，联合发射联盟ULA的份额持续萎缩，而猎鹰9号家族发射次数已突破700次，商业航天格局正加速向可复用路线倾斜，各国围绕重型运载能力的竞争愈发激烈。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches/"
+        },
+        {
+          "id": "09",
+          "title": "AI破解纳维-斯托克斯难题",
+          "body": "在AI宣称破解纳维-斯托克斯千禧年难题之后，《自然》杂志发文追问这对物理学究竟意味着什么。物理学家与数学家正借助AI超越经典流体动力学方程，去理解湍流这一长期悬而未决的难题。核心争议在于，计算得到的「解」能否等同于严格的数学证明，AI又能否真正揭示湍流背后的深层物理机制。",
+          "source": "Nature",
+          "source_url": "https://www.nature.com/articles/d41586-026-02922-6"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "Anthropic自建湿实验室",
+          "body": "路透社披露，Anthropic已在旧金山湾区秘密建立生物湿实验室，将Claude接入真实生物实验，并探索让模型直接指挥实验室机器人。此前Claude的蛋白设计命中率达22.6%以上，但实验验证成为新瓶颈，自建实验室能缩短设计、实验与再设计的反馈周期，标志AI制药竞争从比算力转向比真实世界的验证速度。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16982"
+        },
+        {
+          "id": "11",
+          "title": "AI大模型学会判断衰老",
+          "body": "英矽智能、Liquid AI、巴克研究所等机构在《细胞》杂志发表论文，推出面向衰老研究的模型体系LongevityBench与Longevity-LLMs，把血液、DNA甲基化、蛋白组等真实数据直接交给AI判断年龄与死亡风险。仅9B参数的专用模型在多项任务上超过Gemini与Claude，显示小模型加专业数据也能在衰老预测上胜出。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16981"
+        },
+        {
+          "id": "12",
+          "title": "AI生物武器风险敲警钟",
+          "body": "Anthropic CEO阿莫迪与OpenAI的奥特曼接连警告AI可能带来严重风险，生物武器被视为最危险的路径之一。早在2022年就有AI在6小时内生成4万种潜在化学战剂分子，Anthropic也承认有人试图用其模型增强病毒传播能力。多位科学家呼吁建立更严格的筛查与红队机制，为AI生物安全提前设防。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16980"
+        }
+      ]
+    }
+  ]
+}
