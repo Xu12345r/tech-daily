@@ -1,0 +1,116 @@
+{
+  "date": "2026-09-22",
+  "weekday": "周二",
+  "lunar": "农历八月十二",
+  "cover_quote": "问渠那得清如许，为有源头活水来。—— 朱熹",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "xAI发布Grok 4.7",
+          "body": "xAI发布新一代旗舰模型Grok 4.7，在推理、编程与多模态能力上实现进一步升级。作为马斯克旗下AI实验室的最新力作，它延续了Grok系列对实时信息与深度思考的追求。这反映出头部大模型迭代速度仍在加快，前沿AI竞争正从单一能力比拼转向综合智能，持续拉高通用助手的性能天花板。",
+          "source": "Hacker News",
+          "source_url": "https://x.ai/news/grok-4-7"
+        },
+        {
+          "id": "02",
+          "title": "小米开源MiMo-V2.6",
+          "body": "小米正式发布开源多模态模型MiMo-V2.6系列，覆盖全模态能力并公开训练过程。该模型延续了小米在开源大模型上的持续投入，面向全球开发者与研究者开放使用。这表明中国厂商正通过开源策略加速追赶国际前沿，多模态与公开透明的路线有望降低AI应用门槛，推动中文及全球开发者生态走向繁荣。",
+          "source": "Hacker News",
+          "source_url": "https://mimo.xiaomi.com/mimo-v2-6"
+        },
+        {
+          "id": "03",
+          "title": "四巨头AI减速遭反垄断诉讼",
+          "body": "Anthropic、OpenAI、xAI与谷歌因达成放慢AI发展协议遭到反垄断诉讼，原告指控该协议以集体克制取代个体责任。这场诉讼将AI安全协作置于反垄断法的审视之下。它揭示AI治理的深层矛盾：企业以安全为由的协作可能构成合谋，未来AI行业的竞争规则与安全协作边界都将面临重新界定。",
+          "source": "Hacker News",
+          "source_url": "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "苹果M5 Ultra芯片亮相",
+          "body": "苹果发布搭载M5 Ultra芯片的新款Mac Studio，凭借超大统一内存与神经网络引擎主打本地AI工作负载。评测称它是运行本地AI智能体的理想桌面设备。这反映出端侧AI算力正快速增强，前沿模型从云端下沉到个人工作站的趋势日益明显，推动AI应用从集中式服务走向本地化部署。",
+          "source": "Hacker News",
+          "source_url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/"
+        },
+        {
+          "id": "05",
+          "title": "短波电台获安全数据升级",
+          "body": "HERMES项目为短波无线电加入文件传输与加密能力，让离网社区也能发送照片、GPS坐标与紧急求救信号。这项升级改变了短波通信只能传语音的局限。它意味着传统短波电台正从语音走向安全数据传输，有望为偏远地区、应急救灾等缺乏网络的场景提供低成本的可靠通信方案。",
+          "source": "Hacker News",
+          "source_url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data"
+        },
+        {
+          "id": "06",
+          "title": "乌无人艇击沉俄无人艇",
+          "body": "乌克兰海军无人艇在海上击沉一艘俄罗斯自杀式无人艇，成为无人艇之间首次实战击沉的里程碑。这一事件标志着海战形态正向无人化、自主化演进。它说明自主无人系统正在重塑传统海军作战，低成本无人装备对大型舰艇的战术威胁进一步凸显，推动各国加速无人海战能力建设。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "火星采样返回任务取消",
+          "body": "NASA与欧空局宣布取消火星采样返回任务，该计划原定将毅力号采集的火星岩石样本带回地球。任务因成本超支与进度严重拖延而终止。这意味着火星样本返回这一里程碑目标被迫搁置，可能为商业航天公司参与样本回收打开空间，也迫使航天机构重新审视深空探测的成本控制与任务规划。",
+          "source": "Hacker News",
+          "source_url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead"
+        },
+        {
+          "id": "08",
+          "title": "小行星光环十年剧变",
+          "body": "天文学家发现一颗小天体周围的光环在过去十年间发生了明显变化，其宽度与亮度出现可测量的演化。这一观测为研究小天体环系统的动力学提供了罕见样本。它帮助科学家理解光环的稳定性与演化机制，说明太阳系小天体远比想象中活跃，也为行星环的起源与演化理论提供了新的观测约束。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/"
+        },
+        {
+          "id": "09",
+          "title": "月球轨道器发现新陨坑",
+          "body": "NASA月球勘测轨道器在月球表面发现一个百年一遇的新撞击坑。该陨坑由近期一次小行星撞击形成，并被轨道器成像完整记录。这一发现为研究月球撞击频率与表面演化提供了新数据，也提醒人们月球表面仍处于活跃的改造之中，为未来月球基地选址与防护提供了参考。",
+          "source": "Hacker News",
+          "source_url": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "世界模型进军生物医学",
+          "body": "哈佛等机构科学家在Cell发文提出生物医学世界模型框架，让AI从识别生命走向推演干预后的结果。阿里达摩院的细胞模型与港科大团队的治疗模拟已初步验证这一思路。它标志着AI在生命科学中的角色正从数据分析转向动态预测，有望在实验前预演干预路径，大幅提升药物研发与临床决策效率。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16993"
+        },
+        {
+          "id": "11",
+          "title": "加州收紧AI数据中心",
+          "body": "加州出台新规收紧对AI数据中心能源与水资源的监管，要求运营方披露并限制其能耗与用水。此举针对AI算力快速扩张带来的资源与环境压力。它反映出AI基础设施发展与可持续发展之间的冲突加剧，政府开始将数据中心纳入环境监管，或将影响科技公司的选址与算力扩张成本。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills"
+        },
+        {
+          "id": "12",
+          "title": "霸王龙体温接近大象",
+          "body": "科学家通过分析霸王龙牙齿中的氧同位素与内部显微结构，推断其体温接近大象，属于温血动物。这一发现更新了人们对恐龙生理的传统认知。它说明恐龙并非人们通常以为的冷血蜥蜴，活跃的高代谢可能支撑了庞大的体型与掠食能力，也进一步佐证了鸟类与恐龙的演化亲缘关系。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/"
+        }
+      ]
+    }
+  ]
+}
