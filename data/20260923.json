@@ -1,0 +1,116 @@
+{
+  "date": "2026-09-23",
+  "weekday": "周三",
+  "lunar": "农历八月十三",
+  "cover_quote": "会当凌绝顶，一览众山小。—— 杜甫",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "Claude 5.5模型发布",
+          "body": "Anthropic发布旗舰模型Claude Opus 5.5，在推理、编程与智能体任务上全面刷新纪录，跻身当前最强模型之列。这标志着大模型竞争正从参数规模转向推理能力与安全对齐的精细化比拼，推动企业级AI应用加速落地，也令与OpenAI、谷歌的较量进一步升级。",
+          "source": "Hacker News",
+          "source_url": "https://www.anthropic.com/claude-opus-5-5"
+        },
+        {
+          "id": "02",
+          "title": "OpenAI发布GPT-6",
+          "body": "OpenAI发布GPT-6系列的双模型Sol与Luna，前者主打复杂推理、后者聚焦高效响应，再度拉高通用人工智能的性能天花板。延续多规格并行发布策略，以不同成本档位覆盖企业与消费场景，同时给Anthropic、谷歌等对手施加压力，加速整个行业的迭代节奏。",
+          "source": "Hacker News",
+          "source_url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/"
+        },
+        {
+          "id": "03",
+          "title": "Meta个人AI助手爆红",
+          "body": "Meta的个人AI助手Muse上线不到两周便登上美国iOS免费应用榜首，带动扎克伯格个人身价飙升约2000亿美元。这表明Meta正把庞大社交用户基础转化为AI入口优势，个人AI助理赛道进入爆发期，也预示着竞争焦点从技术参数转向用户体验与分发渠道的争夺。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17000"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "丰田训练人形机器人",
+          "body": "丰田宣布计划部署40万台工厂机器人，并要求工人训练人形机器人，同时强调不会因此裁减人类员工。此举折射出制造业巨头正加速以机器人缓解劳动力短缺与成本压力，人机协作将成为新常态，也引发外界对就业冲击与工人技能转型的持续关注，为全球汽车业人机协作树立了标杆。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/"
+        },
+        {
+          "id": "05",
+          "title": "高通骁龙8新芯片发布",
+          "body": "高通发布骁龙8 Elite Gen 6旗舰芯片，并推出频率更高的Extreme版本，采用全新架构进一步提升性能与能效。作为安卓阵营旗舰手机的核心处理器，这一迭代将推动下半年高端机型在AI算力与图形性能上的新一轮升级，强化高通在移动芯片市场的领先地位。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6"
+        },
+        {
+          "id": "06",
+          "title": "AMD锐龙两年提速50%",
+          "body": "一项分析揭示，AMD锐龙处理器两年内实现约50%的性能跃升，主要得益于制程进步、架构改进与更高功耗预算的协同作用。这一增速远超历史平均水平，表明x86阵营在英特尔承压背景下竞争进一步加剧，也为数据中心和消费市场带来更快的性能迭代，凸显制程与架构协同的价值。",
+          "source": "Hacker News",
+          "source_url": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "NASA局长谈国际合作",
+          "body": "NASA局长公开表示，在国际合作中只接受「划算的交易」，暗示未来太空合作将以更严格的成本收益标准来衡量。这一表态反映出美国在重返月球与深空探索中面临预算约束，可能重塑与盟友及商业公司的合作模式，也引发业界对国际太空项目稳定性的讨论，凸显太空预算收紧的现实。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/09/nasa-chief-im-only-interested-in-good-deals-from-international-partners/"
+        },
+        {
+          "id": "08",
+          "title": "超大质量黑洞塑造星系",
+          "body": "天文学家发现，超大质量黑洞通过喷射与引力反馈调节周围气体，堪称星系的「建筑师」，决定着星系的形态与恒星形成速度。这一成果揭示黑洞与星系协同演化的深层机制，为理解银河系等星系的形成历史提供新框架，也有助厘清宇宙大尺度结构的演化规律，为下一代望远镜观测指明方向。",
+          "source": "Hacker News",
+          "source_url": "https://www.space.com/astronomy/black-holes/supermassive-black-holes-are-the-architects-of-entire-galaxies-scientists-learn-how"
+        },
+        {
+          "id": "09",
+          "title": "稀土提纯用上量子计算",
+          "body": "美国公司尝试用量子计算与机器人实验室攻克稀土分离这一最难环节，以自动化高通量实验筛选更高效的提纯工艺。稀土是半导体、电机与清洁能源的关键原料，若方案可行，将降低对传统化学分离的依赖，并可能重塑全球稀土供应链的地缘竞争格局，降低西方对单一来源的依赖。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16995"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "渐冻症定制RNA药物显效",
+          "body": "梅奥诊所联合非营利机构n-Lorem基金会，在医学期刊报告一例定制RNA药物：一名罕见遗传型渐冻症患者用药一年后，血液神经损伤标志物下降约50%，日常功能保持稳定。这是核酸药物精准治疗极罕见渐冻症的早期证据，为个体化疗法打开了新方向，也为更多罕见病治疗带来希望。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16999"
+        },
+        {
+          "id": "11",
+          "title": "乙肝基因疗法人体试验",
+          "body": "一种最有希望治愈乙肝的基因疗法已进入人体试验，它无需切割DNA即可关闭乙肝病毒复制的「开关」，直击病毒在肝细胞内长期潜伏的难题。若试验成功，将有望终结全球数亿乙肝患者的终身服药困境、实现功能性治愈，是基因编辑向常见传染病拓展的关键一步，有望改写乙肝治疗格局。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/16998"
+        },
+        {
+          "id": "12",
+          "title": "加州运河光伏发电",
+          "body": "加州在灌溉运河上方铺设太阳能板的试点显现成效，既能发电又能减少水分蒸发、抑制藻类生长。这种「水光互补」模式为干旱地区同时缓解电力与水资源双重压力提供了可行方案，也为全球农业与清洁能源协同发展提供了可复制、可推广的示范样本，为缺水地区提供了可借鉴的新思路。",
+          "source": "Hacker News",
+          "source_url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals"
+        }
+      ]
+    }
+  ]
+}
