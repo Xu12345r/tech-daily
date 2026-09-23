@@ -1,0 +1,116 @@
+{
+  "date": "2026-09-24",
+  "weekday": "周四",
+  "lunar": "农历八月十四",
+  "cover_quote": "路漫漫其修远兮，吾将上下而求索。—— 屈原",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "AI让科研假设廉价，实验成瓶颈",
+          "body": "谷歌、DeepMind与MIT联合发布报告，基于1500万次Gemini交互、2690个科学模型和637位科学家调查，评估AI对科研的真实影响。研究发现，AI虽每周为科学家节省近7小时，却让瓶颈向下游转移，超四成研究者积压了更多待验证假设。当AI能快速生成海量候选答案，实验、样本和真实数据采集却无法同步提速，科研产出正被现实世界的验证速度卡住。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17004"
+        },
+        {
+          "id": "02",
+          "title": "智能眼镜窥探隐私，印度成重灾区",
+          "body": "Meta智能眼镜因外观酷似普通太阳镜，正成为隐蔽偷拍工具。一名印度跨性别女性在抗议现场被偷拍，视频剪辑后获数百万播放并招致辱骂。专家指出，录像指示灯可被遮挡或拆除，警方也已用其监控示威者，而印度法律对公共场合偷拍的保护几乎空白。随着Meta原型加入不亮灯的AI持续拍摄功能，旁观者将更难察觉自己被记录。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17005"
+        },
+        {
+          "id": "03",
+          "title": "谷歌Gemini语音模型升级",
+          "body": "谷歌发布Gemini 3.8 Flash与Flash-Lite两款文本转语音模型，号称迄今最具表现力的音频模型，可生成自定义角色声音并导演场景对白。模型支持超100种语言，用户可用自然语言定制角色口音与声线特征，并通过谷歌AI Studio、Gemini API等渠道使用。这标志语音合成从标准播报迈向可编排的多语言角色表达，为有声内容与虚拟角色创作降本增效。",
+          "source": "Hacker News",
+          "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "MIT光子芯片掰3000次不坏",
+          "body": "MIT与NY CREATES团队在300毫米标准晶圆上，用标准半导体工艺造出可弯曲的透明硅光子芯片，反复弯折3000次仍能正常传输数据，直到弯曲到牙签粗细才出现性能衰减。相关论文发表于Optica。该成果证明光子芯片可兼容现有晶圆产线并具备柔性潜力，为可穿戴设备、柔性显示和医疗植入等需要贴合曲面或承受形变的光通信场景打开新可能。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17003"
+        },
+        {
+          "id": "05",
+          "title": "微软新机搭载高通X2 Plus",
+          "body": "微软发布12英寸Surface Pro与13英寸Surface Laptop新款，搭载高通骁龙X2 Plus芯片，延续轻薄形态并升级算力能效。这是微软押注Windows on ARM的信号，以更低功耗和更长续航挑战英特尔苹果M系列。伴随Surface Mouse等新配件亮相，微软正构建更完整AI PC矩阵，加速Arm架构在消费级PC市场的渗透。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus"
+        },
+        {
+          "id": "06",
+          "title": "美国稀土优势尽失，中国接盘",
+          "body": "Ars Technica刊文回顾美国如何一步步把稀土供应链主导权让给中国。文章指出，美国虽拥有可观稀土储量，却因环保监管、成本压力与产业政策缺位，长期关闭本土矿山和加工厂，让中国在开采、冶炼和磁材制造全链条占据绝对优势。如今稀土成为电动车、风机与军工的关键原料，美国正面临被上游卡脖子的风险，凸显重建自主供应链的紧迫性。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/reviews/2026/09/how-the-us-handed-china-control-of-the-rare-earth-supply-chain/"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "前NASA局长警告中国月球计划",
+          "body": "美国前NASA局长就中国月球探测计划发出警告，称中国正加速推进月球基地建设与资源开发，可能率先在月球建立永久存在。他指出，若美国放缓重返月球步伐，将在战略高地和太空资源竞争中落后。此番表态正值美国阿尔忒弥斯计划面临延期与预算争议之际，凸显大国在月球开发主导权上的竞争正从技术层面升级为战略博弈。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/09/former-nasa-chief-sounds-alarm-on-chinas-lunar-exploration-plans/"
+        },
+        {
+          "id": "08",
+          "title": "欧洲报告：1.7万卫星撞轨风险",
+          "body": "欧洲最新报告对轨道碰撞风险发出严重警告。目前地球轨道上已有约1.7万颗活跃卫星且仍在快速增长，低轨空间的拥挤使卫星相撞和碎片连锁反应的风险不断上升。报告呼吁加强国际协调与碎片减缓规则。随着巨型星座大规模部署，轨道安全正从技术问题演变为治理难题，一旦发生级联碰撞，可能危及全球通信、导航与对地观测能力。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned/"
+        },
+        {
+          "id": "09",
+          "title": "英国军方干扰他国卫星自卫",
+          "body": "英国广播公司报道，英国军方已具备干扰他国卫星的能力，并将其作为自卫手段，以应对潜在对手利用卫星进行侦察或通信。这一披露罕见地承认了主动太空对抗能力的存在，反映太空正加速军事化。专家指出，此类干扰行为可能引发太空军备竞赛，使和平利用太空的国际规范面临更大压力，也为轨道环境增加了新的不确定性与冲突风险。",
+          "source": "BBC",
+          "source_url": "https://www.bbc.com/news/articles/c32l8y8kygdvo"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "AI发现类CRISPR新酶系统",
+          "body": "Anthropic宣布其AI模型Claude自主发现了一种类似CRISPR的全新酶系统，这是其自建生物湿实验室以来的首个重大发现，公司将其与基因编辑工具CRISPR相提并论。若得到验证，这标志AI不仅能辅助科研，还能在湿实验中独立提出并验证新生物学假说，为药物研发与合成生物学带来新的工程工具，也进一步印证AI正从计算进入真实实验环节。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr"
+        },
+        {
+          "id": "11",
+          "title": "斯坦福3.7万AI智能体做药",
+          "body": "斯坦福团队创建了一家完全由AI驱动的虚拟药企，拥有3.7万个智能体协同工作，无需办公室或实验室，员工全部是AI。这些智能体分工承担药物靶点发现、分子设计、实验规划等环节，试图以极低成本加速药物研发流程。该模式展示了AI智能体规模化协作的潜力，若能在真实世界中落地，有望大幅降低新药研发的时间与资金门槛。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17002"
+        },
+        {
+          "id": "12",
+          "title": "意大利议会投票重返核能",
+          "body": "意大利议会投票通过重返核能的决议，结束该国数十年来的弃核政策。自切尔诺贝利事故后，意大利于1987年公投弃核并关闭所有反应堆，如今在能源安全与脱碳压力下，政府决定重启核电。此举反映欧洲多国正重新评估核能在能源结构中的角色，若新建机组顺利落地，将有助于意大利降低对进口天然气的依赖并稳定电力供应。",
+          "source": "AP News",
+          "source_url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567"
+        }
+      ]
+    }
+  ]
+}
