@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-02",
+  "weekday": "周五",
+  "lunar": "农历八月廿二",
+  "cover_quote": "博学之，审问之，慎思之，明辨之，笃行之。—— 《中庸》",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "AI六小时破解拿破仑密信",
+          "body": "美国AI工程师卡特·丘奇借助OpenAI最新模型GPT-6 Astra，仅用6小时就破解了一封尘封217年的拿破仑时代加密军事密信，完成了图像转录、密码分析与历史资料比对。这封1809年发往法国将领马尔蒙的信件长期无人能解，AI还识别出29个代表整词的符号。此举表明AI可大幅降低历史档案与古密码的研究成本，让更多人能参与破解未解之谜。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17040"
+        },
+        {
+          "id": "02",
+          "title": "十四人AI公司估值百亿",
+          "body": "个人AI创业公司Instinct宣布完成10亿美元C轮融资，估值达100亿美元，红杉、Benchmark等机构参与。这家仅14人、创始人不足25岁的公司不做APP，用户通过短信、电话和邮件使用，约四成用户愿意交出信用卡。个人AI智能体正从概念进入产品竞争，与Meta的Muse、OpenAI的Dots争夺成为用户默认助理的入口。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17032"
+        },
+        {
+          "id": "03",
+          "title": "CF开源决策模型平台",
+          "body": "Cloudflare发布开源决策模型Clef及Clef-flash，运行于Workers AI平台，专为高速分类与智能体工作流设计，并同步推出用自有数据微调决策模型的强化学习平台。这标志着大模型从文本生成向快速决策分类分化，让企业能以更低成本把AI嵌入延迟敏感的生产流程，推动智能体应用加速落地。",
+          "source": "Hacker News",
+          "source_url": "https://blog.cloudflare.com/clef-decision-models/"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "OpenAI入局芯片设计",
+          "body": "OpenAI与EDA巨头Synopsys签署多年合作协议，将联合开发专用于芯片设计的模型GPT-Synopsys，把OpenAI的前沿AI与Synopsys的EDA工具和芯片设计经验结合，OpenAI还将授权使用Synopsys的EDA工具进行研发。此举意味着AI厂商开始深入半导体设计上游，有望缩短芯片设计周期，改写EDA行业的竞争格局。",
+          "source": "Hacker News",
+          "source_url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design"
+        },
+        {
+          "id": "05",
+          "title": "内存短缺持续至2028",
+          "body": "美光与三星高管本周表示，内存短缺至少将持续到2028年，需求将长期超过供给。AI数据中心对高带宽内存的旺盛需求是主要推手，叠加产能扩张滞后。这一判断意味着存储芯片价格将持续处于高位，手机、服务器等下游成本承压，也为存储厂商带来新一轮扩产投资窗口。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/"
+        },
+        {
+          "id": "06",
+          "title": "开源复现英伟达DLSS",
+          "body": "有开发者开源了英伟达DLSS 5神经渲染网络的复现版本，声称与官方模型逐位一致，用同一套71模块的变换器网络在浏览器里跑通，只是不提供权重文件。这一复现把英伟达闭源的神经网络渲染管线拆解公开，为游戏渲染与AI超分辨率研究提供了可验证的参照，也引发了对模型版权边界的讨论。",
+          "source": "Hacker News",
+          "source_url": "https://github.com/maanHimself/OpenDLSS-NR"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "加拿大发力自建发射产业",
+          "body": "随着与美国关系转冷，加拿大开始认真建设自己的火箭发射产业，多家本土初创加速研发小型运载火箭。此前加拿大在该领域几乎没有存在感，如今政府与民间资本正推动自主进入轨道的能力。此举反映出地缘政治变化正在重塑全球航天供应链，也为小型卫星发射市场带来新的竞争者。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/"
+        },
+        {
+          "id": "08",
+          "title": "NASA营救Swift望远镜",
+          "body": "美国宇航局为抢救价值5亿美元的Swift天文卫星，罕见地采用AI辅助快速编程等非常规手段并多方周旋，最终仍未能阻止其坠落轨道。这一事件披露了NASA在预算与程序约束下营救科学资产的艰难过程，揭示旗舰科学任务的脆弱性，也引发对重大航天资产退役决策与应急机制的反思。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/10/heres-why-nasa-is-celebrating-the-failed-mission-to-save-the-swift-observatory/"
+        },
+        {
+          "id": "09",
+          "title": "复杂波揭示大脑运作机制",
+          "body": "最新研究在大脑中发现了意想不到的波动模式，这些在人类大脑中传播的复杂波可能在实时重组神经活动。科学家此前认为大脑活动主要局限于局部脑区，而新证据表明行波在协调不同脑区中扮演关键角色。这一发现把物理学的波动理论引入神经科学，为理解意识与认知的信息整合机制提供了新框架。",
+          "source": "Hacker News",
+          "source_url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "全球首款全植入人工耳蜗",
+          "body": "奥地利企业MED-EL发布全球首款全植入式人工耳蜗，将麦克风、处理器和电池全部植入皮下，患者睡觉、游泳也能使用，充满电可连续工作40小时。该产品重约20克，已获欧洲监管批准并完成首批商业植入。这标志着人工耳蜗从体外佩戴迈向真正的全植入，可显著改善重度听障者的生活质量。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17039"
+        },
+        {
+          "id": "11",
+          "title": "骨密度透露大脑衰老",
+          "body": "约翰斯·霍普金斯大学团队在《放射学》发表研究，发现从胸部CT影像中测得的胸椎骨密度较低者，约五年内整体认知下降更快，部分脑区白质也出现关联变化。团队用深度学习工具从既有扫描中自动提取骨密度。这意味着常规肺部CT有望成为评估脑健康与认知风险的额外窗口，但目前仅为统计关联，尚不能用于个体预测。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17033"
+        },
+        {
+          "id": "12",
+          "title": "缺氧海域藏早期生命线索",
+          "body": "一项发表于《AGU进展》的研究提出，海洋中长期被称为「死区」的缺氧海域可能并非生命禁区，反而保存着与早期地球相似的环境条件，为理解生命起源提供了线索。科学家在这些低氧环境中观察到独特的微生物代谢途径。这一视角转变把环境科学与生命起源研究联系起来，提示重新审视深海缺氧区的科学价值。",
+          "source": "Hacker News",
+          "source_url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570"
+        }
+      ]
+    }
+  ]
+}
