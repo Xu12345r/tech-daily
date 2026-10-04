@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-05",
+  "weekday": "周一",
+  "lunar": "农历八月廿五",
+  "cover_quote": "天行健，君子以自强不息。—— 《周易》",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "辛顿等警告智能爆炸",
+          "body": "辛顿、Bengio等22位顶尖学者联名警告，随着AI越来越多地参与研发下一代AI，智能爆炸的风险比想象中更近，AI一年进展或压缩至五周。此举把长期停留在理论中的递归自我改进风险重新拉回公众视野，推动业界在失控前进一步加速建设安全护栏与治理机制。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17050"
+        },
+        {
+          "id": "02",
+          "title": "数字人通过视频图灵测试",
+          "body": "AI视频公司Tavus发布Griffin模型，将感知、对话与视频生成整合进同一个端到端系统，实现全双工实时交互。实测54名受试者进行1分钟视频通话，48%误以为对方是真人，而上代系统仅2.4%。这标志数字人从级联架构迈向人类级自然交互，但欧盟AI法要求强制披露身份，使其暂缓商用。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17044"
+        },
+        {
+          "id": "03",
+          "title": "OpenAI基金会投250亿",
+          "body": "OpenAI非营利母体基金会宣布投入250亿美元，首批聚焦健康与AI韧性，已启动阿尔茨海默症与癌症疫苗等项目，首年拟发放超10亿美元。基金会强调先建设开放数据而非直接押注药物管线，并承诺数据向全球研究者开放。作为估值约1300亿美元的慈善巨擘，其与OpenAI集团的利益边界仍待检验。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17052"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "家用显卡跑千亿大模型",
+          "body": "开源项目Strata让125B参数的Qwen3.8-Flash-Next模型跑在普通游戏电脑上，仅需12GB显存的英伟达或AMD显卡，数据不出本机，并提供OpenAI兼容接口。这标志千亿级大模型从云端走向个人设备，本地私密AI有望普及，降低推理成本并推动端侧AI生态加速形成。",
+          "source": "Hacker News",
+          "source_url": "https://github.com/Niko1221/Strata"
+        },
+        {
+          "id": "05",
+          "title": "Valve优化老款AMD显卡",
+          "body": "Valve工程师Timur Kristóf在XDC 2026大会上展示为Linux优化老款AMD显卡驱动的工作，让更早的Radeon显卡在现代Linux游戏环境下获得更好支持。这延续Valve对开源图形栈与Steam Deck生态的投入，帮助老硬件延长寿命，也降低了玩家的升级成本。",
+          "source": "Hacker News",
+          "source_url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU"
+        },
+        {
+          "id": "06",
+          "title": "苹果AI模型侵占磁盘",
+          "body": "macOS 27不再提供一键关闭Apple Intelligence的开关，且关闭后模型仍留在磁盘上，有开发者推出开源工具RemoveMacAI，可彻底关闭功能、删除模型并阻止重新下载。这反映端侧AI在带来便利的同时侵占本地存储，用户对AI功能的控制权与资源占用问题日益凸显。",
+          "source": "Hacker News",
+          "source_url": "https://github.com/omlahore/RemoveMacAI"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "杂耍数学猜想终获证明",
+          "body": "一项源于杂耍的数学猜想在被提出55年后终于获得证明。这道难题由已故数学家罗纳德·格雷厄姆留下，他生前既担任美国数学学会主席，也是国际杂耍协会前主席。其证明填补了组合数学的长期空白，也再次印证看似游戏的问题常蕴含深刻数学结构，激励跨领域的创造性研究。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17051"
+        },
+        {
+          "id": "08",
+          "title": "小行星采矿公司自主任务",
+          "body": "小行星采矿公司AstroForge宣布将于2027年发射全球首个完全自主的航天任务，无需地面指令即可独立运行，有望开创太空探索新范式。自主控制可摆脱通信延迟的束缚，让深空探测更高效、更经济，为商业小行星资源开发扫清关键的技术障碍，也为后续深空任务铺路。",
+          "source": "Hacker News",
+          "source_url": "https://www.space.com/technology/without-a-single-command-from-the-ground-asteroid-mining-company-to-launch-worlds-1st-autonomous-space-mission-in-2027"
+        },
+        {
+          "id": "09",
+          "title": "阿波罗13功臣逝世",
+          "body": "曾参与拯救阿波罗13号的NASA飞行主任Milt Windler去世，享年94岁。1970年，他与另三位飞行主任昼夜指挥地面团队，成功把遇险的三名宇航员安全带回家。他的离去让世界再次铭记那次航天史上最惊心动魄的救援，也致敬了一代载人航天工程人的奉献与担当。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "诺奖得主唱衰AlphaFold",
+          "body": "诺贝尔化学奖得主Eric Betzig公开表示，用AlphaFold开发新药会失败，并称生物学教科书里几乎一切都是幻觉，甚至放言砍掉95%的学术界世界也无感。这番尖锐批评直指AI预测结构到成药之间的巨大鸿沟，提醒业界对计算工具的局限保持清醒，避免过度押注单一技术路径。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17053"
+        },
+        {
+          "id": "11",
+          "title": "IEA谈电气化最难一环",
+          "body": "国际能源署发布报告指出，当电力成为最便宜、最清洁、最安全的能源，全球正加速向电气化转型，但真正的难点在于电网扩容、储能与工业脱碳。署长比罗尔在联合国强调，选择已不再是安全、廉价、清洁的三难困境，挑战在于如何让基础设施改造跟得上快速增长的用电需求。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/"
+        },
+        {
+          "id": "12",
+          "title": "谷歌数据中心水电曝光",
+          "body": "美国内布拉斯加州要求数据中心上报水电用量，但州法规阻碍公众查看，近日一次不当脱敏意外泄露了林肯市谷歌数据中心的水电数据。事件揭示数据中心作为AI基础设施的巨量资源消耗长期缺乏透明度，公众对科技巨头水电足迹的知情权与监管问责正成为全社会新的关注焦点。",
+          "source": "Hacker News",
+          "source_url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/"
+        }
+      ]
+    }
+  ]
+}
