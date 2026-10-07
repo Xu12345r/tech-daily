@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-08",
+  "weekday": "周四",
+  "lunar": "农历八月廿八",
+  "cover_quote": "工欲善其事，必先利其器。—— 《论语》",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "OpenAI发布GPT-6",
+          "body": "OpenAI发布新一代模型GPT-6，并同步推出智能界面功能，让ChatGPT能够用图片、图表等可视化内容来回答问题。这标志着AI交互从纯文本向多模态可视化升级，有望大幅降低用户理解复杂信息的门槛，并推动生成式AI在日常办公与生活中的普及。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6"
+        },
+        {
+          "id": "02",
+          "title": "Claude新轻量模型发布",
+          "body": "Anthropic发布Claude Haiku 5.5，这是该公司最快、能力最强的小型模型，专门为摘要生成、子代理调度和浏览器操作等大批量任务而设计。小模型以低延迟和低成本见长，新版本进一步缩小了与旗舰模型的差距，为企业和开发者提供了性价比更高的日常调用选择。",
+          "source": "Anthropic",
+          "source_url": "https://www.anthropic.com/claude-haiku-5-5"
+        },
+        {
+          "id": "03",
+          "title": "a16z报告揭AI付费落差",
+          "body": "a16z第七版消费级AI应用报告显示，仅4.5%的美国消费者为ChatGPT、Gemini或Claude支付过个人订阅费用，而GPU价格仍在持续攀升。这一落差揭示了AI热度与真实付费意愿之间的鸿沟，警示整个行业需重新审视商业化路径，并思考如何真正兑现用户价值。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17063"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "英伟达RTX Spark笔记本",
+          "body": "英伟达RTX Spark芯片的首批笔记本正式上市，顶配售价高达7000美元，直接对标高端MacBook Pro。这是英伟达首次将旗舰级图形与AI性能下放到笔记本芯片，标志其从数据中心向消费级PC市场发起正面进攻，有望重塑高性能移动计算的竞争格局。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000"
+        },
+        {
+          "id": "05",
+          "title": "TP-Link在美遭多州起诉",
+          "body": "佛罗里达等四个州对TP-Link提起诉讼，指控其隐瞒与中国的关系以及路由器被中国黑客利用的安全风险，此时美国联邦通信委员会的禁令已生效约半年。诉讼与禁令的叠加，凸显了中美科技博弈背景下网络设备供应链安全问题的持续升级，影响波及全球亿万用户。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/tech-policy/2026/10/florida-sues-tp-link-claiming-it-hides-router-security-risks-and-links-to-china/"
+        },
+        {
+          "id": "06",
+          "title": "特朗普全美制造受质疑",
+          "body": "美国贸易组织对特朗普政府提出的高科技100%本土制造目标进行测算，指出在芯片等关键领域实现完全国产化供应链几乎不可能。数据揭示了产业回流所面临的成本、人才与配套产业链等现实约束，为这场声势浩大的制造业再造运动泼了一盆冷水，凸显理想与现实之间的巨大鸿沟。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/tech-policy/2026/10/trade-group-crunches-numbers-on-trumps-impossible-push-for-100-us-made-tech/"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "NASA与ESA联合科学任务",
+          "body": "美国宇航局表示希望与欧洲航天局至少联合开展一项科学任务，但同时强调只接受划算的合作方案。在预算受限、重返月球与月球基地竞争激烈的背景下，这一表态折射出国际航天合作正从开放共享，转向精打细算、讲究对等回报的新现实，标志国际航天合作进入务实新阶段。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/10/nasa-is-keen-on-pursuing-at-least-one-joint-science-mission-with-europe/"
+        },
+        {
+          "id": "08",
+          "title": "阿波罗软件先驱逝世",
+          "body": "领导阿波罗计划软件开发的玛格丽特·汉密尔顿逝世，享年90岁。她首创软件工程一词，其编写的登月舱导引计算机错误恢复系统，曾在阿波罗11号着陆的关键时刻避免任务中止。她的离世标志着开创性航天软件时代落幕，但其工程思想至今仍深刻影响现代软件行业。",
+          "source": "Hacker News",
+          "source_url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007"
+        },
+        {
+          "id": "09",
+          "title": "AI形式化证明存疑",
+          "body": "有研究指出，用Lean等形式语言验证AI生成的数学证明，并不能保证原始自然语言论证的正确性，因为语义忠实的形式化翻译难度甚至超越停机问题。这直接质疑了OpenAI此前宣称的纳维-斯托克斯方程爆破证明，警示AI数学成果仍需人类严格审视，绝不能盲目轻信机器验证。",
+          "source": "Hacker News",
+          "source_url": "https://arxiv.org/abs/2610.08144"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "卡根获诺贝尔化学奖",
+          "body": "95岁的亨利·卡根与硤合宪三共同获得2026年诺贝尔化学奖，表彰他们在不对称有机合成中发现的非线性效应与自催化现象。卡根25年前曾与诺奖失之交臂，如今终获认可，其成果揭示了生命为何只使用单一手性分子的深层机理，为理解生命起源提供了关键线索。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17064"
+        },
+        {
+          "id": "11",
+          "title": "美国麻疹疫情破千例",
+          "body": "美国宾夕法尼亚州麻疹疫情累计病例突破1000例，成为2000年宣布消除该疾病以来最大规模的暴发。疫情反弹折射出疫苗接种率下滑与反科学言论泛滥带来的沉重代价，为全球公共卫生体系敲响了警钟。卫生官员警告，若不及时遏制，疫情恐进一步向周边各州蔓延。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/health/2026/10/pa-measles-outbreak-tops-1000-cases-largest-since-disease-was-eliminated/"
+        },
+        {
+          "id": "12",
+          "title": "富兰克林DNA贡献再证",
+          "body": "一项科学史研究指出，罗莎琳德·富兰克林早在沃森和克里克之前就已理解DNA的结构，反驳了沃森长期以来对她的贬低性叙述。这一结论为这位长期被忽视的女科学家正名，也促使学界重新审视DNA双螺旋发现史中的贡献归属，并引发科学史学界的广泛讨论与热议，为科学史研究提供了新的视角。",
+          "source": "Hacker News",
+          "source_url": "https://link.springer.com/article/10.1007/s10739-026-09866-7"
+        }
+      ]
+    }
+  ]
+}
