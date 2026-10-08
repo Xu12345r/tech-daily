@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-09",
+  "weekday": "周五",
+  "lunar": "农历八月廿九",
+  "cover_quote": "不积跬步，无以至千里；不积小流，无以成江海。—— 荀子",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "OpenAI公布722数学手稿",
+          "body": "OpenAI发布722篇数学手稿，覆盖数论到量子场论等分支，部分结果附带了可被计算机逐行验证的形式化证明，其中还涉及黎曼猜想无零点区域等难题。这一规模远超以往，标志着AI开始系统性进入开放数学问题的求解环节。独立顾问组提醒，公开发布不等于人类真正理解，数学家仍需主导提问方向。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17062"
+        },
+        {
+          "id": "02",
+          "title": "Anthropic开源安全扫描",
+          "body": "Anthropic推出免费AI安全扫描服务OSS Scanner，用最强模型定期为开源项目排查漏洞，帮助维护者更快发现安全隐患。开源软件是数字世界的基石却常因人力不足疏于维护，此举有望填补安全防线短板。但代价是项目需让渡部分代码访问权限，引发隐私与信任方面的权衡讨论。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner"
+        },
+        {
+          "id": "03",
+          "title": "Mistral发万亿级模型",
+          "body": "法国公司Mistral发布可免费获取的模型Le Chonk，宣称足以挑战顶尖AI模型，为全球争夺前沿AI算力与技术的紧张局势提供了新的替代选项。在少数科技巨头垄断高端模型能力的背景下，这一开源力量有助于打破壁垒，让更多国家和机构获得高性能AI，推动技术普惠与竞争格局重塑。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "英伟达押注物理AI安全",
+          "body": "英伟达加码物理AI，推出面向机器人、自动驾驶与人形机器人的全栈安全系统Halos，帮助企业降低机器伤人风险。随着AI模型与机器人硬件能力快速成熟，安全正成为制约落地的下一个瓶颈。英伟达负责人表示，此举意在解锁这些系统的规模化部署能力，为机器人走进工厂与道路扫清障碍。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/"
+        },
+        {
+          "id": "05",
+          "title": "苹果触屏MacBook将亮相",
+          "body": "据彭博社报道，苹果将于10月27日前后推出首款触屏MacBook Pro及新款iPad Mini，这是Mac产品线首次加入触控功能。长期以来苹果坚持触屏与笔记本分离的设计哲学，此次转向折射出用户习惯与市场竞争的压力。若成真，将模糊笔记本与平板的边界，重塑个人计算设备的形态。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor"
+        },
+        {
+          "id": "06",
+          "title": "亚马逊平板改投安卓",
+          "body": "亚马逊发布新平板Alexa Tablets，弃用Fire品牌，转而采用完整Google认证的安卓系统并内置Play商店，顶配搭载金属机身。此前Fire平板长期淡化安卓身份，如今却彻底拥抱谷歌生态，是公司平板战略的重大转向。这既简化了应用生态，也意味着亚马逊在消费硬件上对自有系统的取舍出现变化。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "SpaceX进军移动运营商",
+          "body": "SpaceX宣布收购低频段频谱牌照组合，计划让Starlink Mobile成为美国主流移动运营商，将卫星直连手机星座与地面网络结合。此举把公司从火箭与卫星互联网进一步推向通信基础设施核心，直接挑战传统电信巨头。若获美国联邦通信委员会批准，偏远地区手机信号覆盖难题有望迎来新解法。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier"
+        },
+        {
+          "id": "08",
+          "title": "亚马逊建成千颗卫星",
+          "body": "亚马逊宣布已建成第1000颗卫星，其低轨宽带星座Kuiper计划在年底前启动太空互联网服务，正式挑战SpaceX的星链垄断。全球高速卫星网络市场此前几乎被马斯克一家把持，亚马逊入局将为航空、航运及政府客户提供真正的第二选择。其宽带项目负责人正是早年主导星链的Rajeev Badyal。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/"
+        },
+        {
+          "id": "09",
+          "title": "玻璃珠与光量子纠缠",
+          "body": "研究人员实现让一束光与一颗悬浮玻璃珠产生量子纠缠，首次把宏观可见物体纳入量子关联体系，被誉为实验力作。这一突破为量子记忆与宏观量子态研究打开了新窗口，有助于探索经典与量子世界的边界。若能扩展到更大质量物体，或将推动量子传感与基础物理检验走向新阶段。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/10/suspended-glass-bead-entangled-with-light-maybe-a-quantum-memory/"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "虚拟生物学计划扩容",
+          "body": "扎克伯格夫妇支持的Biohub宣布扩容虚拟生物学计划，联合美国能源部、NIH、Google DeepMind、Meta等机构投入约18亿美元，为训练能预测细胞行为的AI虚拟细胞模型打造开放数据底座。这标志着AI公司从分析已有数据转向直接生产实验数据，加速了AI生物学从蛋白质走向完整细胞模拟的进程。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17068"
+        },
+        {
+          "id": "11",
+          "title": "礼来CEO谈AI制药局限",
+          "body": "礼来CEO坦言，人类可能只掌握10%到15%的生物学知识，现有数据尚不足以让AI可靠预测复杂生物系统。礼来已启用千余块英伟达GPU的超算押注AI制药，但CEO强调真正烧钱的仍是临床试验。他还指出中国创新药已占全球研发管线约30%，呼吁美国保持竞争力。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17067"
+        },
+        {
+          "id": "12",
+          "title": "埃克森美孚气候隐瞒曝光",
+          "body": "新披露的内部文件进一步证实，埃克森美孚自有科学家早已怀疑其宣传的气候修复方案可行性，却长期对外淡化气候变化风险。这项研究补充了这家石油巨头数十年来在气候问题上误导公众的证据链条，凸显化石燃料行业对全球减排进程的阻碍。该案或为针对能源企业的气候责任诉讼提供关键支撑。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-com/"
+        }
+      ]
+    }
+  ]
+}
