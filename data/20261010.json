@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-10",
+  "weekday": "周六",
+  "lunar": "农历九月初一",
+  "cover_quote": "问渠那得清如许，为有源头活水来。—— 朱熹",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "DeepSeek新模型引热议",
+          "body": "开发者实测DeepSeek 4.1 Flash近一个月，认为其能力已媲美Claude Opus等前沿模型，成本却低了好几个数量级。文章追问为何业界反应平淡，并指出蒸馏模型已能胜任同类工作负载，中国团队仅落后数月，正快速逼近西方领先实验室，其技术窗口正在收窄。",
+          "source": "Hacker News",
+          "source_url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/"
+        },
+        {
+          "id": "02",
+          "title": "CF收购Deno",
+          "body": "Cloudflare宣布收购Deno，将Node创始人Ryan Dahl领衔的JavaScript运行时团队纳入旗下，共同构建网页开发未来。此举把Deno的本地开发工具链与Cloudflare全球边缘网络深度整合，开发者有望获得从编写到部署的一站式体验，重塑网页应用的构建方式。",
+          "source": "Deno",
+          "source_url": "https://deno.com/blog/cloudflare"
+        },
+        {
+          "id": "03",
+          "title": "OpenAI开除安全研究员",
+          "body": "OpenAI解雇三名安全研究员，理由是处理研究信息不当，但三人发表公开信反驳指控，警告此举正在公司内部制造寒蝉效应，威胁AI安全文化。风波凸显前沿实验室在追求商业速度与守住安全底线之间的持续张力，也引发外界对OpenAI安全治理的更多质疑。",
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "DDR4内存卷土重来",
+          "body": "内存价格持续上涨让用户升级PC愈发吃力，英特尔与AMD因而推出支持老一代DDR4内存的新款CPU，让用户能继续沿用更便宜的旧规格内存。这一反常的倒退折射出存储涨价对整机成本的挤压，也说明芯片巨头正被迫在性能与价格之间重新权衡，反映存储芯片供需失衡仍在加剧。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback"
+        },
+        {
+          "id": "05",
+          "title": "PC出货量暴跌两成",
+          "body": "市场研究机构Omdia数据显示，今年第三季度全球PC出货量同比暴跌约两成，创下2023年一季度以来最大跌幅，笔记本、台式机与工作站合计降至5810万台。分析认为，内存等零部件涨价推高整机售价、抑制消费需求，PC行业正进入一轮深度调整周期，行业寒意渐浓。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/"
+        },
+        {
+          "id": "06",
+          "title": "微软发布AI新硬件",
+          "body": "微软时隔两年举办线下发布会，推出新一代Surface笔记本，并公布Windows 11多项改动，展示本地AI与智能体工作流如何重塑个人计算。这标志着微软把AI能力从云端下沉到端侧设备，试图在苹果与谷歌夹击下，为Windows生态重新注入增长动力。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "Vulcan火箭即将复飞",
+          "body": "联合发射联盟的Vulcan火箭结束长时间停飞，重返太空的发射窗口已锁定在10月底，将为亚马逊执行一次发射任务。这次复飞对ULA至关重要，承载着与SpaceX竞争军用与商业发射市场的希望，也被视为美国航天发射格局变化的风向标，也牵动亚马逊卫星互联网的进度。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/"
+        },
+        {
+          "id": "08",
+          "title": "钍核钟首次持续运转",
+          "body": "清华与维也纳工业大学等团队让基于钍-229原子核跃迁的核钟首次实现持续运转。与传统原子钟依赖电子跃迁不同，核钟以原子核为计时基准，理论上精度更高、更抗外界干扰，未来有望探测基本物理常数是否随时间漂移，检验物理学最深层的假设，被视为精密计时的一次范式跃迁。",
+          "source": "Hacker News",
+          "source_url": "https://www.jerrycards.com/news/first-ticking-nuclear-clocks-thorium-229-tsinghua-tu-wien-2026"
+        },
+        {
+          "id": "09",
+          "title": "太阳风折返起源新线索",
+          "body": "科学家从太阳探测器数据中获得太阳风「折返」现象起源的新线索。所谓折返，是指太阳风中磁场方向突然剧烈翻转的罕见结构。搞清其形成机制，有助于解释太阳如何加热日冕、加速太阳风，进而改进对空间天气和地球磁暴的预报能力，也让空间天气预警变得更加精准。",
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/science/2026/10/08/scientists-get-a-new-clue-to-the-origin-of-solar-wind-switchbacks/5301644"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "四小时储能低于燃气轮机",
+          "body": "最新分析显示，四小时时长的电池储能系统在全球范围的安装成本已低于新建燃气轮机，数据中心等耗电大户开始用电池替代天然气发电。这标志着储能迈入「平价」时代，电网可更灵活吸纳波动性的风光电力，为能源系统脱碳扫除关键障碍，也为风光大规模并网铺平了道路。",
+          "source": "Solar Power World",
+          "source_url": "https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/"
+        },
+        {
+          "id": "11",
+          "title": "运动提升癌症生存率",
+          "body": "《新英格兰医学杂志》发表的研究显示，规律运动能显著提高癌症患者的生存率，且对多种癌种普遍有效。这为「运动即良药」提供了坚实循证依据，提示肿瘤诊疗体系应将身体活动纳入标准治疗方案，从单纯用药转向身心协同的综合管理，改善长期预后，推动肿瘤治疗理念革新。",
+          "source": "NEJM",
+          "source_url": "https://www.nejm.org/doi/10.1056/NEJMoa2502760"
+        },
+        {
+          "id": "12",
+          "title": "AI翻档案发现陨石犀牛",
+          "body": "有研究者让人工智能翻阅四百年来的海量历史档案，意外找出一起被遗忘的陨石目击记录、三头曾被认为消失的犀牛，以及多次未被记载的火山喷发。这展示了AI挖掘古籍的潜力：海量历史文献中潜藏着对当代科学有价值的信息，等待被重新发现，为科学研究打开了全新入口。",
+          "source": "Hacker News",
+          "source_url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/"
+        }
+      ]
+    }
+  ]
+}
