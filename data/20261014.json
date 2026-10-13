@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-14",
+  "weekday": "周三",
+  "lunar": "农历九月初五",
+  "cover_quote": "纸上得来终觉浅，绝知此事要躬行。—— 陆游",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "谷歌Gemini4上线",
+          "body": "谷歌旗舰模型Gemini 4 Argon开始大规模推送，目前仅向付费用户开放，低档订阅只能获得部分功能。该模型数周前发布时因担心被滥用而谨慎推进，如今加速落地，标志着谷歌前沿模型正式进入消费市场，与OpenAI等对手的模型竞争进一步白热化。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/"
+        },
+        {
+          "id": "02",
+          "title": "Character.AI破产",
+          "body": "AI聊天机器人公司Character.AI申请第11章破产保护，迪士尼出价两千万美元收购其技术的非排他永久许可。这家曾风靡一时、屡陷丑闻的AI陪伴公司，成为首家崩塌的主流消费级AI公司，折射出AI陪伴商业化的变现困境，也预示着AI初创公司进入整合与淘汰期。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/"
+        },
+        {
+          "id": "03",
+          "title": "AI会攻破加密吗",
+          "body": "a16z crypto邀请斯坦福密码学家Dan Boneh等讨论AI数学能力对密码系统的潜在威胁。OpenAI公开的数学成果未涉及密码学，但AI可能把新方案多年公开检验周期大幅压缩，专家担忧其持续搜索攻击路径。为此以太坊基金会提出掩体模式，机构被建议加强密钥管理与密码敏捷性，以应对破密风险。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17089"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "苹果HomeView发布",
+          "body": "苹果发布首款智能显示屏HomeView，7英寸屏幕售价299美元，正式进军智能家居中枢市场。这是苹果补齐智能家居入口的关键一步，将与亚马逊Echo Show、谷歌Nest Hub正面竞争，借助苹果生态与隐私优势争夺客厅与厨房场景的入口控制权。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/"
+        },
+        {
+          "id": "05",
+          "title": "AI造出微型继电器",
+          "body": "初创公司Atomic Machines结束六年隐身，发布物质编译器Matter Compiler及首款产品PrimeSwitch微型继电器，累计融资2.5亿美元。创始人Jeff Holden曾任Uber首席产品官，试图让数字设计直接变成可运转的微型机器，首款产品面向AI数据中心800V高压供电，兼顾机械继电器与固态开关的双重优势。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17090"
+        },
+        {
+          "id": "06",
+          "title": "浙大双臂机械蛙人",
+          "body": "浙大雷勇教授团队创立潜匠科技，研发双臂机械蛙人水下机器人。工程潜水行业面临人才断层，35岁以下工程潜水员占比不足三成，而全国大量水利设施进入维护更新期。团队从水下吸附技术入手解决站稳出力难题，采用沉浸式遥操作让专家在岸上远程作业，推动危险水下作业走向机器化。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17080"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "月球建城竞赛打响",
+          "body": "以美中为核心的第二轮太空竞赛目标从插旗升级为永久定居。NASA计划2028年启动载人登月，长远在21世纪30年代建成覆盖科研站、资源开采、着陆场的月球基地网络，总投资或达数百亿美元，中国亦有类似计划。要实现愿景，须先克服昼夜温差121摄氏度、致命辐射与磨蚀性月尘等极端挑战。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17088"
+        },
+        {
+          "id": "08",
+          "title": "比地球更宜居行星",
+          "body": "科学家重新审视寻找地外生命的假设，探讨是否存在比地球更适合生命繁衍的系外行星。所谓超宜居世界可能绕更稳定的K型矮星运行、温度略暖且陆地面积更大，为生命诞生提供更优条件。这一思路挑战了以地球为唯一模板的固有认知，将深刻影响系外行星探测与天体生物学的研究方向。",
+          "source": "Hacker News",
+          "source_url": "https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html"
+        },
+        {
+          "id": "09",
+          "title": "遮阳地球工程推演",
+          "body": "气候研究者Colleen Golja在伦敦参与系列兵棋推演，目标是防止各国失控竞相研发给地球降温、却伴随巨大未知风险的太阳地球工程。推演显示，当事关地球命运时，科学与理性未必能占据决策席位，凸显了为地球工程建立国际治理规则、防止单边部署的紧迫性。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "罗氏AI研发闭环",
+          "body": "罗氏在投资者日披露AI驱动研发战略，基因泰克负责人阿维夫·雷格夫主导实验室闭环体系，让模型预测实验、结果回灌迭代。罗氏称二季度44%管线决策含AI贡献，靶点评估智能体TargetNexus目标在四季度前覆盖80%研究决策，III期临床试验成功率升至80%以上，药物研发进入模型驱动的闭环时代。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17085"
+        },
+        {
+          "id": "11",
+          "title": "腕带治震颤获批",
+          "body": "Encora Therapeutics研发的腕带式设备通过FDA认证，可减轻特发性震颤，而其源头是麻省理工2.009产品设计课的一个课堂项目。这一从校园作业到获批医疗器械的跨越，展现了产学研转化的潜力，为全球数百万震颤患者提供了一种无需手术或药物的非侵入性治疗新选择。",
+          "source": "MIT News",
+          "source_url": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002"
+        },
+        {
+          "id": "12",
+          "title": "蜂刺注毒机制揭秘",
+          "body": "高速影像揭示蜜蜂蛰针是一套双活塞毒液泵，蜜蜂飞走后蛰针仍能持续将毒液泵入受害者体内。科学家由此厘清了蜜蜂蛰刺后毒液持续注入的机制，深化了对蜂类防御器官演化与功能的理解，也为解释蛰伤后的疼痛与过敏反应程度提供了更精确的生物学依据，有望推动更有效的蛰伤急救手段研发。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/"
+        }
+      ]
+    }
+  ]
+}
