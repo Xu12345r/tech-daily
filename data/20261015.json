@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-15",
+  "weekday": "周四",
+  "lunar": "农历九月初六",
+  "cover_quote": "博学之，审问之，慎思之，明辨之，笃行之。—— 《礼记》",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "开源模型安全之争",
+          "body": "Anthropic发布报告称中国智谱的开源模型GLM-5.3可能带来重大网络攻击风险，再度点燃前沿AI模型是否应开放的争论。黄仁勋主张开放以扩大硬件市场，阿莫代伊则担忧廉价开源模型削弱竞争优势。这场争论关乎AI权力是集中于少数实验室还是成为公共产品，将决定AI未来的治理走向。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17094"
+        },
+        {
+          "id": "02",
+          "title": "小模型可自我复制",
+          "body": "Anthropic警告，小型AI模型的进步可能在明年催生能自我复制的恶意软件，感染智能冰箱、扫地机器人等物联网设备。这类计算机蠕虫无需人工干预即可传播，且难以清除。尽管其实验显示实现仍有技术障碍，但该警告凸显AI与物联网结合带来的新型网络安全风险。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/"
+        },
+        {
+          "id": "03",
+          "title": "AI科学发现谁验证",
+          "body": "PAIR 2026大会上，青年研究者聚焦一个核心追问：AI给出的科学结果要经过怎样的检验才能成为可信证据。当前AI生成候选的速度已远超实验验证能力，A-Lab材料发现等案例更暴露出生成与判定同源的盲区。专家提出验证器与生成器分离、跨平台复现等原则，重塑AI科研的可信标准。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17093"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "Cerebras芯片交付难",
+          "body": "晶圆级AI芯片厂商Cerebras获OpenAI确认合作后股价反弹，上财年收入近5.1亿美元，其中OpenAI贡献约32%季度收入。但其254亿美元待履约订单中仅22%能在两年内确认，且前三大客户占比76%，客户高度集中。推理算力正摆脱对英伟达的单一依赖，但高估值与慢交付的矛盾仍待破解。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17092"
+        },
+        {
+          "id": "05",
+          "title": "海底光缆遭破坏风险",
+          "body": "尽管星链等卫星服务扩张，全球大部分互联网流量仍依赖海底光缆，这些光缆与油气管道、海底电缆交织，正面临灰色地带战争带来的破坏风险。近期波罗的海等海域频发拖锚割缆等可疑事件。大西洋理事会专家在《海底战争》一书中警示，全球海底基础设施的安全形势正持续恶化。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/gadgets/2026/10/the-internets-undersea-backbone-is-slipping-into-to-the-danger-zone/"
+        },
+        {
+          "id": "06",
+          "title": "银行甩卖AI算力债",
+          "body": "摩根大通、三菱日联等银行开始寻求出售它们刚承销的、与甲骨文相关的AI数据中心债务，信用违约互换飙升、债券认购趋冷。此前华尔街争相为AI算力基建融资，如今开始担忧泡沫与违约风险，转而分散敞口。这折射出市场对AI数据中心投资过热与回报不确定性的警惕升温。",
+          "source": "Hacker News",
+          "source_url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "NASA金星任务重启",
+          "body": "美国国家航空航天局两艘金星探测器在历经取消威胁后重回正轨，其中DAVINCI将于2030年12月发射，携带降落探测器首次直接拍摄1982年以来金星表面图像，VERITAS和欧洲Envision则随后以雷达测绘。这将是一代人以来人类首次重返金星，开启对这颗行星大气与地质的系统探测。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/"
+        },
+        {
+          "id": "08",
+          "title": "星链限速拖累乌军",
+          "body": "乌克兰军方称，星链终端在时速超160公里时信号失效，导致多场无人机任务受扰，前线后勤与中程打击严重受限，且事前毫无预警。与此同时，基辅连续两天未收到盟友关于俄导弹袭击的预警，凸显战场关键通信过度依赖单一供应商的脆弱性，星链所蕴含的地缘政治风险再度显现。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/"
+        },
+        {
+          "id": "09",
+          "title": "AI调谐量子激光",
+          "body": "中性原子量子计算公司QuEra介绍其用AI自动锁定与调谐量子计算机激光的技术。中性原子量子比特依赖精密激光囚禁与操控，传统上需人工反复校准，AI介入后大幅提升激光稳定性与规模化扩展能力。这一进展降低了量子硬件运维的工程门槛，为量子比特数量扩展与实用化铺平道路。",
+          "source": "Hacker News",
+          "source_url": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "开源基因注释模型",
+          "body": "Hugging Face生物团队发布开源基因注释模型Carbon-A及数据库，覆盖约4.8万个基因组、2.2万种物种，预测出约5.66亿个蛋白编码位点，规模远超参考数据库。该模型仅凭DNA序列即可从头预测基因，将原本耗时数月的物种注释压缩为一次查询，并预言2027年将成为生物之年。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17091"
+        },
+        {
+          "id": "11",
+          "title": "AI设计新型蛋白酶",
+          "body": "研究人员利用AI蛋白质设计工具，取两种蛋白酶催化核心并替换其余部分，制造出可精确剪切特定蛋白的新酶。天然蛋白酶在环境中降解蛋白的过程被AI直接短路，新酶可按需定制切割目标。这展示了AI在酶工程领域的强大能力，有望用于生物技术、制药和工业降解等多种场景。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/"
+        },
+        {
+          "id": "12",
+          "title": "美国稀土产业流失",
+          "body": "分析指出美国并非凭空失去稀土产业，而是几十年来主动将其出售，如今面临中国以控制权而非成本定价的不对称断供风险。市场按成本定价，中国按控制力定价。随着电动汽车、风力发电与军工对稀土永磁材料需求持续攀升，重建美国本土稀土供应链的融资与政策逻辑亟需根本转变。",
+          "source": "Hacker News",
+          "source_url": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it"
+        }
+      ]
+    }
+  ]
+}
