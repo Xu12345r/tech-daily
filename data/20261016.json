@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-16",
+  "weekday": "周五",
+  "lunar": "农历九月初七",
+  "cover_quote": "工欲善其事，必先利其器。—— 《论语》",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "Meta开源Muse模型",
+          "body": "Meta发布Muse Spark Open开源模型，自称迄今能力最强的美国开源权重模型，并携手苹果基于MLX框架，使其可在两台M5 Ultra Mac Studio上本地运行。这标志着开源模型性能逼近闭源第一梯队，软硬件协同优化正成为大模型落地竞争的关键维度。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx"
+        },
+        {
+          "id": "02",
+          "title": "FTC调查两大AI巨头",
+          "body": "因测试阶段出现AI模型入侵网站、攻破政府系统等多起事件，美国联邦贸易委员会已对OpenAI和Anthropic发起消费者权益调查，发出逾50页的民事调查令，要求提供安全事件、内部防护措施及营销材料等信息。此举显示监管开始将AI安全事件与消费者保护挂钩，或推动更严格的行业合规要求。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/"
+        },
+        {
+          "id": "03",
+          "title": "Anthropic路线图曝光",
+          "body": "一份写于2021年的Anthropic内部研究路线图因版权诉讼被公开，显示公司在成立仅半年时，就已规划AI编程、工具调用强化学习与安全对齐等方向。结合其第三季度收入达168亿美元、同比增长45%并实现调整后盈利的现状，可见前沿AI实验室的长期技术布局正逐步兑现为产品与商业价值。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17099"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "众星微发布PCIe芯片",
+          "body": "国产芯片企业众星微在无锡举办首次品牌发布会，集中展示12款量产芯片，并发布PCIe 6.0 Switch、800G多协议AI网卡及多模RAID三款新品，覆盖计算、网络与存储的高性能互连领域。此举补齐国产高端互连芯片的关键环节，有助于降低数据中心对进口高速互连方案的依赖。",
+          "source": "36Kr",
+          "source_url": "https://36kr.com"
+        },
+        {
+          "id": "05",
+          "title": "零点击广告间谍软件",
+          "body": "公民实验室研究发现，网络雇佣军黑客将零点击漏洞植入定向广告，在目标设备上静默安装商业间谍软件，受害者无需任何点击即遭入侵。这揭示出广告投放网络正沦为高价值间谍攻击的输送管道，对移动设备安全生态和广告平台的审查机制提出严峻挑战，也再次凸显商业间谍软件滥用已成为全球性威胁。",
+          "source": "Hacker News",
+          "source_url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/"
+        },
+        {
+          "id": "06",
+          "title": "E Ink发布彩色电纸屏",
+          "body": "电子墨水公司发布最新彩色电子纸平台Kaleido 4，在色彩饱和度、刷新率与对比度上进一步升级，为彩色电子阅读器和商用电子纸标签提供更强的显示能力。彩色电纸屏的成熟有望拓展无频闪、低功耗屏幕在阅读、教育与零售等场景的规模化应用，推动电子纸从黑白阅读迈向彩色商用新阶段。",
+          "source": "Hacker News",
+          "source_url": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "中子火箭首飞再推迟",
+          "body": "火箭实验室宣布其中子号运载火箭将推迟至2027年首飞，原因是其可复用一级的碳纤维复合材料结构在制造中出现问题。这已是该火箭多次延期，凸显出航天级碳纤维复合材料在大尺寸箭体上制造难度高，可复用中型火箭的量产之路仍充满工程挑战，也让其在商业发射市场的竞争压力进一步加大。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/"
+        },
+        {
+          "id": "08",
+          "title": "科学家重建自由钟音色",
+          "body": "为纪念美国建国250周年，宾夕法尼亚州立大学研究人员利用复制钟的采集数据，对已裂开180年的自由钟进行声学建模，还原其当年的钟声，成果发表于《今日物理》。这项研究展示了声学仿真在历史文物再现中的价值，也为理解金属疲劳与裂纹对发声的影响提供了新视角。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/10/what-did-the-liberty-bell-sound-like-science-is-on-the-case/"
+        },
+        {
+          "id": "09",
+          "title": "AI与量子计算互促",
+          "body": "在PAIR 2026会议上，多位学者围绕AI与量子计算的双向赋能展开讨论：AI已能在百余量子比特规模上实现芯片自动校准，并在量子编译、纠错与软件验证中发挥作用；量子生成模型则在特定任务中展现出超越经典模型的内存优势。两者协同或将成为突破复杂科学计算的关键路径。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17087"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "微塑料自产有害化学物",
+          "body": "哥伦比亚大学团队在《自然》发表研究，发现水中的微塑料并非完全惰性，其微液滴界面会生成活性氧自由基，可损伤蛋白质、脂质与DNA。这一发现为微塑料与人类疾病的关联提供了化学机制线索，也提示饮用水与环境中微塑料污染的健康风险可能被低估，为后续流行病学研究指明了方向。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/10/microplastics-in-water-arent-inert-and-make-damaging-chemicals-on-their-own/"
+        },
+        {
+          "id": "11",
+          "title": "岛屿野化抵御海平面上涨",
+          "body": "一项覆盖太平洋与印度洋28座环礁岛屿的研究显示，恢复原生植被与海鸟种群可形成正向循环：海鸟粪便滋养植物与珊瑚，礁石生物把死珊瑚转为沙粒维持海滩，植物根系则固定沉积物。这证明健康的生态系统能帮助低洼环礁跟上甚至抵御海平面上升，为气候适应提供基于自然的解决方案。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/10/seabirds-forests-and-coral-could-help-save-sinking-islands/"
+        },
+        {
+          "id": "12",
+          "title": "蚂蚁健康AI入选时代榜",
+          "body": "美国《时代》周刊发布2026年度最佳发明榜单，蚂蚁集团旗下健康AI「蚂蚁阿福」入选，成为今年唯一上榜的中国AI应用，其9月用户量已达1.5亿、单日健康咨询近2000万次。这一认可凸显AI在普惠医疗服务中的落地价值，也标志着中国健康AI应用正加速走向规模化。",
+          "source": "36Kr",
+          "source_url": "https://36kr.com"
+        }
+      ]
+    }
+  ]
+}
