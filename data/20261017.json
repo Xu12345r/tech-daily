@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-17",
+  "weekday": "周六",
+  "lunar": "农历九月初八",
+  "cover_quote": "不积跬步，无以至千里。—— 荀子",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "AI黑箱破解九成神经元",
+          "body": "前OpenAI研究员Nick Cammarata发布研究，用AI代理分析Qwen3等大模型，发现约九成神经元都有明确功能，仅2%至4%难以解释，并重新解读了猫脸与车脸的经典案例。这挑战了学界长期信奉的特征叠加假说，为AI安全对齐与可解释性研究开辟了全新方向。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17101"
+        },
+        {
+          "id": "02",
+          "title": "Meta借条款训练新闻AI",
+          "body": "Meta将于10月30日更新商业条款，允许抓取企业关联网站内容用于训练AI，且商家无法选择退出，被指借此规避向新闻出版商支付授权费。法律专家警告此举或引发新一轮版权诉讼，凸显AI训练数据获取与内容创作者权益之间的深层矛盾，令新闻业对内容价值流失忧心忡忡。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers"
+        },
+        {
+          "id": "03",
+          "title": "AI基准漏测九成工时",
+          "body": "Mercor发布美国基准地图发现，约九成美国工作工时对应的任务缺乏公开AI智能体基准覆盖，现有评测多集中于编程等少数场景。这意味着AI能力评估与真实劳动力需求严重脱节，企业难以据此判断模型能否胜任实际业务，也暴露出评测生态的明显空白，制约企业智能化转型决策。",
+          "source": "Hacker News",
+          "source_url": "https://www.mercor.com/research/labor-index/benchmark-map/"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "英伟达Arm芯片亮相",
+          "body": "英伟达正式推出基于Arm架构的RTX Spark N1X处理器，主打笔记本与小型桌面设备，宣称可对标苹果、英特尔、AMD和高通的最强产品。多家厂商已推出搭载机型，标志英伟达进军消费级Arm处理器市场，与高通和苹果展开正面竞争，Windows笔记本迎来新变数。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions"
+        },
+        {
+          "id": "05",
+          "title": "Meta眼镜偷录对话",
+          "body": "部分雷朋Meta智能眼镜在用户未说唤醒词的情况下自动录音并上传对话，Meta承认存在漏洞并已修复。此事将用户对AI可穿戴设备偷录隐私的担忧变为现实，凸显端侧AI硬件在语音交互便利性与个人隐私保护之间的平衡难题，令智能穿戴设备的隐私合规再度成为焦点。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/"
+        },
+        {
+          "id": "06",
+          "title": "OpenBSD惊现37年漏洞",
+          "body": "安全研究者公布OpenBSD系统中一个潜伏37年的内核漏洞，可被利用实现权限提升，代码最早可追溯至1988年。这一发现再次证明老代码中的深层缺陷可能长期潜伏，凸显开源系统持续审计与软件供应链安全的长期价值，也提醒开发者即便是成熟系统也可能暗藏致命缺陷。",
+          "source": "Hacker News",
+          "source_url": "https://calif.io/research/big-fish"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "蓝色起源押注新格伦",
+          "body": "蓝色起源宣布大幅扩建佛罗里达发射设施，为新格伦火箭新增两个发射台，目标未来每年发射超百次。此举显示公司全力押注重型火箭市场竞争，加速与SpaceX猎鹰重型火箭争夺商业与政府发射订单，重塑全球发射格局，也为其亚马逊柯伊伯卫星组网发射铺平道路。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/"
+        },
+        {
+          "id": "08",
+          "title": "Claude自主优化量子电路",
+          "body": "Anthropic公布研究，Claude在几乎无需人工干预下自主设计出量子电路，多项指标优于已发表的最佳方案，部分性能提升超过一个数量级。这展示了AI在量子算法设计中的巨大潜力，也引发关于AI参与前沿科学研究的广泛讨论，被视作AI加速科研发现的新例证。",
+          "source": "Hacker News",
+          "source_url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits"
+        },
+        {
+          "id": "09",
+          "title": "FAA放行星舰发射",
+          "body": "美国联邦航空管理局正评估增加SpaceX星舰基地的发射频次，以匹配其快速迭代节奏；同时印度Skyroot公司签下首个美国客户，Vikram火箭打入海外市场。这反映全球商业航天发射需求旺盛，监管与发射能力同步提速，太空运输市场竞争进一步升温，为低成本进入太空开辟更多选择。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/10/rocket-report-faa-eyes-more-starbase-traffic-indias-skyroot-snares-us-customer/"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "冷冻一年猪肾复苏",
+          "body": "明尼苏达大学团队利用纳米颗粒电磁复温技术，将冷冻至零下150摄氏度并储存长达一年的猪肾恢复功能，移植后迅速恢复粉红并产生尿液。这是完整器官玻璃化保存的首个里程碑，未来或建器官库实现长期储备，从根本上逆转患者等待器官的被动局面，为移植医学带来革命性前景。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17105"
+        },
+        {
+          "id": "11",
+          "title": "美军研发人造血液",
+          "body": "美国DARPA投入7300万美元启动RAPIID计划，目标2029年前让袋装冻干血液制品投入战场，破解全血仅能冷藏35天的难题。人造血液可常温长期储存，将大幅提升战场与偏远地区救治能力，挽救大量失血伤员的宝贵生命，弥补全球血液供应长期缺口。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17104"
+        },
+        {
+          "id": "12",
+          "title": "阿尔茨海默新药突破",
+          "body": "Arrowhead公司公布siRNA药物ARO-MAPT早期数据，仅皮下注射几针便使脑脊液tau蛋白降低73%，首次在人体证明RNAi药物可穿越血脑屏障。这为阿尔茨海默病提供了一条更可及的疗法路径，并打开了诺奖RNAi技术治疗脑部疾病的新空间。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17103"
+        }
+      ]
+    }
+  ]
+}
