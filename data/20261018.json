@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-18",
+  "weekday": "周日",
+  "lunar": "农历九月初九",
+  "cover_quote": "路漫漫其修远兮，吾将上下而求索。—— 屈原",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "DeepSeek新模型上线",
+          "body": "DeepSeek发布新版Flash系列模型，主打愿望驱动编程，用户用自然语言描述意图，模型即可生成可运行代码。官方称其基准测试更强、任务完成更快、输出更短，性能与成本同步改善，现已上线网页、App与API，并针对编程工具做了深度优化。此举有望进一步降低AI编程门槛，加剧大模型编程赛道竞争。",
+          "source": "Hacker News",
+          "source_url": "https://api-docs.deepseek.com/news/news261017"
+        },
+        {
+          "id": "02",
+          "title": "逆向一切AI工具爆火",
+          "body": "开源项目REA在GitHub爆红，Star数逼近30万。它借MCP协议把Ghidra等逆向工具接入Claude Code、Codex等编程智能体，让AI在无源码时分析软件并重写功能，已用于还原Notion剪贴板与游戏声音算法。但实测发现AI会漏报函数调用、甚至伪造结果，安全性也存疑。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17108"
+        },
+        {
+          "id": "03",
+          "title": "网站屏蔽AI代理",
+          "body": "越来越多网站对AI智能体关闭大门，拒绝其自动抓取内容，因为这会带来流量负担，又夺走广告与订阅收入。OpenAI、谷歌等虽承诺智能体能代为浏览，但现实阻力正倒逼平台研发新协议，也让AI代理的普及前景蒙上阴影。这场平台与智能体之间的博弈，正成为AI落地绕不开的一环。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "特斯拉发布飞行跑车",
+          "body": "特斯拉发布新一代Roadster，借SpaceX冷气推进器与主动吸力系统，实现倒挂行驶、短暂悬浮与空中翻转，0到96公里加速仅0.81秒。其火箭版为单座，目标破百不到0.6秒，计划2028年量产。航天技术下放至量产跑车，重新定义了电动超跑的物理极限。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17102"
+        },
+        {
+          "id": "05",
+          "title": "OpenCode泄露用户密钥",
+          "body": "开源AI编程工具OpenCode确认，其正在退役的旧系统遭未授权访问，用户工作区保存的OpenAI、Anthropic等第三方密钥可能泄露，官方要求用户立即撤销并更换。事件再度警示，把云服务密钥托管在AI编程工具中，潜藏巨大的供应链安全风险。",
+          "source": "Hacker News",
+          "source_url": "https://twitter.com/opencode/status/2111516673953935833"
+        },
+        {
+          "id": "06",
+          "title": "Surface本地跑大模型",
+          "body": "微软新款Surface Laptop Ultra搭载英伟达RTX Spark平台，可在本地运行700亿参数大模型，同时兼顾3A游戏与开发需求。评测认为其ARM芯片性能一年前难以想象，微软意在用一台设备同时吸引MacBook Pro用户与游戏玩家，主攻高性能移动办公。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "桌面级核聚变产燃料",
+          "body": "MIT初创公司Cambridge Heavy Industries披露桌面级核聚变路线，获620万美元种子融资。它用环形激光叠加冲击波压缩燃料，压力能效比国家点火装置高约400倍，先生产稀缺氚燃料，每克约3万美元，长远再探索发电，有望大幅降低聚变技术门槛。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17106"
+        },
+        {
+          "id": "08",
+          "title": "印度Skyroot获美客户",
+          "body": "印度民营火箭公司Skyroot赢得一家美国客户，将为其发射载荷；加州公司Reflect Orbital也转向印度寻求发射能力。在美国本土发射资源趋紧、需求激增的背景下，印度凭借低成本火箭加速切入全球商业发射市场，正在重塑全球航天产业的竞争格局。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/10/rocket-report-faa-eyes-more-starbase-traffic-indias-skyroot-snares-us-customer/"
+        },
+        {
+          "id": "09",
+          "title": "日本MMX探测火卫",
+          "body": "日本火星卫星探测任务MMX即将发射，将乘H3火箭奔赴火星，探测火卫一与火卫二，释放巡视器采样，并计划2031年把样本带回地球。作为今年最受瞩目的深空科学任务之一，它将首次尝试取回火星卫星样本，有助揭示其成因与太阳系早期历史，开启行星卫星探测新篇章。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/10/rocket-report-faa-eyes-more-starbase-traffic-indias-skyroot-snares-us-customer/"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "美国核电站扩容潮",
+          "body": "受AI用电需求激增推动，美国核电掀起功率提升潮。运营商Constellation拟投43亿美元升级11座反应堆、新增约1吉瓦装机，谷歌签20年购电协议；能源部也向Vistra贷款42亿美元。核电机组扩容能在较短时间内为数据中心供清洁电，但增量仍难满足AI需求。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17109"
+        },
+        {
+          "id": "11",
+          "title": "Anthropic自建实验室",
+          "body": "Anthropic在旧金山湾区自建生物实验室，从AI公司跨界下场做实验。其950个Claude智能体分析20万条序列，发现类CRISPR的ART酶系统并初步实验验证。公司还吸纳诺奖得主John Jumper，试图让Claude从科研工具升级为连接数据、模型与实验的生命科学基础设施。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17110"
+        },
+        {
+          "id": "12",
+          "title": "白化珊瑚触邻恢复",
+          "body": "研究显示，白化濒死的珊瑚只要与健康珊瑚相邻，几天内就能形成组织桥，接受对方转移的关键微藻而重新繁荣。这一发现揭示珊瑚礁内部的互助机制，为珊瑚礁修复提供了新思路，即通过保留健康珊瑚群落提升整片礁区对热浪的抵抗能力，为全球珊瑚礁保护与人工修复提供重要启示。",
+          "source": "Nature",
+          "source_url": "https://www.nature.com/articles/d41586-026-03266-x"
+        }
+      ]
+    }
+  ]
+}
