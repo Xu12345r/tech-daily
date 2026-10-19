@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-20",
+  "weekday": "周二",
+  "lunar": "农历九月十一",
+  "cover_quote": "不积跬步，无以至千里；不积小流，无以成江海。—— 荀子",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "MiniMax发布M3.1",
+          "body": "MiniMax发布新一代M3.1 Flash模型，在智能体任务、编码、计算机操作与网络安全等能力上实现代际跃升，在线推理速度提升近三倍，使用成本下降七成。此举将高性能智能体模型推向更低价格区间，加剧AI模型市场竞争，让开发者以更低成本构建复杂智能体应用，加速端侧与云端智能体生态的普及。",
+          "source": "Hacker News",
+          "source_url": "https://www.minimax.io/blog/minimax-m31f"
+        },
+        {
+          "id": "02",
+          "title": "CERN携手Mistral",
+          "body": "欧洲核子研究中心CERN与法国AI公司Mistral签署意向书，建立长期战略合作，联合开发面向科学发现的基座模型，将CERN在基础物理、科学数据与大规模计算上的积累同Mistral的模型训练能力相结合。这标志欧洲在AI for Science领域加速布局，有望为高能物理与多学科科研提供新工具，增强欧洲在人工智能与基础科学交叉领域的竞争力。",
+          "source": "Hacker News",
+          "source_url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/"
+        },
+        {
+          "id": "03",
+          "title": "OpenAI前员工间谍案",
+          "body": "美国法院驳回释放前OpenAI工程师阿尔福赞的请求，FBI称其涉嫌在绝密会议室安装窃听设备以窃取前沿实验室机密，手机中还存有名为沙特政府文件的文件夹。检方指控其与沙特王室成员联系，并计划永久迁回沙特。此案凸显前沿AI模型机密已成为地缘博弈目标，引发对AI实验室内部安全与技术外流的担忧。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "平流层飞艇通信测试",
+          "body": "美国Sceye公司的无人平流层飞艇完成从新墨西哥州到日本的跨太平洋往返飞行，验证了以浮空平台充当天空基站的可行性。该飞艇以氦气提供浮力、电动推进，借助顶部太阳能板昼夜持续驻留约六万英尺高空，比低轨卫星更接近地面。此举为偏远地区通信覆盖提供了卫星与地面基站之外的第三种方案，有望降低补盲成本。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/gadgets/2026/10/trans-pacific-journey-tested-stratospheric-cell-tower-concept-in-japan/"
+        },
+        {
+          "id": "05",
+          "title": "无人机检测光伏衰减",
+          "body": "浙江大学兰东辰团队发表研究，仅凭一张无人机发光图像即可定量分析光伏组件功率损失，总体误差约0.5%，并已在186千瓦电站上完成验证。团队让轻量级AI先识别主导衰减类型，再用器件物理模型反推功率损失，摆脱了对海量训练数据的依赖。该方法可显著提升大型电站检测效率与覆盖面，降低运维成本，并可扩展至钙钛矿与叠层组件。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17114"
+        },
+        {
+          "id": "06",
+          "title": "苹果预告新MacBook",
+          "body": "苹果发出本月第二场发布会邀请，定于10月28日在洛杉矶举行，据彭博报道预计推出配备OLED屏幕的新款MacBook Pro以及更新的iPad mini。OLED屏幕将为笔记本带来更高的对比度与能效表现。此举反映苹果在消费硬件领域的持续迭代节奏，也为高端笔记本市场注入新的竞争变量，带动显示面板产业链的需求。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "俄卫星逼近美商业卫星",
+          "body": "轨道情报公司LeoLabs称，俄罗斯军用卫星Kosmos 2612近日对美国商业成像卫星ICEYE-X36实施一系列抵近机动，从数百公里外逼近至极近距离，环绕停留后离开，这是低轨首次已知的未授权交会。该卫星自4月发射后，同批次至少四颗卫星持续追踪ICEYE-X36。此类太空对抗行为加剧轨道安全风险，凸显商业卫星在冲突中的战略价值。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/"
+        },
+        {
+          "id": "08",
+          "title": "中国火箭残骸落美国",
+          "body": "一枚中国朱雀二号E火箭9月15日从酒泉发射后，将十颗卫星送入轨道并二次点火，未完成整圈飞行便再入大气层，碎片坠入美国明尼苏达州农田。社交媒体当时流传的火球与轨迹帮助专家将残骸与蓝箭航天的朱雀二号E火箭联系起来。事件凸显火箭再入碎片风险正成为国际关切，也反映出商业发射频率上升带来的轨道与地面安全挑战。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/10/a-chinese-rocket-deorbited-over-minnesota-and-left-this-in-a-farmers-cornfield/"
+        },
+        {
+          "id": "09",
+          "title": "欧洲运营商自建卫星",
+          "body": "德国电信、Orange、西班牙电信与沃达丰签署意向书，考虑联合竞标频谱，构建欧洲直连手机的卫星通信能力，以与SpaceX的星链竞争。四家公司将负责地面基础设施，由一家未公布的卫星伙伴提供星座。此举意在打破星链在直连卫星市场的主导地位，保障欧洲在卫星通信领域的自主权，为用户提供不依赖单一供应商的全球连接选项。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/policy/1013680/european-mobile-carriers-mobile-satellite-starlink"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "大脑意识高频切换",
+          "body": "加州大学伯克利分校曹颖团队在猕猴实验中发现，即便画面与主观感知保持不变，同一群神经元也会以每秒约15次的速度在意识与无意识状态间来回切换，颠覆了意识信号稳定驻留某脑区的传统假设。研究用神经像素探针逐毫秒追踪，揭示过去观测到的弱信号实为两股方向相反的强信号相互抵消。这为理解意识的生物学基础开辟了时间维度上的新方向。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17111"
+        },
+        {
+          "id": "11",
+          "title": "宠物延寿产业兴起",
+          "body": "宠物生物科技长寿产业正在兴起，Loyal公司正开发三种有望延长犬只寿命的药物，其中一种已在全美约1300只宠物狗身上开展试验；Viagen Pets以五万美元提供猫狗克隆服务，Alcor等机构则提供宠物遗体低温保存。随着陪伴经济升温，资本加速涌入宠物抗衰赛道。但克隆与冷冻复活的技术前景仍存争议，也引发关于生命伦理与商业化边界的讨论。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17113"
+        },
+        {
+          "id": "12",
+          "title": "水下火山地热发电",
+          "body": "西雅图初创公司Endurance Energy在太平洋Axial海山附近完成全球首次海底地热电站示范，这台三吨重原型机在近一英里深的海底产生不到十秒的净正电力，验证了开发水下可再生能源的技术可行性。深海冷海水可无限冷却、水压让系统紧凑。该技术若实现商业化，可为太平洋岛国等地区提供替代进口化石燃料的清洁电力，拓宽地热能源的应用版图。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/"
+        }
+      ]
+    }
+  ]
+}
