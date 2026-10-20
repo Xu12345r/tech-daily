@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-21",
+  "weekday": "周三",
+  "lunar": "农历九月十二",
+  "cover_quote": "路漫漫其修远兮，吾将上下而求索。—— 屈原",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "Gemini智能进入汽车",
+          "body": "谷歌将个性化智能功能推入汽车场景，Gemini可在车载系统中调用用户的邮件、日历、照片等数据，让AI在驾驶时给出更贴合个人情境的回答。该功能为可选，今日起逐步推送至安卓车载系统，未来数月覆盖更多车型。此举把生成式AI从手机延伸到座舱，凸显谷歌以海量个人数据构建差异化体验的竞争策略。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto"
+        },
+        {
+          "id": "02",
+          "title": "8张TLS证书遭篡改",
+          "body": "全球安全界因发现8张私钥极弱的TLS中间证书而高度戒备，这些证书来自印度证书机构eMudhra，攻击者可借此为任意网站伪造受浏览器信任的凭证。截至目前浏览器厂商及主流应用已全部封禁这8张证书，暂未发现被恶意利用。但Linux发行版与海量物联网设备更新困难，威胁仍将持续。此事再次暴露证书体系供应链的脆弱，凸显关键基础设施密钥管理的紧迫性。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/"
+        },
+        {
+          "id": "03",
+          "title": "谷歌开源TorchTPU",
+          "body": "谷歌开源TorchTPU，为旗下TPU芯片提供原生PyTorch后端，内置自定义内核、编译缓存与分布式训练支持，可与图模式编译集成，让开发者无需额外中间层即可在TPU上运行PyTorch模型。此举显著降低TPU开发门槛，有望扩大谷歌AI芯片的开发者生态，与英伟达的软件生态形成更激烈的竞争。",
+          "source": "Hacker News",
+          "source_url": "https://github.com/google-pytorch/torch_tpu"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "Astra触觉具身智能",
+          "body": "清华大学团队发布TacTalent报告，评估OpenAI的GPT-6 Astra模型在接触密集型操作中的表现。在视触觉基准上，Astra平均成功率达93.8%，比此前最佳专用模型高出23个百分点。团队未微调策略模型，仅靠少量演示让Astra结合视觉与触觉图像完成精细任务，证明通用基础模型可直接用于机器人精细操作，冲击了专用模型在该领域的固有优势。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17117"
+        },
+        {
+          "id": "05",
+          "title": "秒级回收90%金属锑",
+          "body": "美国莱斯大学团队在《自然·化学工程》发表研究，利用改进的闪速焦耳加热技术，在数秒内从阻燃塑料电子垃圾中回收约90%的金属锑，纯度超97%，并同步回收83%的溴，有毒含溴有机物减少三至五成。锑是半导体与阻燃材料的关键矿产，该技术已与澳洲企业达成商业授权，正向规模化推进，为电子垃圾资源化提供了更环保的路径。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17118"
+        },
+        {
+          "id": "06",
+          "title": "Meta千兆瓦超算集群",
+          "body": "Meta披露其位于俄亥俄州的Prometheus千兆瓦级超级集群建设进展，首阶段已完工，正朝约百万块GPU的规模扩展，并采用闭式液冷提升能效。该集群正是训练Meta最新Muse基座模型家族的算力底座。千兆瓦级数据中心标志着AI基础设施进入全新量级，也把电力供应、散热与能效推向前所未有的挑战，反映科技巨头为争夺前沿模型能力正展开一场算力军备竞赛。",
+          "source": "Hacker News",
+          "source_url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "星舰将首次完整回收",
+          "body": "马斯克宣布，SpaceX下月将尝试同时回收星舰飞船与超重型助推器，目标首次实现整套轨道发射系统的完整回收。若成功，这将是有史以来首次完整回收一款轨道运载火箭，远超此前仅回收一级火箭的成就。此举标志着星舰向完全可复用迈出关键一步，有望大幅降低进入太空的成本，为大规模载人登月、火星殖民以及高频次商业发射奠定基础。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says"
+        },
+        {
+          "id": "08",
+          "title": "特斯拉SpaceX洽谈合并",
+          "body": "马斯克在SpaceX第三季度财报电话会上透露，应股东要求，特斯拉与SpaceX已分别成立由独立董事组成的特别委员会，讨论两家公司合并的可能性。作为两家公司的共同CEO，马斯克未透露委员会成员。若合并成真，将诞生横跨电动汽车、能源、航天与AI的超级巨头，深刻重塑全球科技与资本市场格局，也引发对垄断与公司治理的广泛讨论。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees"
+        },
+        {
+          "id": "09",
+          "title": "量子纠错超越盈亏平衡",
+          "body": "量子计算公司Quantinuum宣布，其当前硬件已能将逻辑量子比特扩展到远超盈亏平衡点，即增大逻辑量子比特规模后错误率不升反降，各项性能指标持续改善。逻辑量子比特是运行复杂量子算法的基础，此前多家公司虽已越过盈亏平衡，但改善幅度有限，难以支撑实用算法。这一进展意味着容错量子计算离实用化更近一步，为破解药物、材料等领域的复杂问题带来新希望。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/10/quantum-error-correction-goes-well-beyond-breakeven/"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "Claude设计蝎毒蛋白",
+          "body": "Anthropic披露，其内部研究版Claude应投资者之邀，设计出针对蝎毒神经毒素的迷你结合蛋白。生物科技公司对211个设计进行了实验验证，其中17个达到结合标准，团队已将全部设计及数据开源。这是Claude继单次提示设计蛋白质后，进一步在真实药物发现难题上验证能力，表明AI正从辅助编码走向自主参与生物医药研发，为新药发现打开新空间。",
+          "source": "Hacker News",
+          "source_url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design"
+        },
+        {
+          "id": "11",
+          "title": "电池碳足迹可降十倍",
+          "body": "墨尔本大学团队研究发现，锂离子电池制造过程的碳排放目前仅占全球温室气体年排放的0.18%，但随电池用量激增，到2050年可能增长十倍以上。研究指出，通过选择更易开采精炼的原料、提升制造环节能效以及加强回收再利用，可显著削减这部分排放。该成果为能源转型进入深水区后如何进一步脱碳提供了量化依据，凸显产业链上游减排的重要性。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/10/batteries-have-a-small-carbon-footprint-we-can-make-it-smaller/"
+        },
+        {
+          "id": "12",
+          "title": "TikTok屏蔽多肽搜索",
+          "body": "短视频平台TikTok开始屏蔽热门多肽的搜索，用户搜索司美格鲁肽、BPC-157、瑞他鲁肽等词时，返回无结果页面。多肽是由氨基酸组成的化合物，涵盖胰岛素及GLP-1等减肥药成分，此前平台上关于未经监管的多肽注射内容泛滥，被指误导消费者、带来健康风险。平台此举被视为对健康信息监管压力的回应，也折射出社交平台在健康内容治理与商业利益之间的张力。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/science/1014825/peptide-tiktok-search-ban"
+        }
+      ]
+    }
+  ]
+}
