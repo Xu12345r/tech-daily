@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-22",
+  "weekday": "周四",
+  "lunar": "农历九月十三",
+  "cover_quote": "天行健，君子以自强不息。—— 《周易》",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "Claude Duet发布",
+          "body": "Anthropic发布新AI智能体Claude Duet，对标Meta的Muse与OpenAI的Dots，可自主调用工具完成多步骤任务。这款面向个人与团队的生产力智能体，延续了Anthropic在智能体赛道与两大对手正面竞争的布局。其发布标志AI竞争正从对话模型转向能真正代劳的自主智能体，人机协作方式面临新一轮重塑。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent"
+        },
+        {
+          "id": "02",
+          "title": "OpenAI模型登陆谷歌云",
+          "body": "OpenAI宣布旗下最新大模型将登陆谷歌云与Antigravity平台，这是两大AI巨头首次在云服务上如此深入合作。此举打破谷歌云此前几乎只推自家Gemini模型的局面，让企业客户可在谷歌云上直接调用OpenAI模型。它折射出云厂商正从封闭绑定转向多模型开放生态，企业AI选型因此获得更大灵活性，也加剧了云与模型市场的竞争。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/"
+        },
+        {
+          "id": "03",
+          "title": "神经网络其实更易理解",
+          "body": "前OpenAI研究员、初创公司Goodfire的卡马拉塔发布2.6万词长文，提出大模型内部机制其实比想象中更易理解，因而更可控可监测，在AI研究界引发两极反应。支持者称其可能成为科学史上的重要时刻，斯坦福学者则指其远未充分验证。在智能体屡屡突破运行限制的背景下，这一可解释性观点直接关系到AI安全治理的走向。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17121"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "清华造世界最轻显微镜",
+          "body": "清华戴琼海院士团队在《自然》发表仅重1克的无线介观显微镜Airscope，首次实现百万像素级无线成像，可同时记录小鼠8500多个神经元，约为现有无线设备的25倍。团队用自研AI光学智能体LensCopilot设计出成本不足2美元的镜头，让小鼠自由活动、社交时也能看清大脑活动，推动神经科学迈向真实环境下的自然观测范式。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17122"
+        },
+        {
+          "id": "05",
+          "title": "机器人需要世界模型吗",
+          "body": "在上海PAIR大会上，清华眭亚楠、上海交大班雨桐等研究者围绕机器人是否需要世界模型展开讨论，认为完成具体操作未必需要复杂的外部预测模型，但世界模型的潜力在于让已有经验在新任务新环境中复用，减少昂贵的真机试错。这一分歧揭示了具身智能的技术路线之争，也关乎通用机器人能否摆脱对人工干预的依赖。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17124"
+        },
+        {
+          "id": "06",
+          "title": "模型与芯片协同演进",
+          "body": "上海PAIR大会上，多位芯片与算法专家探讨大模型迭代远快于芯片研发的矛盾，指出一代芯片从设计到量产需三年，而模型需求数月即变。短期算法受硬件约束，长期硬件回应算法需求，光计算等新技术将以协处理器形式与传统芯片协同而非替代。模型厂商自研芯片、芯片厂商反攻模型，双方正争夺下一代智算系统的定义权。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17115"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "Gemini破解聚变猜想",
+          "body": "谷歌Gemini 4 Argon模型在数小时内破解了一个困扰核聚变研究59年的理论猜想，超越了数十年人类理论探索的进展。这一猜想此前长期未被证明，AI通过大规模推理找到了新的求解路径。该成果展示了大模型在硬核科学推理上的潜力，为核聚变等长期悬而未决的难题提供了AI驱动的新求解范式。",
+          "source": "Hacker News",
+          "source_url": "https://www.techradar.com/pro/its-over-ai-won-google-gemini-4-argon-shatters-59-year-old-nuclear-fusion-conjecture-in-just-a-few-hours"
+        },
+        {
+          "id": "08",
+          "title": "美国中型火箭竞赛之问",
+          "body": "美国多家商业航天公司正竞相研发中型运载火箭，试图填补小型与重型火箭之间的市场空档。然而有分析指出，在SpaceX猎鹰9号凭借拼车发射大幅压低发射成本、商业发射需求又充满不确定性的背景下，中型火箭的市场空间存疑，所谓竞赛可能更多是融资叙事而非真实需求，入局者面临进退两难的商业化考验。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/10/does-anyone-actually-want-to-win-the-medium-lift-race-in-the-united-states/"
+        },
+        {
+          "id": "09",
+          "title": "马斯克被曝星链限速",
+          "body": "据《华尔街日报》报道，SpaceX首席执行官马斯克曾下令对乌克兰星链服务实施限速，导致乌军部分无人机打击行动受到影响。这一事件将私营卫星网络在军事冲突中的角色推向风口浪尖，引发对单一商业公司掌控关键战时通信基础设施的担忧，凸显卫星互联网地缘影响力的迅速上升。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "AI智能体当制药项目经理",
+          "body": "OpenAI宣布收购药物研发协调软件公司Orchestra Bio，将其并入生命科学产品线Rosalind，让AI智能体充当新药研发的项目经理，负责进度追踪、情景推演与方案决策支持。此举延续其先推模型、再收购行业团队的扩张逻辑，与Anthropic、谷歌在AI制药赛道展开差异化竞争，有望加速药物研发从人工协调向智能体驱动的转变。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17125"
+        },
+        {
+          "id": "11",
+          "title": "水泥化身储能超级电容",
+          "body": "科学家研发出一种实验性的水泥基超级电容器，可直接通过静电方式在建筑结构中存储电能，未来有望为应急照明、火灾报警器和传感器等建筑设备供电，取代燃油发电机和笨重的电池组。这项材料创新把储能功能融入建筑材料本身，为建筑脱碳与分布式能源存储提供了全新思路，也展示了土木工程与储能技术交叉的巨大潜力。",
+          "source": "Hacker News",
+          "source_url": "https://newatlas.com/energy/cement-based-supercapacitor/"
+        },
+        {
+          "id": "12",
+          "title": "AI医学搜索估值百亿",
+          "body": "迈阿密初创公司OpenEvidence估值达150亿美元，其AI医学搜索引擎已覆盖约三分之二的美国医生，上月处理超4200万次提问，帮助医生检索医学期刊与临床指南辅助诊疗。这家靠广告获利的公司被创始人称为医疗界首个病毒式消费应用，其迅速渗透既彰显AI在临床决策中的价值，也引发对诊疗质量与广告利益边界的讨论。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/"
+        }
+      ]
+    }
+  ]
+}
