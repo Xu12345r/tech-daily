@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-25",
+  "weekday": "周日",
+  "lunar": "农历九月十六",
+  "cover_quote": "苟日新，日日新，又日新。——《礼记》",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "把整个地球装进AI模型",
+          "body": "艾伦人工智能研究所发布地球观测基础模型OlmoEarth，将全球一年的卫星影像压缩成10米分辨率、128维的特征向量，在27项评测中20项领先谷歌AlphaEarth等竞品，并免费开放预计算数据。用户无需训练大模型即可在浏览器中监测非法采矿、作物识别与灾害评估。这标志着地球观测AI正从专用工具走向开放基础设施，有望大幅降低全球环境治理与农业监测的技术门槛。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17138"
+        },
+        {
+          "id": "02",
+          "title": "纯语音训练的对话模型",
+          "body": "加密支付公司Block发布纯语音训练的对话模型Dessa，声称完全通过听声音学习说话，无需文本标注，支持全双工实时对话。这与主流依赖海量文本语料的语音模型路线形成鲜明对比，若成立将大幅降低语音AI的数据成本，并更自然地捕捉语气与停顿等口语特征。此举有望推动语音助手向更拟人、更低成本的方向演进。",
+          "source": "Hacker News",
+          "source_url": "https://block.xyz/dessa"
+        },
+        {
+          "id": "03",
+          "title": "宾州要求标注AI广告",
+          "body": "美国宾夕法尼亚州通过法案，要求对AI生成的广告内容添加明确标注，成为美国率先以法律强制AI广告披露的州。此举旨在遏制深度伪造与AI误导性广告对消费者和选举的侵蚀，并为其他州及联邦层面的AI内容监管提供模板。随着AI生成内容泛滥，内容溯源与强制标注正从行业自律走向立法约束，广告业的合规成本也将随之上升。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "固态电池商业化提速",
+          "body": "固态电池以陶瓷或聚合物固态电解质取代液态电解液，有望实现更快充电、更长续航与更高安全性。盖茨投资的QuantumScape宣称将陶瓷烧结从数天缩短到几分钟，丰田承诺充电10分钟续航1199公里，宁德时代去年投入近26亿美元。尽管枝晶与规模化制造仍是障碍，成本预计到2030年代中期才与锂电相当，但多家企业正向航空、军工等高价市场先行验证，商业化正加速逼近。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17139"
+        },
+        {
+          "id": "05",
+          "title": "苹果发布触屏MacBook",
+          "body": "苹果宣布10月28日在洛杉矶举办Pro and tell发布会，预计推出新一代MacBook Pro，并可能首次发布带触屏的MacBook。这将是Mac产品线自换装自研芯片以来最大的形态变革，回应了用户多年来对触屏笔记本的呼声。若成真，苹果将重新定义Mac与iPad的产品边界，并对触屏笔记本市场与开发者生态产生深远影响。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro"
+        },
+        {
+          "id": "06",
+          "title": "神经芯片实时解码脑区",
+          "body": "瑞士洛桑联邦理工学院开发出一种可植入神经芯片，能追踪大脑不同区域之间的通信，并实时识别认知与情绪状态。这突破了传统脑机接口仅记录单一脑区活动的局限，为理解大脑网络协调机制及诊断神经精神疾病提供了新工具。该技术有望推动脑机接口从运动控制走向情感与认知解码，加速精准神经调控和精神疾病治疗的发展。",
+          "source": "Hacker News",
+          "source_url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "火星千英里云之谜破解",
+          "body": "科学家首次成功模拟火星阿西亚山附近绵延超1600公里的拉长云的形成机制，发现其可能由一种从未在行星大气中被直接观测到的物理过程驱动。这条自2018年首次被探测器记录、每晨出现又消散的神秘云带，成因此前多年无解。这一发现不仅解开火星气象之谜，也可能揭示教科书级却从未在自然界被观察到的奇异物理现象。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/"
+        },
+        {
+          "id": "08",
+          "title": "反物质粒子囚禁一个月",
+          "body": "物理学家首次将单个反物质粒子正电子囚禁长达一个月，并首次对其进行了量子测量。过去反物质粒子稍纵即逝，长时间稳定囚禁极为困难。这一突破使科学家得以对正电子开展精密量子操控，为检验粒子物理标准模型、探究物质与反物质不对称之谜，乃至未来构建反物质量子器件打开大门。",
+          "source": "Scientific American",
+          "source_url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/"
+        },
+        {
+          "id": "09",
+          "title": "NASA更新登月着陆计划",
+          "body": "NASA公布阿尔忒弥斯计划最新架构，计划最早2028年重返月面，并首次承认重大调整：SpaceX星舰与猎户座飞船改为在地球高轨道对接后奔月，蓝色起源方案则无需在轨加注。同时NASA解决了困扰猎户座多年的遗留问题。这标志着美国载人登月从争议走向可执行路线，商业航天公司在深空任务中的角色进一步固化。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "美旗舰核反应堆重启受阻",
+          "body": "美国核管会向正竞相重启密歇根州帕利塞兹核电站的Holtec国际发出警告，指其存在寒蝉式工作环境，致员工不敢报告安全隐患，此前已发生承包商坠入反应堆腔、燃料棒束险些倾覆等事故。批评者担忧，为满足AI激增的电力需求而重启核电的政治与经济压力正在推高事故风险。这一事件为AI救核电的叙事敲响了安全警钟。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/"
+        },
+        {
+          "id": "11",
+          "title": "胰腺癌KRAS疫苗初现成效",
+          "body": "梅奥诊所公布一项试验性疫苗研究，显示其能对胰腺癌中常见却长期难以成药的KRAS突变产生免疫反应。胰腺癌恶性程度高、预后极差，KRAS曾被视为无药可靶向，该疫苗若验证有效，将开辟全新的治疗路径。这为胰腺癌患者带来希望，也证明个体化肿瘤疫苗正把免疫治疗推向最难攻克的癌种。",
+          "source": "Mayo Clinic",
+          "source_url": "https://newsnetwork.mayoclinic.org/discussion/investigational-vaccine-generates-immune-response-to-kras-mutations-in-pancreatic-cancer-study/"
+        },
+        {
+          "id": "12",
+          "title": "英国建AI生物安全实验室",
+          "body": "英国宣布投资1亿英镑建设号称全球首个的AI生物安全实验室，利用人工智能监测和应对合成生物学与病原体工程带来的生物安全风险。随着AI使基因合成门槛骤降，恶意滥用风险上升，主动防御成为国家安全新焦点。此举标志着AI生物安全从学术讨论进入国家基础设施投资阶段，或推动全球建立类似的AI驱动生物防御体系。",
+          "source": "BBC",
+          "source_url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo"
+        }
+      ]
+    }
+  ]
+}
