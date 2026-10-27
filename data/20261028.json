@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-28",
+  "weekday": "周三",
+  "lunar": "农历九月十九",
+  "cover_quote": "博观而约取，厚积而薄发。—— 苏轼",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "谷歌发布Genie4世界模型",
+          "body": "谷歌DeepMind发布世界模型Genie 4，相较上一代大幅提升，新增音频并生成更逼真的人物与物理效果。用户用自然语言即可实时生成可交互的虚拟世界，无需预渲染环境。DeepMind视世界模型为通向AGI的关键路径，该技术可为机器人创造无限训练环境，加速具身智能与创意原型开发，巩固谷歌在世界模型竞赛中的领先地位。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/"
+        },
+        {
+          "id": "02",
+          "title": "Anthropic盗用教授著作",
+          "body": "斯坦福校报报道，联邦法官裁定Anthropic非法抓取并盗用超10位斯坦福教授的著作训练Claude模型，涉及托拜厄斯·沃尔夫、亚伯拉罕·韦尔盖塞等知名学者。此案被称为涉AI公司最大规模的版权和解案，法官要求其停止将盗版书籍建成永久书库。这凸显大模型训练数据版权合规的紧迫性，或将重塑AI公司与作者、出版商之间的利益分配规则。",
+          "source": "Stanford Daily",
+          "source_url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/"
+        },
+        {
+          "id": "03",
+          "title": "亚马逊削减AI部门",
+          "body": "据科技媒体报道，亚马逊正大幅裁撤其AI部门，在Nova等自研模型持续表现不佳后，将资源转向由知名AI机器人专家主导的新项目。这标志着一家科技巨头在自研大模型竞赛中主动收缩，反映前沿AI投入回报不及预期的现实压力。此举可能削弱亚马逊在生成式AI领域的长期竞争力，也加剧行业对AI巨额投入可持续性的普遍质疑。",
+          "source": "Futurism",
+          "source_url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "UEFI固件漏洞威胁服务器",
+          "body": "安全研究人员披露编号CVE-2026-97631的UEFI固件漏洞，严重性评分9.5分，位于开源固件EDK II的ICMP组件中，可在操作系统启动前执行恶意代码。全球绝大多数服务器厂商，包括AMI、Insyde、Phoenix及微软加固分支均受波及。此类固件级漏洞可绕过安全启动等防线，威胁数据中心安全，修复成本高，凸显固件供应链安全的深层隐患。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
+        },
+        {
+          "id": "05",
+          "title": "苹果发布M6芯片",
+          "body": "苹果发布新一代M6芯片，搭载12核CPU、12核GPU与双16核神经引擎，率先用于新款14英寸MacBook Pro。相比M5，图形性能提升30%、AI任务提升25%，较M1图形性能最高提升11倍。M6将本地运行大语言模型的能力推向新高度，配合Wi-Fi 7与24小时续航，延续苹果自研芯片的年度迭代节奏，进一步巩固其在端侧AI与能效比上的领先优势。",
+          "source": "Apple",
+          "source_url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/"
+        },
+        {
+          "id": "06",
+          "title": "美光弃用4F² DRAM",
+          "body": "据行业媒体报道，存储巨头美光被曝放弃4F² DRAM单元架构路线，而三星、SK海力士等竞争对手正加大投入。4F²单元有望在同等工艺下将存储密度推向新高度，但制造良率与成本挑战更大。美光此举或使其在下一代高密度DRAM的竞争中处于劣势，反映存储芯片行业在技术激进与量产稳健之间的艰难权衡，也可能重塑未来数年的内存市场格局。",
+          "source": "Hacker News",
+          "source_url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "OpenAI公布三大科学突破",
+          "body": "OpenAI宣布在数学、计算机科学与物理领域取得三项突破，其中最受关注的是证明指数时间假设不成立，这一计算复杂性领域的著名猜想已悬置二十余年。但OpenAI仅通过外部专家决定如何分享细节，被批评为把科学成果当作产品门控，引发学界对其不透明做法的质疑。这既展示AI正加速基础科学发现，也暴露出AI实验室与开放科学传统之间的张力。",
+          "source": "OpenAI",
+          "source_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/"
+        },
+        {
+          "id": "08",
+          "title": "量子缺陷能量损耗机制",
+          "body": "芝加哥大学普利兹克分子工程学院的研究团队提出第一性原理框架，揭示自旋缺陷作为量子比特时如何损耗能量。自旋缺陷是固态量子计算与量子传感的关键候选，理解其能量弛豫机制对提升量子比特相干时间至关重要。这一成果为设计更稳定的量子材料提供了理论工具，有望推动量子计算与量子传感从实验室走向实用，也为能源领域的新型量子材料设计铺路。",
+          "source": "Hacker News",
+          "source_url": "https://pme.uchicago.edu/news-events/news/quantum-calculations-reveal-how-quantum-defects-lose-energy"
+        },
+        {
+          "id": "09",
+          "title": "有限单群定理形式化",
+          "body": "一项大规模合作项目在Lean证明助手中完整形式化了有限单群分类定理的第一代证明，每个逻辑步骤都经Lean内核核验。有限单群分类是二十世纪数学的巅峰成就，原证明散布于数百篇论文、篇幅惊人，形式化过程还发现并修正了部分论证中的反例。这标志着数学证明的机器可验证性取得里程碑进展，为数学知识的形式化与自动化奠定坚实基础。",
+          "source": "Hacker News",
+          "source_url": "https://cfsg.axiommath.ai/"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "AI设计抗癌药入人体试验",
+          "body": "AI制药公司Iambic Therapeutics公布候选药IAM1363的最新临床数据，122名晚期实体瘤患者接受治疗，53名可评估患者中19人部分缓解，部分脑转移病灶缩小，一名HER2阳性乳腺癌患者颅内超50处转移灶获得缓解。该药由AI平台NeuralPLexer设计，公司上月上市。这证明AI设计的抗癌药正跨越临床验证门槛，为多线耐药晚期患者带来新希望。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17152"
+        },
+        {
+          "id": "11",
+          "title": "自然语言设计蛋白质",
+          "body": "中国研究团队开发出能用自然语言提示直接生成特定功能蛋白质的设计工具，用户无需深入理解蛋白质结构即可描述目标功能并得到候选蛋白。Hugging Face也上线了在DNA层面实现类似功能的工具。虽然成功率有限、需在实验室筛选，但这相当于把「氛围编程」引入了蛋白质设计。这一进展有望大幅降低生物设计的专业门槛，让更多非结构生物学家参与定制酶与治疗蛋白的开发。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/"
+        },
+        {
+          "id": "12",
+          "title": "福特Fathom双向充电",
+          "body": "福特发布售价低于3万美元的电动皮卡Fathom，首次将车对家逆变器直接内置到车辆中，使每辆车都能作为家庭备用电源使用。相比此前需外接壁挂式逆变器的方案，这一设计大幅简化了双向充电的使用门槛。此举让电动汽车从交通工具升级为家庭储能单元，有望推动V2H技术普及，也为用户在停电时提供新的能源保障，加速电动车与家庭能源系统的融合。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/"
+        }
+      ]
+    }
+  ]
+}
