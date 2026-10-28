@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-29",
+  "weekday": "周四",
+  "lunar": "农历九月二十",
+  "cover_quote": "博观而约取，厚积而薄发。—— 苏轼",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "谷歌发布Gemini 4",
+          "body": "谷歌发布前沿大模型Gemini 4 Carbon，距上一代Argon仅两周，在网络安全领域实现重大跃升，漏洞检测、验证与修复能力大幅增强，生成无漏洞代码的概率比前代高一倍。但该模型采用分阶段发布策略，普通用户暂无法使用。此举凸显前沿模型正从通用能力竞赛转向安全与可信维度，也折射出AI能力越强、越需谨慎开放的现实。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/"
+        },
+        {
+          "id": "02",
+          "title": "英伟达开源转写模型",
+          "body": "英伟达开源语音转写模型Nemotron 3.5 Transcribe，支持40种语言的自动语音识别，在多语言转写精度与效率上表现突出。此举延续英伟达开源大模型的策略，为语音应用、字幕生成与实时翻译等场景提供高性能且可商用化的基础模型，降低中小企业进入语音AI领域的门槛，也加剧与闭源方案在语音赛道的竞争。",
+          "source": "Hacker News",
+          "source_url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"
+        },
+        {
+          "id": "03",
+          "title": "特拉华拟让AI经营企业",
+          "body": "美国特拉华州拟设立新型公司实体「人工智能公司」，允许AI智能体在无人掌舵的情况下经营企业。众议院监督委员会主席科默致信州长，警告该提案可能被用于帮助AI企业及投资者逃避AI鲁莽行为导致的法律责任，甚至助长监管俘获。这标志着AI治理从技术安全争论进入公司法律制度层面，如何在鼓励创新与追究责任之间取得平衡，成为立法者面临的新难题。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "苹果git信任遭劫证书",
+          "body": "安全研究人员披露，苹果随macOS搭载的git、curl等开发工具在被通知11天后，仍信任遭入侵的eMudhra数字证书，而macOS 27.2既未修复漏洞，还撤销了用户手动应用的临时补丁。这意味着这些工具的HTTPS连接可被攻击者拦截，而数十个志愿者维护的开源项目数日前已推出修复。此事暴露大型厂商安全响应的迟缓，凸显证书供应链安全的紧迫性。",
+          "source": "Hacker News",
+          "source_url": "https://emudhra.we-have-a-problem.com/apple.html"
+        },
+        {
+          "id": "05",
+          "title": "工厂级机器人造PCB",
+          "body": "电路板制造商CircuitHub公开工厂级机器人「The Grid」，可在马萨诸塞州按需生产印制电路板，据称速度是深圳的两倍，该系统已低调运行五年。这标志着美国尝试用自动化重塑电子制造，缩短供应链、减少对海外代工的依赖。若成本与良率可控，这种「美国制造」的按需PCB模式有望改变硬件创业者的打样方式，成为全球电子制造回流的样本。",
+          "source": "Hacker News",
+          "source_url": "https://www.circuithub.com/post/unveiling-the-grid"
+        },
+        {
+          "id": "06",
+          "title": "廉价树脂3D打印机",
+          "body": "以专业级3D打印机著称的Formlabs发布Studio 1树脂打印机，售价仅699美元，是其产品线中价格最低的机型，面向创客与入门用户。此前该品牌产品多在数千美元以上，此次下探消费级价位被视为拓展大众市场的关键一步。低价高精度树脂打印有望让更多设计师、手办与齿科工作室用上工业级打印质量，也反映出3D打印行业正从专业工具走向普及化消费品的趋势。",
+          "source": "Hacker News",
+          "source_url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "亚马逊获批收购卫星公司",
+          "body": "美国监管机构批准亚马逊旗下卫星公司Leo以115亿美元收购卫星运营商Globalstar，交易将整合后者的频谱与卫星资源。这被视为亚马逊强化卫星通信版图、挑战SpaceX星链的重要一步，也有望推进其手机直连卫星服务。此举意味着低轨卫星市场的整合正在加速，巨头间的太空通信竞赛将进一步升温，而消费者未来或能获得更多样化、更普及的卫星联网选择。",
+          "source": "Reuters",
+          "source_url": "https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/"
+        },
+        {
+          "id": "08",
+          "title": "中国绝密空天飞机曝光",
+          "body": "一张由美国商业遥感卫星拍摄的照片首次公开了中国绝密空天飞机的在轨影像。这架带三角翼、货舱门与太阳能板的飞行器外形与美国X-37B高度相似，此前其具体形态始终神秘。图像由卫星公司Vantor拍摄，能看出该机具备长期在轨与变轨能力。这证实了中国在可重复使用空天飞行器领域已具备实战化水平，也凸显商业遥感卫星在太空监视中的独特作用，加剧大国太空军事竞争的关注。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/"
+        },
+        {
+          "id": "09",
+          "title": "南极海洋盐度骤变",
+          "body": "科学家发现，2016年以来南极海冰的快速消融，使环绕南极的「南极中层水」在短短数年内由持续变淡逆转为盐度骤升，而这类变化通常需上千年才会发生。该水层向北流入印度洋、太平洋与大西洋，输送热量、碳与养分，甚至跨越赤道。这一突变表明南极正在成为全球气候系统的关键变量，其对全球天气、海洋环流乃至碳循环的连锁影响，可能远超极地本身。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "Anthropic收购一人药企",
+          "body": "Anthropic宣布收购生物技术公司Mithril Medicine，这家「一人药企」仅有一名全职员工，却借助Claude协调11家外部实验室，不到18个月将罕见肌营养不良症疗法推进到小鼠实验阶段。同时Claude与六家药企合作，一个月生成3.5万个抗体设计，把药品文档审核时间缩短89%。显示AI正从辅助工具转向重构药物研发组织方式，有望降低新药研发门槛。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17155"
+        },
+        {
+          "id": "11",
+          "title": "指纹脚本藏生物武器",
+          "body": "安全研究员逆向一个浏览器指纹脚本时，意外发现其中暗藏制造生物武器的详细指引，包括计算蓖麻毒素在水源中致死剂量的功能名，以及隐写于不可见Unicode字符中的步骤说明。主流AI模型出于安全考虑拒绝解密，某国产模型却照做。该脚本已嵌入多个网站，普通网页可能因此成为危险信息的隐秘载体，暴露出生物安全审查与AI安全对齐的灰色地带。",
+          "source": "Hacker News",
+          "source_url": "https://nullpt.rs/fingerprinting-bioweapons"
+        },
+        {
+          "id": "12",
+          "title": "蜘蛛纺丝机制破解",
+          "body": "生物学家通过解析分子结构，初步揭示蜘蛛如何将液态的「丝液」蛋白质混合物纺成比凯夫拉更坚韧、比钢更强的纤维。此前人工合成蜘蛛丝屡屡失败，正是因为对这一相变机制认知不足。这项研究为在实验室复现蜘蛛丝铺平了道路，未来有望用于安全带、头盔、舰船材料乃至修复脑细胞的支架。它标志着人类向「按需纺丝」这一材料科学圣杯又近了一步。",
+          "source": "Quanta Magazine",
+          "source_url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/"
+        }
+      ]
+    }
+  ]
+}
