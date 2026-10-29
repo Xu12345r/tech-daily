@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-30",
+  "weekday": "周五",
+  "lunar": "农历九月廿一",
+  "cover_quote": "不积跬步，无以至千里。—— 荀子",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "Mistral开源大模型",
+          "source": "Hacker News",
+          "source_url": "https://mistral.ai/news/mistral-large-4-oss/",
+          "body": "Mistral发布旗舰模型Large 4并开源全部权重，性能对标顶级闭源模型，是迄今参数规模最大的开源模型之一。企业可本地部署前沿模型、数据不出境，大幅降低对闭源接口的依赖与调用成本，推动开源生态繁荣，加剧与OpenAI、谷歌等闭源巨头的竞争。"
+        },
+        {
+          "id": "02",
+          "title": "大模型压至1比特",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17151",
+          "body": "香港理工助理教授秦浩桐团队研发BiLLM等方法，将预训练大模型的平均权重位宽压缩到约1.08比特，在极低资源设备上仍能保留语言能力。极限压缩沉淀的理论还能反哺工业量化，缩短推理延迟，让端侧和物理世界任务真正跑起来，降低AI落地成本，有望推动端侧智能加速普及。"
+        },
+        {
+          "id": "03",
+          "title": "谷歌AI搜索增收遇阻",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+          "body": "谷歌母公司Alphabet三季度营收同比增长25%，但AI搜索收入低于传统搜索，净利润同比减少近90亿美元，股价单日暴跌约12%，创史上罕见跌幅。这暴露了AI搜索的变现难题，迫使谷歌在AI概览中植入更多广告，引发外界对搜索体验与盈利平衡的担忧。"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "Marvell拟收购光器件厂",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17159",
+          "body": "半导体公司Marvell正洽谈收购光学器件制造商Lumentum，后者市值约830亿美元。AI数据中心光通信需求爆发，高性能激光器产能告急，部分订单已排到2029年，Lumentum的磷化铟制造能力成为争夺焦点。若成交将成为科技通信史上最大并购之一，加速光互连产业整合。"
+        },
+        {
+          "id": "05",
+          "title": "凌存科技供电方案",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17153",
+          "body": "苏州凌存科技推出系统级供电与互联方案，把高容硅电容、硅中介层和仿真设计打包交付，电容密度达每平方毫米3500纳法。它化解了算力芯片功耗攀升下的多头对接内耗，降低先进封装设计门槛，为国产算力芯片的快速落地与量产提供支撑，助力国产芯片供应链自主可控。"
+        },
+        {
+          "id": "06",
+          "title": "英伟达GPU调度优化",
+          "source": "Hacker News",
+          "source_url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
+          "body": "英伟达NVL72机柜用NVLink连接72颗GPU，但跨机柜任务仍受InfiniBand瓶颈拖累，走错互联方式性能可损失43%。SkyPilot推出拓扑感知调度与自动碎片整理，可在相同机架释放约27%的可用GPU算力，显著降低大规模训练与推理的算力成本。"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "NASA核动力航天计划",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17162",
+          "body": "NASA公布「自由号」太空核反应堆SR-1计划，拟于2028年底前发射一艘核动力无人火星探测器，采用核电推进技术，有望2029年抵达火星。核动力可大幅缩短星际航行时间、减少宇航员暴露于宇宙辐射，标志着高效深空飞行的新时代开启，也是NASA押注20亿美元的关键一步。"
+        },
+        {
+          "id": "08",
+          "title": "IBM量子芯片模块化",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17160",
+          "body": "IBM用四根80厘米超导线缆连接两块各120量子比特的超导芯片，实现平均99%的量子态传输保真度，并构建跨芯片的双比特逻辑门。这打破了单芯片量子比特拥挤的瓶颈，为量子计算机像搭积木般模块化扩展指明道路，成果将用于未来星鸟量子计算机项目，助推量子计算实用化进程。"
+        },
+        {
+          "id": "09",
+          "title": "SpaceX不再依赖NASA",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
+          "body": "分析指出，SpaceX凭借星舰等自研火箭和稳定商业订单，已无需再依赖NASA合同生存，这反而让美国航天局陷入尴尬，其传统承包商波音、洛克希德马丁竞争力不足。这一权力转移重塑了美国商业航天格局，也引发对NASA未来角色与登月计划自主性的担忧。"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "永久化学物质清除",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17161",
+          "body": "PFAS被称为「永久化学物质」，难降解且与生育下降、癌症风险相关，89%的美国人血浆含量超标。科学家正用反渗透、泡沫分离法捕获，并以电化学降解法分解，后者可去除超90%的PFAS并已获商业授权。美国多州已禁止其用于炊具等产品，治理从末端清理走向源头替代。"
+        },
+        {
+          "id": "11",
+          "title": "聚光太阳能自备储能",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
+          "body": "一家初创公司推出新型聚光太阳能设计，让化石燃料备用系统与太阳能侧共享大部分发电硬件，从而无需单独建设备用设施。它用镜子聚光产热驱动涡轮，兼顾昼夜供电，有望降低电网调峰对电池和天然气的依赖，为可再生能源并网提供更经济路径，降低储能与电网建设综合成本。"
+        },
+        {
+          "id": "12",
+          "title": "肽类药物监管放宽",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/",
+          "body": "美国卫生部长肯尼迪绕过FDA单方面出台新规，允许特种药房销售六种肽类药物，而这类药物2023年因安全性存疑被FDA移出复方名单，科学家称其有效性与风险证据不足。此举凸显政治凌驾于科学监管之上，引发外界对药品安全与患者健康的担忧，令医疗与公共健康领域高度警觉。"
+        }
+      ]
+    }
+  ]
+}
