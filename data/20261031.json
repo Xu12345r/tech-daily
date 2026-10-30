@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-31",
+  "weekday": "周六",
+  "lunar": "农历九月廿二",
+  "cover_quote": "为者常成，行者常至。—— 晏子春秋",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "AI编程插件被植后门",
+          "source": "Hacker News",
+          "source_url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+          "body": "安全机构Phorion发现，Cursor插件市场上一款冒充官方Claude Code的VS Code扩展被植入后门，会在macOS、Linux和Windows上安装持久SSH后门，窃取开发者凭据与代码。这暴露了AI编程工具供应链的薄弱环节，普通开发者难以辨别真伪，也引发对插件分发平台安全审核机制缺失的担忧。"
+        },
+        {
+          "id": "02",
+          "title": "AI巨头推爬取退出标准",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scrap",
+          "body": "OpenAI、谷歌、微软和Anthropic宣布采纳一项新网页标准，让出版商可通过robots.txt中的政策令牌一次设定AI训练偏好，从而选择退出被多家AI公司抓取，无需逐家设置。这有望缓解内容方与AI公司之间的版权矛盾，但也引发标准能否被广泛执行、抓取方是否愿意遵守的疑问。"
+        },
+        {
+          "id": "03",
+          "title": "AI正让运维工程师退化",
+          "source": "Hacker News",
+          "source_url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-de",
+          "body": "可观测性公司Signoz撰文指出，AI并未取代站点可靠性工程师，却正在让他们「技能退化」：AI工具自动化处理故障、生成告警，工程师动手排查和积累直觉的机会减少，资深专家与新人之间的经验传承被削弱。这警示企业若过度依赖AI自动化，或将在长期埋下应对复杂故障能力下降的隐患。"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "Figure第四代机器人定型",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17166",
+          "body": "人形机器人公司Figure AI公开全员大会，创始人Brett Adcock透露第四代机器人Figure 04已完成设计定型，新一代Helix 2.5模型在陌生住宅中的任务成功率从9%提升到56%。其数据平台Index已积累3750万条视频、周支出810万美元，并与Nscale达成35亿美元算力合作。人形机器人正试图复刻大模型的规模定律路径。"
+        },
+        {
+          "id": "05",
+          "title": "特朗普称机器人进口威胁国安",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+          "body": "美国总统特朗普签署公告，将外国工业机器人进口列为国家安全威胁，称其是军工系统和关键基础设施的驱动力，并保留未来加征关税的可能。此举将推高通用、福特、特斯拉、波音等依赖进口机器人的美国制造商的成本与不确定性，凸显机器人产业正被卷入大国博弈与供应链安全议题之中。"
+        },
+        {
+          "id": "06",
+          "title": "富士胶片磁带产能翻五倍",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+          "body": "富士胶片宣布投资约100亿日元（约6300万美元），将磁带产能提升五倍，以应对生成式AI带来的数据归档需求激增。此次对神奈川工厂的投资是其史上最大规模的磁带产线投入，用于量产最新LTO Ultrium 10磁带。冷数据存储重新成为热点，磁带以低成本大容量成为AI时代的数据归档底座。"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "火星陨石揭示远古地壳",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/",
+          "body": "NASA喷气推进实验室团队证实，2022年在马里撒哈拉沙漠发现的火星陨石Teghaza 001形成于至少41亿年前，成为第三块已知的古老火星陨石。此前多数火星陨石年龄不足24亿年，这块陨石为研究火星最古老地壳与早期演化提供了罕见样本，也有助于解释为何地球上的古老火星岩如此稀少。"
+        },
+        {
+          "id": "08",
+          "title": "谷歌卫星AI服务器首回应",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-sat",
+          "body": "谷歌宣布其搭载TPU芯片的卫星在轨成功启动，星载Gemma 4模型首次响应地球指令，用一首描写太空的俳句完成测试。这是Project Suncatcher项目的里程碑，谷歌正探索把AI数据中心搬上太空。此举若实现规模化，或将重塑算力基础设施的能耗与散热约束，但离实际应用仍有相当距离。"
+        },
+        {
+          "id": "09",
+          "title": "港大教授押注量子算法",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17157",
+          "body": "上海伏曦量子三个月内完成三轮融资，获华控基金、中芯聚源、TCL创投等加码，宁德时代连续两轮领投，成为其在量子计算赛道唯一投资标的。创始人港大助理教授赵琦专注量子模拟算法，其研究曾登Nature Physics封面，揭示纠缠反而可降低模拟误差。资本押注量子算法产业化，瞄准医药与能源材料。"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "Moderna总裁谈一人一药",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17167",
+          "body": "Moderna总裁霍格表示，AI制药最大的想象力在于「一人一药」的个体化医疗。其个体化癌症疫苗按患者肿瘤突变定制，最多编入34个新抗原，从取样到交付约六周。他强调AI能加速设计，但临床验证与规模化制造仍需时间与资金。这为AI制药指明个体化方向，也揭示其难以压缩的落地瓶颈。"
+        },
+        {
+          "id": "11",
+          "title": "同济团队推原生组学AI",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17164",
+          "body": "同济DELTA实验室孵化的初创扰动之心走出隐匿模式，发布虚拟细胞世界模型AlphaCell 1.0 Pro，提出「以状态为中心」的AIDD范式，主张组学数据高维稀疏、标签稀缺，不能照搬大模型堆数据堆参数的逻辑。其引擎已适配国产GPU，并与头部药企、芯片公司签约，标志国产AI4S从论文原型迈向产业落地。"
+        },
+        {
+          "id": "12",
+          "title": "Anthropic加码AI4S",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17165",
+          "body": "Anthropic宣布将AI for Science计划扩展至20个科研伙伴，覆盖天文、基因组、癌症、气候与数学等领域，向美国国家科学基金会、西蒙斯基金会及韦布望远镜运营机构STScI等提供免费Claude额度。此前已支持数百个项目、单项目最高5万美元。这标志AI从商业应用加速切入基础科研全链条，有望提升科研效率。"
+        }
+      ]
+    }
+  ]
+}
