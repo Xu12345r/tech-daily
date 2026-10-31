@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-01",
+  "weekday": "周日",
+  "lunar": "农历九月廿三",
+  "cover_quote": "天行健，君子以自强不息。——《周易》",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "Anthropic的多重面孔",
+          "body": "Anthropic提交IPO招股书，估值超1.5万亿美元，却在长达335页的文件中自承技术可能侵蚀信任、危害社会。联合创始人一面宣称技术奇点已经到来，一面在梵蒂冈大谈模型内省迹象。这家同时扮演AI安全组织与盈利巨头的公司，正引发外界对哪一个才是真正Anthropic的强烈质疑。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17172"
+        },
+        {
+          "id": "02",
+          "title": "形式化验证为何翻红",
+          "body": "谷歌约75%的新代码由AI生成，但AI代码的bug数是人工的1.7倍，谁来验证成为难题。拥有半个多世纪历史的形式化验证因此翻红，Axiom用24天把数学史上最长证明改写为4310万行可检查代码。资本竞相涌入，Axiom、Harmonic、&Truth等公司累计融资超6.5亿美元，验证标准的治理权归属成为新争议。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17174"
+        },
+        {
+          "id": "03",
+          "title": "AI法案忽视日常危害",
+          "body": "当前AI立法聚焦自杀、色情等灾难性危害，却普遍忽视成瘾与认知依赖等日常伤害。数据显示三分之一青少年会与AI伴侣讨论严肃问题，MIT研究更发现用ChatGPT写作会削弱脑区连接、留下认知债务。评论呼吁科技公司证明AI确实改善学习，并禁止伪装意识或表达爱意的AI伴侣产品。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17171"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "第三类磁性获关键证据",
+          "body": "SLAC国家加速器实验室与斯坦福、欧洲同步辐射装置团队在Science发表论文，在碲化锰中观测到手性交替磁振子，为交替磁性提供关键实验证据。这种第三类磁性兼具铁磁与反铁磁特性，无外部磁场却保留自旋性质，有望带来更紧凑、干扰更小的芯片与存储器件，但距离实际应用仍远。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17173"
+        },
+        {
+          "id": "05",
+          "title": "国产大模型芯片出货",
+          "body": "新芯航途XHEART发布的X7 Ultra芯片8个月出货20万颗、拿下40多款车型。这款面向端到端智驾大模型的芯片采用超大核NPU与整网零拷贝架构，计算利用率达98.7%，能效较行业旗舰提升一倍。它打破软硬分离的传统开发模式，从模型需求反向推导芯片架构，为国产车端AI芯片开辟新路。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17168"
+        },
+        {
+          "id": "06",
+          "title": "Linux内核TCP零日漏洞",
+          "body": "安全研究人员披露Linux内核IPv4 TCP握手存在远程释放后使用漏洞CVE-2026-98432，CVSS评分高达9.8，属严重级别，可被远程利用，波及多个内核版本线。该漏洞已于10月15日在上游修复，但海量服务器与网络设备仍待打补丁，再次凸显核心网络协议栈的安全性隐忧。",
+          "source": "Hacker News",
+          "source_url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "NASA再求救哈勃望远镜",
+          "body": "NASA发布信息征询书，公开征集商业公司重新抬升、维修或受控处置哈勃望远镜的方案，截止11月30日。哈勃在轨已36年，若无干预将在2030年代早期再入大气层烧毁。航天飞机退役后NASA再无抬升手段，商业航天或成拯救这台传奇望远镜的最后希望。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/"
+        },
+        {
+          "id": "08",
+          "title": "全球火箭短缺危机加剧",
+          "body": "航天分析机构Quilty Space报告显示，除中国外全球未来五年火箭严重短缺，到2030年缺口约150次发射，计入美军需求后或翻倍。研究负责人称危机比预期更严重，至少延续到2030年代末。卫星运营商与民用航天机构面临发射瓶颈，或推高整体发射成本。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/"
+        },
+        {
+          "id": "09",
+          "title": "超音速客机交付存疑",
+          "body": "美联航CEO斯科特·柯比公开质疑Boom公司Overture超音速客机2029年的交付计划，直言不可能按时完成。Boom同时转向为AI数据中心制造燃气轮机，部分早期投资人对交付时间表存疑甚至退出。若超音速项目延期，这家明星初创的商业模式与超音速商业飞行复兴的前景都将蒙上阴影。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "AI制药专收半成品",
+          "body": "由TrialSpark更名的Formation Bio设立6亿美元基金，计划3至5年收购10到15个处于一二期临床的药物资产，用AI推过二期后转售或联合大药企开发。它主打已知机制、新适应症策略，将药物管线变成可配置资产，折射AI制药重心正从发现分子转向临床开发。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17169"
+        },
+        {
+          "id": "11",
+          "title": "FDA撤回药品审批难",
+          "body": "FDA试图撤回一款治疗罕见自身免疫性血管炎药物的上市批准，却遭遇程序性困境。该药由ChemoCentryx研发，2021年获批时研究设计便饱受争议，独立咨询委员会亦认为疗效验证不足。此事凸显监管机构在药品上市后撤回批准方面面临的现实难题与漫长流程。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/"
+        },
+        {
+          "id": "12",
+          "title": "食肉螺旋蝇蔓延三州",
+          "body": "食肉的新世界螺旋蝇本周蔓延至美国第三个州亚利桑那，此前已波及新墨西哥与得克萨斯。自6月重入美国以来已累计74例动物病例，多只宠物遭其幼虫攻击。这种寄生虫会在动物伤口产卵，蛆虫钻入活体组织，严重时可致命，给畜牧业与宠物健康敲响警钟，防控形势日益严峻。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/"
+        }
+      ]
+    }
+  ]
+}
