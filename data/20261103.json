@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-03",
+  "weekday": "周二",
+  "lunar": "农历九月廿五",
+  "cover_quote": "苟日新，日日新，又日新。——《礼记》",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "大模型竞速进入下半场",
+          "body": "大模型竞争进入下半场，推理速度正取代参数规模成为新的竞争力。OpenAI推出Ultrafast高速服务档位，智谱、Fireworks等相继跟进，初创NaiveAI单路输出已达每秒约两千个token。同一模型经优化部署后速度可相差十几倍。这标志行业从比拼模型能力转向比拼推理效率，将加速AI编程助手与智能体的落地。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17182"
+        },
+        {
+          "id": "02",
+          "title": "AI原生改写模型权重",
+          "body": "麻省理工团队发现，前沿大模型Astra能原生读取并改写神经网络权重。仅凭原始权重它就能判断网络的用途，还能无梯度地把Qwen模型的数学成绩从不到一成提升到近五成，仅改动约0.016%的权重。团队称之为权重空间编程。这为模型优化与可解释性开辟新范式，或让AI获得自我改进的底层能力。",
+          "source": "Hacker News",
+          "source_url": "https://rikiyat.github.io/blog/weight-space-programming/"
+        },
+        {
+          "id": "03",
+          "title": "AI巨头AI成本超员工薪资",
+          "body": "据Business Insider报道，头部AI公司Anthropic内部使用自家模型的规模已大到若按零售价计费，其花费已超过公司支付给员工的薪资总额。这折射出AI企业自身已成为自家模型最大重度用户，AI正深度辅助乃至替代软件工程等核心岗位。这引发业界对AI劳动力经济学与未来人才结构的重新审视。",
+          "source": "Hacker News",
+          "source_url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "美满电子千亿收购光器件商",
+          "body": "美满电子宣布以1150亿美元全股票收购光器件商Lumentum，成为今年全球最大并购之一。交易瞄准AI光互连紧缺的激光器产能，后者部分产能已售罄至2029年。合并后美满电子将同时掌握DSP芯片、硅光与化合物半导体制造，向博通发起正面挑战，也牵动以中际旭创为首的中国光模块产业链议价格局。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17185"
+        },
+        {
+          "id": "05",
+          "title": "苹果千美元家庭机器人",
+          "body": "据The Information报道，苹果正推进一款代号J595的家庭机器人，有望2027年以约1000美元价格发布。该机器人可自主在家中移动，支持FaceTime通话并能在有人进屋时自动开灯，最早原型2018年就已获批。这是苹果新CEO约翰·特努斯力推的机器人布局首款产品，标志其硬件版图向家用机器人延伸。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/"
+        },
+        {
+          "id": "06",
+          "title": "谷歌伙伴机顶盒变僵尸网络",
+          "body": "谷歌披露，其一家安卓合作伙伴深圳万思通科技在约130万台机顶盒中秘密植入后门，将其变成僵尸网络。谷歌已拆除后门并与该厂商切割，禁止其再制造或销售认证安卓设备。这是安卓供应链首次曝出如此大规模的厂商级后门事件，凸显智能设备固件安全与供应链审核的严峻漏洞。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "中国公开三年内载人登月",
+          "body": "中国航天官员在第七届载人航天大会上首次公开详细登月时间表，确认将在2030年前实现载人登月。方案采用类似阿波罗的月球轨道交会方式，因缺乏土星五号级重型火箭，航天员与着陆器将分别发射后在月球轨道对接。这标志中国载人登月从规划走向公开承诺，将重塑全球深空探索的竞争格局。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/"
+        },
+        {
+          "id": "08",
+          "title": "阿雷西博坍塌归因锌蠕变",
+          "body": "美国国家科学院发布失效分析报告，认定波多黎各阿雷西博305米射电望远镜2020年坍塌的根源，是吊索锌质锚固套筒长期发生锌蠕变而失去握持力，属百年来首例。失效序列可追溯至三年前的飓风玛丽亚。这份报告为这座标志性科学设施的坍塌画上句号，也为大型科研装置的长期材料老化管理敲响警钟。",
+          "source": "Hacker News",
+          "source_url": "https://www.nationalacademies.org/read/26982"
+        },
+        {
+          "id": "09",
+          "title": "AI三秒预测城市风场",
+          "body": "华人学者团队推出GeoWind2Plan框架，用三维傅里叶神经算子仅约三秒即可预测城市局部风场，并据此规划无人机节能航线。相比传统CFD动辄数小时的模拟，新方法让无人机实时避开逆风，在逆风任务中平均节能12.7%。这标志AI神经算子开始落地物流无人机场景，为低空经济节能运营提供新思路。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17177"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "美国禽流感现第三例死亡",
+          "body": "美国华盛顿州亚基马县一名奶牛场接触者因禽流感死亡，成为自高致病性H5N1病毒2024年3月首次从野鸟跳入奶牛以来，美国第三例人类死亡。死者生前有基础疾病，官方强调普通公众风险仍低。这起死亡再次凸显H5N1在牲畜与人际间的持续传播风险，也让公众对病毒进一步适应哺乳动物的警惕升温。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/"
+        },
+        {
+          "id": "11",
+          "title": "AI从七百亿分子寻抗生素",
+          "body": "麻省理工团队Barzilay与Collins获普利兹克AI科学奖，其抗生素AI项目已对超700亿分子虚拟筛选，累计发现或设计出9种新型抗生素候选物。从筛选出Halicin到用生成式AI直接设计NG1、DN1等新分子，AI正把抗生素研发从大海捞针转向主动设计。这为应对日益严峻的耐药菌危机提供了新的研发范式。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17184"
+        },
+        {
+          "id": "12",
+          "title": "压腿抗衰记在骨头上",
+          "body": "南方医科大学白晓春团队在《细胞-代谢》发文，对老年小鼠腿骨每周两次施加机械压力四个月，其中位寿命延长约80天，相当于人类多活九年。研究发现骨细胞上的压敏蛋白PIEZO1是关键，受力后骨骼分泌PEDF等因子逆转多器官衰老。这提示举重、跑步等让骨骼真正受力的运动更抗衰，也为失重与卧床人群提供干预思路。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17183"
+        }
+      ]
+    }
+  ]
+}
