@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-05",
+  "weekday": "周四",
+  "lunar": "农历九月廿七",
+  "cover_quote": "不积跬步，无以至千里。—— 荀子",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "AI改写Qwen神经网络",
+          "body": "麻省理工CSAIL团队让GPT-6模型Astra直接分析并改写开源模型Qwen的神经网络权重，仅调整0.016%的参数就使数学成绩提升约六倍，还能从零设计出击败1亿步强化学习模型的小游戏AI。这项权重空间编程研究在X平台获超700万次浏览，被与递归自我改进相联系，但也因提示词引导与沿用既有可解释性方法而被质疑自主性被高估。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17191"
+        },
+        {
+          "id": "02",
+          "title": "月之暗面K3.1开源",
+          "body": "月之暗面Moonshot开源旗舰模型Kimi K3.1 Pro的完整权重，开发者可自行下载、部署与微调。该版本在智能体编程等任务上表现突出，被视为开源阵营对标闭源前沿模型的重要进展。随着国产大模型加速开源，更多企业与开发者能以低成本接入顶尖能力，推动AI应用生态走向繁荣与去中心化。",
+          "source": "Hacker News",
+          "source_url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+        },
+        {
+          "id": "03",
+          "title": "数据中心遭选民反制",
+          "body": "美国中期选举中，选民以压倒性多数支持限制AI与数据中心的候选人和提案。据Redbud咨询统计，十个州44项限制数据中心的措施中已有38项通过，含大量暂停令与禁令。科技巨头将这股反弹斥为反特朗普而非反科技，但分析认为这些措施将主要影响2028年后的新建项目，为美国AI算力扩张按下减速键。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "英伟达RTX固件降速",
+          "body": "实测显示，英伟达RTX Spark笔记本在Linux下因加密固件导致GPU时钟节流，AI推理速度被压低至理论值的35%。评测者指出，尽管该卡定位AI工作站，但加密固件限制了第三方驱动与系统调优空间。这一矛盾凸显消费级AI硬件在开放性与性能之间的张力，也让Linux用户对英伟达的驱动策略再度产生疑虑。",
+          "source": "Hacker News",
+          "source_url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop"
+        },
+        {
+          "id": "05",
+          "title": "AMD出货首超英特尔",
+          "body": "AMD第三季度营收达134亿美元，同比增长45%，数据中心业务几乎翻倍至85亿美元，游戏业务则大幅萎缩。公司给出第四季度约170亿美元指引，若英特尔按150至160亿美元区间收官，AMD将首次在单季营收上超越英特尔。这一里程碑标志着x86市场格局的历史性反转，也印证AI服务器需求正重塑芯片产业版图。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/"
+        },
+        {
+          "id": "06",
+          "title": "高通云AI加速卡",
+          "body": "高通发布Cloud AI 100 Ultra加速卡，功耗150瓦、搭载128GB内存、带宽达548GB/s，主打生成式AI的推理部署。相比英伟达高端GPU，该卡强调以更低成本与功耗承接云端AI工作负载。随着推理需求爆发式增长，专用加速芯片的竞争升温，为数据中心提供了在算力成本与能效之间寻求平衡的新选择。",
+          "source": "Hacker News",
+          "source_url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "CERN发现罕见粒子衰变",
+          "body": "曼彻斯特大学物理学家在CERN大型强子对撞机升级后的LHCb实验中，首次捕捉到一种极其罕见的底夸克粒子衰变证据，其发生率约为每百亿次仅一次。这项历时四十余年的搜寻，将物理学家推向探索泽普宇宙，即十万亿分之一纳米尺度的未知世界，可更精确检验标准模型并搜寻其外的新粒子与新作用力。",
+          "source": "Hacker News",
+          "source_url": "https://www.manchester.ac.uk/about/news/manchester-physicists-step-closer-to-the-zeptoverse-after-42-year-particle-search/"
+        },
+        {
+          "id": "08",
+          "title": "星际介质三维新地图",
+          "body": "新一代三维测绘技术正将银河系恒星之间的星际介质，从静态背景变为充满湍流、气泡与纤维结构的动态舞台。过去天文学家将其视为宁静背景，如今发现它不断被超新星爆发与恒星风搅动。这一转变挑战了人们对银河系演化的平静想象，为理解恒星形成与星系演化提供全新视角。",
+          "source": "Hacker News",
+          "source_url": "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/"
+        },
+        {
+          "id": "09",
+          "title": "得州蓝潮冲击SpaceX",
+          "body": "美国中期选举得州翻蓝，民主党在得州获胜，令马斯克与SpaceX的前景生变。马斯克自2020年起将个人与星链工厂深度押注得州，并公开亲近共和党。如今政治风向逆转，SpaceX在得州的补贴、监管与政商关系面临重新审视，这家商业航天巨头的得州基本盘或将遭遇政策逆风。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "DEA封禁镇痛神药",
+          "body": "美国缉毒局封禁了被部分阿片类药物使用者称为神药的化合物SR-17018。该物质由南佛罗里达大学团队发现，能镇痛却不引发呼吸抑制，还能重置吗啡耐受且无戒断症状，曾被寄望解决阿片危机。封禁令使这一潜在更安全的镇痛方向受阻，凸显监管与药物创新之间的深层张力，引发学界与患者群体广泛争议。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/health/2026/11/the-dea-banned-a-drug-some-opioid-users-called-a-miracle/"
+        },
+        {
+          "id": "11",
+          "title": "狐狸驯化改变脑区",
+          "body": "康奈尔大学团队比较了驯化、攻击性与野生狐狸的大脑，发现驯化狐狸位于脑底的腹内侧下丘脑发生变化。该区域已知驱动攻击行为、参与能量消耗决策，并与母性及社会行为相关。这项研究为理解动物驯化的神经机制提供了关键证据，也揭示攻击性等复杂行为如何在进化过程中被大脑重塑。",
+          "source": "Hacker News",
+          "source_url": "https://news.cornell.edu/stories/2026/11/wild-mild-friendly-foxes-show-changes-brain-region"
+        },
+        {
+          "id": "12",
+          "title": "Slate电动卡车试驾",
+          "body": "初创公司Slate Auto的电动卡车原型车进入实测，试驾者对其驾驶体验给出积极评价。原型车已行驶近6000英里，采用极简数字仪表与机械门把手，走平价亲民路线。若量产落地，这款面向大众市场的电动皮卡有望以低成本切入竞争激烈的美国皮卡市场，为电动化普及提供新的价格选项。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/cars/2026/11/what-i-learned-driving-the-slate-electric-truck-prototype/"
+        }
+      ]
+    }
+  ]
+}
