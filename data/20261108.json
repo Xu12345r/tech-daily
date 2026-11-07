@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-08",
+  "weekday": "周日",
+  "lunar": "农历九月三十",
+  "cover_quote": "千里之行，始于足下。—— 老子",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "OpenAI估值1.25万亿",
+          "body": "OpenAI完成新一轮融资，估值升至1.25万亿美元，本轮募得110亿美元，而3月刚以8520亿美元估值融资1220亿美元。这使其跻身全球市值最高公司之列，印证资本对生成式AI的持续狂热。OpenAI仍在寻求追加投资，总额有望达200亿美元，进一步巩固其在AI竞赛中的资金与算力优势。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
+        },
+        {
+          "id": "02",
+          "title": "Anthropic加速AI开发",
+          "body": "AI安全机构METR发布报告称，Anthropic正用AI加速打造更强的AI，其模型进步速度约为一年前的两倍，且未见放缓迹象。这印证递归自我改进正从理论走向现实，也引发研究者对AI能力快速攀升的担忧，认为这将加大安全治理难度，凸显在激烈竞争与安全约束之间取得平衡的紧迫性。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development"
+        },
+        {
+          "id": "03",
+          "title": "微软AI前沿团队解散",
+          "body": "微软研究院AI前沿团队负责人John Langford发文确认，这个约50人的团队已在9月并入微软AI部门并宣告解散。该团队2023年ChatGPT问世后成立，专注智能体研究，产出Autogen框架与Fara电脑操作智能体，还探索递归等基础能力。此举反映科技巨头将研究资源向产品侧倾斜，引发对前沿探索型基础研究前景的忧虑。",
+          "source": "Hacker News",
+          "source_url": "https://hunch.net/?p=13764006"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "英伟达芯片流向空壳公司",
+          "body": "《纽约时报》调查发现，美国商务部与英伟达在审核获准采购H200芯片的中国企业时未尽职调查，其中New Matrix虽在获批名单上，其办公室却是空壳、电线裸露。此事引发外界对出口管制执行漏洞的质疑，担心先进AI芯片仍可能流向管控对象，凸显对华芯片管制在落地执行层面面临的巨大挑战。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
+        },
+        {
+          "id": "05",
+          "title": "谷歌持仓高通押注数据中心",
+          "body": "谷歌母公司Alphabet披露，截至第三季度末持有高通约297.7万股、市值约5.48亿美元，而6月财报中尚无该持仓，消息公布后高通股价一度涨超3%。市场将其解读为谷歌押注高通向数据中心转型，高通正力推Dragonwing产品线，计划2027财年数据中心收入达50亿美元。此举折射AI推理需求正重塑芯片竞争格局。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17206"
+        },
+        {
+          "id": "06",
+          "title": "Chainalysis数据遭窃",
+          "body": "区块链分析公司Chainalysis披露，黑客在10月入侵其网络，窃取了所有用户的姓名、用户名、密码哈希与实时令牌，其客户包括美国联邦调查局、空军以及微软、Coinbase等机构。攻击者据称使用了AI智能体辅助的攻击手法。此事件凸显网络安全公司在自身防护上的脆弱性，也让执法与金融机构的敏感数据面临泄露风险。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "蓝源新格伦升级降本",
+          "body": "蓝色起源宣布对New Glenn火箭进行两项重大升级，降低制造成本并提升向地球同步轨道与月球的有效载荷投送能力，目标最终实现每年超1000次发射。公司CEO Dave Limp表示发射需求从未如此旺盛。此举旨在扩大新格伦在商业发射市场的竞争力，以应对重型火箭赛道日益激烈的争夺。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/"
+        },
+        {
+          "id": "08",
+          "title": "卫星公司自建运载火箭",
+          "body": "美国AST SpaceMobile公司因难以为其直连手机的大型卫星找到发射机会，宣布自行研发名为Blacklift的中型运载火箭，可向近地轨道投送20吨载荷，计划2028年底投入商业发射。这反映出当前发射运力紧张的行业现实，也显示卫星运营商为摆脱发射瓶颈不惜自建火箭的激进策略。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/"
+        },
+        {
+          "id": "09",
+          "title": "铀立方解德国核项目之谜",
+          "body": "一项发表在《PNAS Nexus》的研究通过分析二战德国核反应堆的铀立方体得出结论：德国核计划并非如海森堡所说仅差一点铀，而是铀与重水都严重不足，其设计根本无法造出原子弹。研究始于2013年马里兰大学物理学家收到的一枚神秘铀立方。这为持续数十年的历史争论提供了实证答案。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "脑细胞装开关治癫痫",
+          "body": "首都医科大学宣武医院联合北京脑科学与类脑研究所团队在《新英格兰医学杂志》报告，通过一次性基因递送为致痫脑区神经元装上受药物控制的开关，口服氯氮平即可抑制异常放电。3名难治性癫痫患者月均发作从4.33次降至0.33次。这是化学遗传学首次进入人体，未来有望拓展至帕金森与慢性疼痛治疗。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17207"
+        },
+        {
+          "id": "11",
+          "title": "美35年首例麻疹婴儿死亡",
+          "body": "美国威斯康星州一名婴儿死于麻疹，是该州1990年以来首例麻疹死亡病例。该州今年已有超430人感染，波及13个县，这也是本周美国第三例麻疹死亡。卫生官员强调麻疹是可通过疫苗预防的疾病，婴儿之死凸显疫苗接种率下滑带来的公共健康风险，为社区免疫防线敲响警钟。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/"
+        },
+        {
+          "id": "12",
+          "title": "上交大AI生命科学编译器",
+          "body": "上海交通大学副教授谢伟迪获首届世界顶尖科学家奖青年科学家奖，他联合创办的观壹智能已完成首轮融资，致力于打造生命科学基础模型。其设想是像编程编译器一样，让AI提出假设并经湿实验验证形成闭环，已推出罕见病诊断、肿瘤病理与虚拟细胞等模型。这为AI驱动新药发现开辟了新的技术路线。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17200"
+        }
+      ]
+    }
+  ]
+}
