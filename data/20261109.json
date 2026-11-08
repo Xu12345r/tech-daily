@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-09",
+  "weekday": "周一",
+  "lunar": "农历十月初一",
+  "cover_quote": "苟日新，日日新，又日新。——《礼记》",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "苹果加速Siri智能化",
+          "body": "苹果CEO特努斯据报正敦促AI负责人费德里吉加快Siri路线图，打造能与对手抗衡的智能体。面对谷歌、OpenAI等竞品在语音助手上的领先，苹果试图让Siri从简单指令执行升级为可自主完成任务的智能体。此举反映端侧AI竞争已从功能堆叠转向真正能干的智能体之争。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"
+        },
+        {
+          "id": "02",
+          "title": "高盛停用Claude Code",
+          "body": "高盛据报已让旗下银行家与交易员停用Claude Code编程助手，收紧AI编码工具在金融业务中的使用。在代码生成提高效率的同时，金融机构担心AI代理接触敏感数据与代码会引发合规风险。此举或为大行采用AI编程工具划定更谨慎的边界，影响企业AI落地的节奏。",
+          "source": "Hacker News",
+          "source_url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers"
+        },
+        {
+          "id": "03",
+          "title": "Claude Code泄露密钥",
+          "body": "安全研究显示，Claude Code的「Don't Ask Again」机制会默认把用户密码等机密写入仓库，导致1122个公开GitHub文件泄露凭证。AI编码工具在自动修改代码时若不慎将密钥固化，会直接造成供应链安全隐患。这提醒开发者需对AI助手生成的配置与密钥管理加倍审慎。",
+          "source": "Hacker News",
+          "source_url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "CPU无GPU跑大模型",
+          "body": "开源项目实现在64GB内存的普通电脑上、不借助GPU运行284B参数的DeepSeek大模型。通过芯片级量化与内存优化，把通常需要多张高端显卡的推理任务压缩到消费级硬件完成。这大幅降低大模型本地部署门槛，有望推动端侧AI与隐私计算加速普及。",
+          "source": "Hacker News",
+          "source_url": "https://github.com/synchopate/llama-modchip"
+        },
+        {
+          "id": "05",
+          "title": "AI自建化学实验室",
+          "body": "多伦多大学团队提出「自建实验室」方案，让AI自主判断设备与工具缺口、规划机器人动作并搭建实验流程，把科学家口述的研究目标转化为真实运行的化学实验。AI由此从执行固定流程升级为主动设计并完成实验。这有望重塑科研实验室的自动化范式，加速新材料与新药的探索。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17209"
+        },
+        {
+          "id": "06",
+          "title": "海底电缆遭船只逼近",
+          "body": "情报显示，多艘与伊朗有关的油轮近期在霍尔木兹海峡附近的海底互联网光缆上方异常徘徊，或为对水下基础设施发动攻击做准备。该海峡承载连接中东与欧亚非的六条光缆，伊拉克、科威特等国几乎完全依赖其对外联网。此举凸显海底通信设施正成为地缘博弈的软肋，引发国际社会对全球网络韧性的担忧。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "星舰十五飞双捕获",
+          "body": "SpaceX宣布星舰第15次试飞计划于11月13日进行，将首次尝试同时回收超重型助推器与星舰飞船，实现「双捕获」。若成功，将验证两级火箭全部可重复使用，显著降低发射成本。这标志着星舰朝完全可复用、高频次运输的既定目标又迈出关键一步，也为火星殖民等长期计划奠定基础。",
+          "source": "Hacker News",
+          "source_url": "https://www.spacex.com/launches/starship-flight-15"
+        },
+        {
+          "id": "08",
+          "title": "电噪声破解超导之谜",
+          "body": "德国慕尼黑大学与荷兰乌特勒支大学团队通过监听铜氧化物超导体中微弱的电流噪声，推进了对高温超导之谜的解释，聚焦「赝能隙」这一电子缺失现象。近四十年悬而未决的铜基超导机理由此获得新线索。这为理解并最终设计更高温度的超导材料提供了重要实验依据，有望推动无损输电等应用落地。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/"
+        },
+        {
+          "id": "09",
+          "title": "水燃料卫星推进技术",
+          "body": "三位曾参与猎鹰9号研制的前SpaceX工程师，正在研发以水为推进剂的卫星，利用水在月球乃至整个太阳系都可采集的特性。相较于依赖地面补给的常规推进剂，水燃料可让深空探测器就地取材、延长寿命。这一思路为低成本、可扩展的深空任务开辟了新路径，有望大幅降低深空任务成本。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/11/rocket-report-new-glenn-wont-fly-this-year-china-launches-mini-falcon-heavy/"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "阉割延长小鼠寿命",
+          "body": "美国得州大学团队在小鼠实验中发现，无论青春期前、青春期后还是相当于人类30岁的中年阶段切除睾丸，都能延长寿命，中年组中位寿命延长达32.9%。这打破了越早切除效果越好的传统假设，暗示睾丸在生命晚期分泌的物质会加速雄性衰老。成果为探究两性寿命差异的生物学机制提供新线索。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17212"
+        },
+        {
+          "id": "11",
+          "title": "谷歌AI制药再融50亿",
+          "body": "据彭博社报道，Alphabet旗下Isomorphic Labs正洽谈约50亿美元融资，估值或达500亿美元，而这家公司尚无一款药物进入人体临床试验。其AI药物设计引擎表现突出，预计年底启动首次人体临床试验。巨额融资折射资本对AI改写药物研发范式的强烈押注，但最终仍取决于临床数据。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17211"
+        },
+        {
+          "id": "12",
+          "title": "药物虚拟筛选进分钟级",
+          "body": "亚利桑那州立大学曹志超团队提出新检索系统，用四张GPU在61秒内完成五亿分子与两万多个蛋白口袋的匹配，把药物虚拟筛选从24小时推进到分钟级，召回率达99.63%。它建立在清华同类方法之上，通过量化与批量打分优化显存占用。这让研究者能频繁试错迭代靶点，加速先导药物的发现。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17208"
+        }
+      ]
+    }
+  ]
+}
