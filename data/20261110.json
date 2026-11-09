@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-10",
+  "weekday": "周二",
+  "lunar": "农历十月初二",
+  "cover_quote": "不积跬步，无以至千里。—— 荀子",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "Anthropic发布双新模型",
+          "body": "Anthropic发布Claude Fable与Mythos两个5.2版本新模型，宣称在编程、推理和视觉能力上全面提升，生成速度也快于5.1版。其中Fable 5.2擅长复杂软件工程，能编排智能体团队、推进长期项目，甚至解开了两个开放性理论物理难题。这显示大模型正从对话工具走向自主攻关硬核科研问题。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"
+        },
+        {
+          "id": "02",
+          "title": "谷歌Gemini隐私风波",
+          "body": "有开发者发现谷歌Gemini会将其个人谷歌Drive文件与邮件内容发送给人类标注员进行审查，引发隐私争议。该行为通过特定配置触发，说明云端AI在后台读取用户私人数据的边界仍不透明。这再次敲响警钟，AI助手带来便利的同时，也隐藏着用户数据被第三方人工接触的风险。",
+          "source": "Hacker News",
+          "source_url": "https://github.com/thisisme6598/gemini_files/"
+        },
+        {
+          "id": "03",
+          "title": "MIT机器人自我纠错",
+          "body": "MIT团队让机器人在行进中从多个视角观察物体，当识别出错时能自动补充新视角并修正记忆，将屋顶物体从误判的松鼠纠正为烟囱。实验显示仅需补充两个视角即可解决九成记忆错误。这一方法显著提升了机器人在真实动态环境中的感知可靠性，为人形机器人与自动驾驶落地扫清障碍。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17217"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "全球首块金刚石晶圆",
+          "body": "Diamond Foundry宣布造出全球首块200毫米单晶金刚石晶圆，历时25年攻关。金刚石是自然界导热最强的物质，远胜铜，可用于AI芯片散热，缓解高功率处理器热量集中的难题。该公司还规划2030年前量产300毫米晶圆，让金刚石从珠宝橱窗走向半导体基础设施。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17219"
+        },
+        {
+          "id": "05",
+          "title": "DeepX五瓦跑百亿模型",
+          "body": "韩国芯片创企DeepX完成第二代芯片流片，宣称可在不到5瓦功耗下运行百亿参数大模型推理，性能较上代提升六至七倍。这种端侧低功耗推理能力让AI大模型得以脱离云端、在设备本地运行。若量产兑现，将显著降低边缘AI部署成本，推动智能终端与机器人加速普及。",
+          "source": "Hacker News",
+          "source_url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/"
+        },
+        {
+          "id": "06",
+          "title": "OpenSSH漏洞遭黑客利用",
+          "body": "安全公司披露，利用OpenSSH与musl库交互缺陷的高危漏洞正遭黑客组织活跃利用，可在数秒内未授权登录Linux系统特权账户。攻击者已在东南亚发动成熟入侵并植入含中文后门。该漏洞波及大量Linux设备，提醒开源基础设施生态中，单一依赖组合也能酿成大规模安全隐患。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "美军拟建月球卫星星座",
+          "body": "美国军方发布信息征询，考虑在地月空间部署由多颗卫星组成的扩散型星座，执行未公开任务，将军事存在从地球同步轨道延伸至月球附近。这呼应了太空军高级项目主管普迪近期言论，也受特朗普行政令推动。地月空间正从科学探索区，变为大国军事竞争的新前沿，太空军备竞赛也随之升温。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/"
+        },
+        {
+          "id": "08",
+          "title": "IBM等发布量子纠错平台",
+          "body": "IBM、AMD与橡树岭国家实验室联合发布量子纠错平台，将经典计算资源与量子处理器协同，解决量子比特易受噪声干扰的核心难题。纠错是量子计算走向实用的关键瓶颈。三大机构联手整合硬件与算法，有望加速容错量子计算机的落地，巩固美国在量子竞赛中的领先地位。",
+          "source": "Hacker News",
+          "source_url": "https://www.nextplatform.com/compute/2026/11/06/ibm-amd-and-oak-ridge-unveil-quantum-error-correction-platform/"
+        },
+        {
+          "id": "09",
+          "title": "辐射供电无电池传感器",
+          "body": "美国阿肯色大学团队研制出石墨烯基能量采集器，可利用环境中的背景辐射为超低功耗温度传感器供电，无需电池即可持续工作。这种自供能方案让传感器摆脱电池更换与维护，尤其适合偏远或难以触达的工业环境。它开辟了物联网设备长期免维护运行的新路径，有望用于电网、桥梁等基础设施的长期监测。",
+          "source": "Hacker News",
+          "source_url": "https://news.uark.edu/articles/83120/ambient-radiation-used-to-power-battery-free-temperature-sensor"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "品红太阳能板利农发电",
+          "body": "研究人员发现品红色太阳能板堪称农业光伏的巧妙解法：它让红光与绿光穿透供作物光合作用，同时吸收蓝光发电，实现种植与发电两不误。相比传统不透明光伏板遮挡阳光，这一设计让农田在发电的同时保持作物产量。它有望化解光伏占地与粮食安全的矛盾，助推清洁能源扩张。",
+          "source": "Hacker News",
+          "source_url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/"
+        },
+        {
+          "id": "11",
+          "title": "动力电池回收淘金热",
+          "body": "随着全球电动汽车保有量激增，大批退役动力电池即将进入回收周期，一场围绕废旧电池的淘金热正在到来。回收其中的锂、钴、镍等关键金属，既能缓解矿产供应紧张，又能降低对新矿开采的依赖。这催生了新的循环经济产业，也让电池回收成为能源转型中的关键一环。",
+          "source": "Hacker News",
+          "source_url": "https://www.theatlantic.com/science/2026/11/electric-vehicle-battery-reuse/689326/"
+        },
+        {
+          "id": "12",
+          "title": "OpenAI发实验室基准",
+          "body": "OpenAI联合酶设计公司Ligo发布BioBasicsBench基准，整理出100项真实实验任务，将凝胶电泳图、菌落平板、显微镜图像交给AI，考察其读懂数据、发现错误的能力。这标志着AI评测从解数学题延伸到动手做实验的最后一关，将推动AI从科研助手向能独立完成湿实验的智能体演进。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17220"
+        }
+      ]
+    }
+  ]
+}
