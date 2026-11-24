@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-24",
+  "weekday": "周二",
+  "lunar": "农历十月十六",
+  "cover_quote": "长风破浪会有时，直挂云帆济沧海。—— 李白",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "LLM代理效忠厂商非用户",
+          "body": "一篇热文尖锐指出，当前大语言模型智能体实际上效忠于其母公司而非终端用户：模型的价值观、数据与行为边界都由开发者设定，用户只是被服务的对象。文章认为，随着智能体代理用户执行更多任务，这种隐性效忠关系将带来利益冲突与信任危机。这一视角引发广泛讨论，直指AI代理时代关于控制权、忠诚度与用户主权的根本问题。",
+          "source": "Hacker News",
+          "source_url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/"
+        },
+        {
+          "id": "02",
+          "title": "Anthropic跌破发行价",
+          "body": "Anthropic上市后股价承压，一度跌破83美元的发行价，令市场对AI明星公司的估值产生重新审视。尽管其Claude系列模型口碑良好，但高昂的训练成本与激烈的行业竞争，让投资者对其盈利前景趋于谨慎。这一波动折射出AI赛道从狂热追捧向理性估值回归的趋势，也考验着头部AI公司在商业化兑现上的真实成色。",
+          "source": "Hacker News",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading"
+        },
+        {
+          "id": "03",
+          "title": "Ladybird浏览器上线",
+          "body": "独立浏览器项目Ladybird宣布进入Alpha阶段，这款从零构建、不依赖任何现有浏览器引擎的产品，旨在打破Chromium与WebKit的垄断格局。项目强调性能、安全与Web标准的严格遵循，并坚持非营利运作。Ladybird的推进为互联网基础设施注入了久违的多样性，也重新点燃了关于浏览器引擎独立性与开放网络未来的讨论。",
+          "source": "Hacker News",
+          "source_url": "https://ladybird.org/posts/alpha/"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "AMD服务器芯片十年12倍",
+          "body": "评测显示，AMD新一代EPYC服务器芯片相比十年前的首代Zen架构产品，综合性能提升达12.1倍，展现了数据中心处理器惊人的代际跃迁。这一进步支撑了云计算与AI算力的爆发式需求，也印证了摩尔定律放缓后，通过架构创新与制程演进仍能持续释放性能红利。服务器芯片的迭代速度，正深刻塑造着全球算力基础设施的竞争格局。",
+          "source": "Hacker News",
+          "source_url": "https://www.phoronix.com/review/amd-epyc-9006-7601"
+        },
+        {
+          "id": "05",
+          "title": "开源项目替代Exchange",
+          "body": "开源邮件服务器Stalwart宣布已可完整替代微软Exchange，提供邮件、日历与联系人等全套企业协作功能，且部署轻量、跨平台运行。对于寻求摆脱微软生态锁定、或担忧Exchange安全漏洞频发的企业而言，这提供了一个开源自主的新选择。此举有望降低企业通信基础设施的成本与依赖，推动邮件服务器市场走向多元化竞争。",
+          "source": "Hacker News",
+          "source_url": "https://stalw.art/blog/microsoft-exchange-replacement/"
+        },
+        {
+          "id": "06",
+          "title": "Kagi推出付费邮箱服务",
+          "body": "以隐私付费搜索闻名的Kagi推出Kagi Mail公开测试版，延续其一贯的无广告、用户付费、数据隐私优先理念，为邮箱用户提供不依赖广告模式的替代方案。在主流免费邮箱以广告和数据挖掘盈利的背景下，Kagi Mail试图证明隐私付费模式同样可行。这为关注数据主权的用户提供了新选择，也助推隐私优先型互联网服务的探索。",
+          "source": "Hacker News",
+          "source_url": "https://blog.kagi.com/kagi-mail-public-beta"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "VP不等于VNP获证明",
+          "body": "Anthropic形式化数学团队公布一项成果，在任意域上证明VP不等于VNP这一代数复杂度理论的重要猜想，并已用Lean形式化验证。这是计算复杂性领域长期悬而未决的问题，其结论与著名的P与NP问题密切相关。借助AI辅助形式化证明，这一进展展示了人工智能在攻克深奥数学难题上的潜力，也标志形式化数学正成为前沿研究的可靠基石。",
+          "source": "Hacker News",
+          "source_url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp"
+        },
+        {
+          "id": "08",
+          "title": "AI让2035年提前到来",
+          "body": "一篇广为流传的文章提出，AI能力的爆发式增长让原本预想2035年才会到来的技术与社会图景提前成为现实。文章以多领域实例说明，通用人工智能的进展远超多数人的预期，正在重塑工作、经济与知识生产的底层逻辑。这一判断在社区引发强烈共鸣与争论，反映出人们对AI加速时代既兴奋又焦虑的复杂心态，也促使社会提前思考适应之道。",
+          "source": "Hacker News",
+          "source_url": "https://fzakaria.com/2026/11/23/2035-came-early"
+        },
+        {
+          "id": "09",
+          "title": "数学家回应黎曼证明质疑",
+          "body": "主导黎曼猜想形式化证明的数学家莱文特·阿尔珀格公开回应外界质疑，就证明的完整性、AI在其中扮演的角色以及同行评审流程作出说明。他强调人机协作的关键作用，并澄清了关于证明规模的争议。这一回应为公众理解AI参与的重大数学成果提供了权威注脚，也凸显了顶尖数学家与AI协作这一新范式下，学术责任与透明的重要性。",
+          "source": "Hacker News",
+          "source_url": "https://twitter.com/__alpoge__/status/2124987173439209561"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "COP31气候大会谈判破裂",
+          "body": "第31届联合国气候大会COP31以失败告终，各国在化石燃料退出路径与气候融资问题上分歧严重，未能达成有力协议。在全球升温突破1.5摄氏度目标已成定局的背景下，这一结果令国际社会对气候治理的信心进一步受挫。发达国家与发展中国家之间的责任与资金博弈持续僵持，凸显了应对气候危机在政治现实面前的巨大阻力。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/"
+        },
+        {
+          "id": "11",
+          "title": "饮酒削弱免疫疗法疗效",
+          "body": "一项发表于《科学·信号》的研究发现，饮酒会通过扰乱抗肿瘤免疫机制，显著降低癌症免疫疗法的效果。研究者揭示了酒精如何抑制免疫细胞功能，从而削弱药物对肿瘤的攻击能力。这一发现为癌症患者提供了重要的生活方式警示，也深化了对免疫系统与生活习惯之间复杂关系的理解，或推动临床治疗中纳入饮酒管理建议。",
+          "source": "Hacker News",
+          "source_url": "https://www.science.org/doi/10.1126/scisignal.aef1375"
+        },
+        {
+          "id": "12",
+          "title": "直立人曾栖居热带雨林",
+          "body": "一项古人类学研究证实，直立人曾在东南亚热带雨林中生活，并与丹尼索瓦人共存，这一发现打破了此前认为早期人类主要栖息于草原地带的传统认知。研究通过化石与古环境证据，重建了数十万年前人类适应复杂雨林生态的能力。这表明人类祖先的生态适应能力远超想象，为理解人类进化路径与迁徙历史提供了新的关键拼图。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/science/2026/11/homo-erectus-lived-in-the-rainforest-alongside-denisovans/"
+        }
+      ]
+    }
+  ]
+}

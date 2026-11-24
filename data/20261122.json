@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-22",
+  "weekday": "周日",
+  "lunar": "农历十月十四",
+  "cover_quote": "路漫漫其修远兮，吾将上下而求索。—— 屈原",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "联合国未就自主武器规则达一致",
+          "body": "联合国在日内瓦举行的外交会谈未能就监管“杀手机器人”（致命自主武器系统）的规则达成一致，谈判以失败告终。随着AI驱动的武器系统加速部署，缺乏国际约束意味着各国可继续研发无需人类干预即可开火的武器。此举引发人道主义组织强烈担忧，凸显全球AI军控治理的紧迫性与困境。",
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+        },
+        {
+          "id": "02",
+          "title": "谷歌搜索首页改版引入AI对话",
+          "body": "谷歌正式向桌面端推出全新搜索首页，移除沿用多年的搜索按钮，在搜索框下方新增AI图像生成、文件分析和与Gemini对话等入口。这标志着谷歌核心搜索体验加速向AI助手形态转型，用户与信息的交互从“输入关键词看结果”转向“直接对话与创作”。此举或重塑数亿用户的搜索习惯与数字广告生态。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/"
+        },
+        {
+          "id": "03",
+          "title": "开源轻量模型可本机运行",
+          "body": "AI公司Thinking Machines Lab发布开源权重轻量模型Inkling 2 Mini，体积小到可在笔记本上运行。其核心技术是循环重复中间层，使每个token承载更多推理、用更少token得出答案。该模型在Hacker News上引发热议，大幅降低了先进AI模型的本地部署门槛，让开发者在个人设备上即可运行高性能模型。",
+          "source": "Hacker News",
+          "source_url": "https://thinkingmachines.ai/news/inkling-2-mini/"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "全球PCB供应告急殃及多产业",
+          "body": "全球电子协会发出警告，AI服务器对高端电路板（PCB）的激增需求正引发堪比2021年芯片危机的大短缺。AI服务器电路板层数从12层暴增至60层，科技巨头提前锁定产能，导致汽车、医疗和国防产业面临断供风险，高端板交货期延至16至20周。欧美本土产能合计不足全球6%，凸显供应链过度集中的风险。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17272"
+        },
+        {
+          "id": "05",
+          "title": "沐曦GPU适配腾讯混元大模型",
+          "body": "国产GPU厂商沐曦股份宣布，其曦云C系列GPU率先完成腾讯混元大模型Hy4的“Day 0”适配，实现新模型发布当天即可在国产算力上运行。这标志着国产AI芯片在支持前沿大模型方面取得关键进展，有助于降低国内AI训练与推理对英伟达等进口芯片的依赖，加速国产算力生态走向成熟。",
+          "source": "36Kr",
+          "source_url": "https://36kr.com/newsflashes/4079148232168323"
+        },
+        {
+          "id": "06",
+          "title": "GnuPG曝远程代码执行漏洞",
+          "body": "开源加密软件GnuPG发布安全公告，其核心组件GPGME存在严重双重释放漏洞（CVE-2026-129975），攻击者可通过构造超长用户ID的密钥触发，实现数据窃取甚至远程代码执行。该漏洞影响此前所有版本，由GitLab报告。由于GnuPG广泛用于邮件加密与软件签名验证，用户被建议立即升级到2.3.1版本。",
+          "source": "Hacker News",
+          "source_url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "NASA新登月计划存关键疑问",
+          "body": "SpaceX上周成功回收星舰飞船，为NASA重返月球计划扫清一大障碍，使更高频发射和明年关键的轨道加注演示成为可能。NASA计划明年初启用肯尼迪航天中心第二座星舰发射台并新建第二工厂。不过，登月任务时间表、星舰深空版改造进度等关键问题仍待解答，阿尔忒弥斯计划能否按期推进充满变数。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/"
+        },
+        {
+          "id": "08",
+          "title": "SpaceX贷款人忧芯片上天",
+          "body": "报道称，为SpaceX最新430亿美元债务提供贷款的机构正设法阻止马斯克将作为抵押品的先进AI芯片发射入轨，用于其“太空数据中心”计划。SpaceX宣称这些芯片将留在地面使用，但贷款方担心一旦芯片被送入太空，发生违约时将无法回收变卖。这一分歧揭示了SpaceX激进扩张与金融风险控制之间的张力。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/"
+        },
+        {
+          "id": "09",
+          "title": "Stoke发动机测试获里程碑",
+          "body": "美国商业航天公司Stoke Space披露，其新一代火箭发动机在测试中取得关键里程碑。Stoke正致力于研发完全可复用的两级火箭，目标是大幅降低入轨成本。随着SpaceX实现星舰回收、ULA遭遇火神火箭首败，美国发射市场格局加速分化，新兴力量的技术突破正重塑商业航天的竞争版图。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "AI制药做成Token生意",
+          "body": "由MIT研究人员创办的AI制药公司Boltz完成1.1亿美元A轮融资，其模式不自己研发药物，而是像大语言模型一样按“分子Token”使用量向药企出售分子设计能力，已与辉瑞等六大药企合作。这标志着AI制药从自研管线转向按需计费的计算服务，降低了药企研发门槛，开辟了全新商业模式。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17270"
+        },
+        {
+          "id": "11",
+          "title": "口服胰腺癌新药获评大突破",
+          "body": "一款名为daraxonrasib的口服胰腺癌新药在临床试验中取得突破性疗效，被医学界称为“数十年来最大突破”。胰腺癌是最凶险的癌症之一，五年生存率仅约12%，长期缺乏有效的靶向疗法。该药通过抑制KRAS基因突变驱动的肿瘤生长发挥作用，若后续试验验证顺利，有望改写这一难治癌症的治疗格局。",
+          "source": "Hacker News",
+          "source_url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib"
+        },
+        {
+          "id": "12",
+          "title": "联合国气候大会COP31看点",
+          "body": "第31届联合国气候大会（COP31）在土耳其安塔利亚举行，今年美国连续第二年缺席，并已正式宣布退出《巴黎协定》。化石燃料退出路径与气候融资成为谈判焦点，主办方提出到2035年将电力占能源消费比重提升至35%的倡议。在全球升温突破1.5℃目标已成定局的背景下，大会能否取得实质进展备受关注。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17257"
+        }
+      ]
+    }
+  ]
+}
