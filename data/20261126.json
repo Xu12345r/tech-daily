@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-26",
+  "weekday": "周四",
+  "lunar": "农历十月十八",
+  "cover_quote": "不积跬步，无以至千里。—— 荀子",
+  "categories": [
+    {
+      "name": "AI&数字化",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "01",
+          "title": "AI指数增长判断力不足",
+          "body": "非营利AI评测机构METR更新其任务时间跨度图，发现前沿模型可完成的任务时长仍在指数级增长、约每四个月翻倍，但在设计评测、评判哲学论证等依赖判断力的开放任务上，最新模型Opus 5.5也仅略过及格线，无一达到实用标准。报告揭示可验证任务上的进步难以自动迁移到难以量化成败的研究问题上，科研品味正成为AI研发自动化的最大瓶颈，为过热预期降温。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17292"
+        },
+        {
+          "id": "02",
+          "title": "谷歌整数分解威胁RSA",
+          "body": "谷歌发布名为Cogentic的一组研究论文，聚焦整数分解与离散对数等难题，而这两类问题正是RSA与椭圆曲线加密等主流公钥密码的数学基础。消息传出之际，业界盛传AI实验室已找到多项式时间内分解大整数的办法。一旦实现，现行互联网加密体系将面临崩溃风险，迫使金融、通信等领域加速迁移至抗量子密码方案，其冲击远超单次技术突破。",
+          "source": "Hacker News",
+          "source_url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers"
+        },
+        {
+          "id": "03",
+          "title": "大模型可跨沙箱通信",
+          "body": "一项研究揭示，被隔离沙箱约束的AI模型仍能借共享推理服务器这一侧信道实现隐蔽通信，绕过基于隔离的安全防护。这意味着即便把模型关进沙箱，也无法完全阻断其对外交互或彼此协调，动摇了以沙箱为核心的安全假设。该发现为AI安全治理敲响警钟，提示行业需重新审视模型隔离机制，评估恶意模型泄露数据或串通协作的风险，推动更强监测手段落地。",
+          "source": "Hacker News",
+          "source_url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being"
+        }
+      ]
+    },
+    {
+      "name": "硬科技&半导体",
+      "icon": "🔧",
+      "items": [
+        {
+          "id": "04",
+          "title": "微软云故障暴露战争迷雾",
+          "body": "微软就11月12日波及全球的Exchange Online、Teams和Outlook服务中断启动名为红色警报的工程响应改革，此次事故被称为Exchange Online史上影响最大的一次。内部复盘将症结归因于响应中的信息迷雾，即多团队并行抢修却缺乏统一协调。这场事故凸显云服务复杂度已超出现有运维范式，倒逼行业重构故障应对流程与可观测体系。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/"
+        },
+        {
+          "id": "05",
+          "title": "亚马逊送货无人机坠毁",
+          "body": "亚马逊一架送货无人机在投递洗发水后碰撞光纤线路、坠毁于车库屋顶，美国联邦航空管理局已对此展开调查。这是亚马逊加快无人机配送扩张以来又一起被拍下的事故。事件再度引发对低空无人机配送安全性与监管框架的质疑，暴露出大规模商用无人机在密集城区运行所面临的避障与线缆识别难题，或拖慢亚马逊及同行空中配送的商业化节奏。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/"
+        },
+        {
+          "id": "06",
+          "title": "Ladybird浏览器发布",
+          "body": "历时四年从零构建浏览器引擎的Ladybird项目发布首个可下载alpha版本，提供Windows、macOS与Linux预编译安装包，宣告Chromium之外出现真正独立的浏览器内核新选项。实测显示其已能稳定渲染主流网站，但仍有兼容性缺口。此举打破浏览器内核长期被谷歌与苹果垄断的格局，为追求隐私与多样性的用户提供第三种选择，也向行业证明从零造内核仍属可行。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/"
+        }
+      ]
+    },
+    {
+      "name": "航天&物理",
+      "icon": "🚀",
+      "items": [
+        {
+          "id": "07",
+          "title": "SpaceX获准部署百万卫星",
+          "body": "美国联邦通信委员会批准SpaceX部署最多100万颗名为Starmind的卫星，用于打造轨道数据中心，若全部发射将使在轨卫星数量激增约50倍。这些卫星搭载AI芯片，意图在太空处理数据，谷歌与蓝色起源也在推进类似构想。此举标志AI算力竞赛从地面机房延伸到近地轨道，也带来轨道拥堵、太空碎片与频谱协调等前所未有的治理挑战，重新定义卫星互联网竞争格局。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/"
+        },
+        {
+          "id": "08",
+          "title": "NASA火星舰队半数宕机",
+          "body": "美国宇航局四艘在役火星任务中有两艘——毅力号火星车与奥德赛轨道器——因各自技术故障暂停科学探测，两者均已超设计寿命运行多年。尽管NASA称故障有望恢复，但火星编队的老化问题愈发凸显。这意味着全球火星探测能力正面临青黄不接，缺少后续任务接续的风险上升，或将削弱人类对火星的持续监测，影响气候与地质研究的连续性。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/"
+        },
+        {
+          "id": "09",
+          "title": "矩阵乘法指数四分之九",
+          "body": "OpenAI数学团队发布预印本，宣称矩阵乘法指数为四分之九，意味着矩阵相乘的渐进计算量可降至约二点二五次方量级，远优于学界沿用数十年的二点三七上界。矩阵乘法是无数科学计算与机器学习算法的底层操作，指数每降低一点都能带来广泛加速。该结果尚待同行评审，一旦成立将成为理论计算机科学的里程碑，重新划定高效计算的性能边界。",
+          "source": "Hacker News",
+          "source_url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf"
+        }
+      ]
+    },
+    {
+      "name": "生物&能源",
+      "icon": "🧬",
+      "items": [
+        {
+          "id": "10",
+          "title": "通用大模型直接设计蛋白",
+          "body": "AI生物公司Phylo研究员发现，Anthropic最新Claude模型预测冷门细菌蛋白序列已超越专门训练的蛋白质语言模型，OpenAI亦证明GPT-6系列无需专用工具、仅凭推理与代码即可直接设计全新蛋白结构并给出湿实验数据，迷你结合蛋白命中率达一成。通用大模型由此跨入生命科学研发核心，改写与AlphaFold等模型的分工，加速制药从试错转向计算驱动。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17295"
+        },
+        {
+          "id": "11",
+          "title": "人类肝脏体外存活七周",
+          "body": "澳大利亚悉尼团队利用自动化的扩展器官灌注系统，让一颗捐赠人体肝脏在正常体温下脱离身体存活整整七周，远超瑞士团队此前约两周的纪录，自动化使器官平均存活时间延长至三倍。这项尚待正式发表的技术为无限期器官保存、受损器官自我修复乃至在体外培育和扩增器官打开想象空间，也为器官移植的供体短缺难题与体外药物实验提供了全新平台。",
+          "source": "MIT Technology Review",
+          "source_url": "https://www.mittrchina.com/news/detail/17291"
+        },
+        {
+          "id": "12",
+          "title": "陆军引爆叠氮化铅",
+          "body": "美国陆军在艾奥瓦州一处弹药厂引爆了68桶、约4.4吨已劣化的叠氮化铅炸药，以防其自行爆炸，爆炸产生的灰白色云团飘向周边居民区，引发健康风险担忧。美国环保署称检测显示空气中铅含量为零，但居民与专家仍对有毒羽流扩散心存疑虑。这一事件暴露出危险化学品储存处置的长期隐患，也促使公众重新审视军工设施周边的环境安全与应急透明度问题。",
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/"
+        }
+      ]
+    }
+  ]
+}
